@@ -4206,3 +4206,144 @@ zwischen	사이에		Zwischen dem 10 und dem 15.12. wird die Praxis renoviert.
 5. Meine Nachbarn singen immer in der Nacht.
 ```
 
+------
+
+### Lektion 12. 수동태
+
+```
+1. 능동문과 수동문의 비교
+2. 수동문 불가 문장
+3. 수동의 형태와 시제
+```
+
+```
+			능동문										수동문
+---------------------------------------------
+    행위자 중요						동작 및 행위 부각
+	Wer macht das?				 Was passiert?
+		일반대화					 사용설명서, 작업지침서 등등
+	
+```
+
+```
+- 수동문 불가 문장
+
+sein 과 결합하는 현재안료
+ : Ich bin nach Hause gekommen.
+ 
+재귀동사
+ : Ich wasche mich.
+ 
+적극 행위가 없는 주어
+ : Ich bekomme Blumen.
+```
+
+```
+- 수동의 형태와 시제
+
+			능동										수동
+------------------------------------------------------
+동사 ( waschen )				werden ... p.p. ( gewaschen )
+4격 목적어 (das Auto)		 1격 주어 ( das Auto )
+주어 ( 행위자 )					 von + Dat. ( 일반적으로 생략 )
+주어 : man (사람들은)			생략
+4격 목적어 (x)					 주어 : es ( 거의 다른 문장성분이 위치 )
+```
+
+```
+- werden 의 인칭변화
+
+현재 : werden ... p.p.
+과거 : wurde ... p.p.
+
+				werden						wurde
+-----------------------------------------
+ich			werde							wurde
+du			wirst							wurdest
+er			wird							wurde
+wir			werden						wurden
+ihr			werdet						wurdet
+Sie			werden						wurden
+
+
+			Pos.1					Pos.2					Mittelfeld									Satzende
+-----------------------------------------------------------------------------------
+능동	 누가,					~한다				언제, 어떻게, 어디서								P.P
+		 무엇이												누구를, 무엇을									분리전철, 동사원형
+
+수동	 누가,					~된다				언제, 어떻게, 어디서								P.P
+		 무엇이					werden			(누구(무엇)에 의해)
+		 
+		 
+- 수동의 문장 구조
+
+1. werden ... p.p
+	: Die Oma putzt das Fenster.
+	-> Das Fenster wird (von der Oma) geputzt.
+	
+2. 4격 - 1격
+	: Der Arzt operiert den Patienten.
+	-> Der Patient wird (vom Arzt) operiert.
+	
+3. 1격 - von 직접적 행위자 및 원인 / durch 간접적 행위자 및 원인 (자연현상)
+	: Der Kellner bringt gleich dem Kunden die Nachspeise.
+	-> Die Nachspeise wird gleich dem Kunden (vom Kellner) gebracht.
+	
+4. 분리동사
+	: Mein Freund lädt mich zu seinem Geburtstag ein.
+	-> Ich werde zum Geburtstag (von meinem Freund) eingeladen.
+	-> Ich werde zum Geburtstag meines Freundes eingeladen.
+	
+5. man - 생략
+	: Man bringt das Kind ins Krankenhaus.
+	-> Das Kind wird ins Krankenhaus gebracht.
+	
+6. 4격(x) - es
+	: Die Kinder helfen der Frau.
+	-> Es wird der Frau von den Kindern geholfen.
+	-> Der Frau wird geholfen.
+	
+	: Man arbeitet am Wochenende nicht.
+	-> Es wird am Wochenende nicht gearbeitet.
+	-> Am Wochenende wird nicht gearbeitet.
+	
+	: Heute Abend wird getanzt. (수동)
+	-> Man tanzt Heute Abend. (능동)
+		
+```
+
+```
+- 수동의 시제
+
+(미래 : werden ... p.p werden)
+현재 : werden ... p.p
+과거 : wurde ... p.p
+현완 : sein ... p.p + worden
+과완 : war ... p.p + worden
+
+현재 : Das Auto wird vom Vater gewaschen.
+과거 : Das Auto wurde vom Vater gewaschen.
+현완 : Das Auto ist vom Vater gewaschen worden.
+과완 : Das Auto war vom Vater gewaschen worden.
+
+현완 : Der Vater hat das Auto gewaschen.
+
+
+```
+
+```
+- 연습문제
+
+1. Mein Schwester sucht wieder das Heft.
+	-> Das Heft wird wieder (von meiner Schwester) gesucht.
+	
+2. Ihm wurde von niemandem geholfen.
+	-> Niemand half ihm.
+  
+3. Hier wird Deutsch gesprochen.
+	-> Man spricht hier Deutsch.
+	
+4. Wir sprechen über das Problem.
+	-> Über das Problem wird (von uns) gesprochen.
+```
+
