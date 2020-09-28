@@ -330,3 +330,30 @@ regelmäßig einen Film gucken.
 
 ------
 
+### Lektion 17.  die Stärke (언어 및 말에 관련된 특기 표현)
+
+```
+die Stärke : 특기
+sprechen : 말하다
+aussprechen : 발음하다
+die Aussprache : 발음
+die Fremdsprache : 외국어
+das Französisch : 프랑스어
+das Chinesisch : 중국어
+das Polnisch : 폴란드어
+fließend : 유창하게
+ansprechen + 4격(를): 말을 걸다
+fremd : 낯선
+ander : 다른
+der Ausländer : 외국인
+
+eine Fremdsprache sprechen
+fließend Chinesisch sprechen
+Französisch aussprechen
+Polnisch gut sprechen
+einen Ausländer ansprechen
+andere Leute ansprechen
+
+
+```
+
