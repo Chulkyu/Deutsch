@@ -357,3 +357,37 @@ andere Leute ansprechen
 
 ```
 
+------
+
+### Lektion 18. der Schlaf ( 잠 )
+
+```
+ausschlafen : 푹자다
+verschlafen : 늦잠자다
+einschlafen : 잠들다
+spät : 늦게
+früh : 일찍
+zu viel : 너무 많이
+deswegen : 그래서
+deshalb : 그래서
+müde : 피곤한
+anstrengend : 힘든
+dringend : 급히, 간절히, 즉각적으로
+eilig : 서둘러, 서두르는
+
+피곤해서 푹 자다.
+ : müde, deswegen ausschlafen
+피곤해서 늦잠 자다.
+ : müde, deshalb verschlafen
+늦잠 자서 서두르다.
+ : verschlafen, deswegen eilig
+일찍 잠에 들다.
+ : früh einschlafen
+늦게 잠에 들다.
+ : spät einschlafen
+간절하게 잠을 필요로 하다.
+ : dringend den Schlaf brauchen
+```
+
+
+
