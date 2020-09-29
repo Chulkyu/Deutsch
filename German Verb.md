@@ -939,5 +939,57 @@ Sara und Markus lieben sich (einander (서로)).
 
 ```
 
+------
 
+### Lektion 19. 재귀동사2
+
+```
+- 재귀동사로만 쓰이는 재귀동사 -> 진짜(참) 재귀동사
+
+- 주어와 재귀대명사가 가리키는 사람이 일치해야만 하는 동사
+- 주로 특정 전치사를 취함
+- (암기 필요)
+
+	대명사						재귀대명사
+------------------------------
+	ich						mir / mich
+	du						dir / dich
+er/sie/es					sich
+	wir							uns
+	ihr							euch
+sie/Sie						sich
+
+s.beeilen : 서두르다
+	: Ich beeile mich, um einen Platz zu bekommen.
+s.ausruhen : 쉬다
+	: Gute Besserung ! Ruhen Sie sich gut aus.
+	: Ich ruhe mich aus.
+s.bewerben um + 4격 : ~에 지원하다
+	: Er bewirbt sich um die Stelle von der Firma A.
+s.konzentrieren auf + 4격 : ~에 집중하다
+	: Er hat sich auf das Lernen konzentriert.
+s.erholen : 휴양하다
+	: Wir haben uns am Meer erholt.
+
+```
+
+```
+- 3격을 취하는 재귀동사
+
+s.Sorge machen : 걱정하다
+	: Meine Mutter macht sich immer Sorgen, wenn ich ausgehe.
+		Ich mache mir aber keine Sorge.
+s.überlegen : ~을 심사숙고하다
+	: Er hat mir einen Vorschlag gegeben.
+		Ich überlege es mir jetzt.
+s.vorstellen : 소개하다 / 상상하다
+	: Sie stellt sich die Situation vor.
+		Der Lehrer stellt uns die neue Lehrerin vor.
+s.ansehen : ~를 관람하다
+	: Wir haben uns die Stadt angesehen.
+		Ich habe mir die Stadt angesehen.
+		Ich sehe mir einen Film an.
+s.anschauen : 관람하다 
+
+```
 
