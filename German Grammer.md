@@ -4347,3 +4347,179 @@ Sie			werden						wurden
 	-> Über das Problem wird (von uns) gesprochen.
 ```
 
+------
+
+### Lektion 13. 수동태2 ( Passiv )
+
+```
+1. 상태수동(Zustandspassiv)과 동작수동(Vorgangspassiv)의 차이 및 시제
+2. 화법조동사와 함께 쓰이는 수동문 및 시제
+```
+
+```
+- 상태수동의 비교
+
+a. 동작 수동 - 과정, 행위 묘사
+	: Der Patient wird operiert. (현재)
+	: Die Fenster werden jetzt geputzt. (현재)
+	
+b. 상태 수동 - 과정의 종료 (~한 상태)
+	: Der Patient ist operiert. (현재)
+	: Die Fenster sind schon geputzt. (현재)
+	
+```
+
+```
+- 상태수동의 특징
+
+a. 동작수동 성립 -> 상태수동 가능
+Die Tür wird geöffnet. -> Die Tür ist geöffnet.
+Das Auto wird geparkt. -> Das Auto ist geparkt.
+
+b. 현재완료형과 구분할 것
+Ein Autounfall ist passiert. (현재완료)
+Ein Autounfall wird passiert.(x)
+Das Kind ist zur Schule gegangen. (현재완료)
+Der Zug ist schon gefahren. (현재완료)
+
+행위의 결과 및 상태 - 형용사로 대체 가능
+
+```
+
+```
+- 상태수동의 시제
+
+			Pos.1			Pos.2				Mittelfeld		Satzende			
+미래						werden				......				 p.p				sein
+현재							sein				......				 p.p			
+과거							war					......				 p.p
+현완							sein				......				 p.p				gewesen
+과완							war					......				 p.p				gewesen
+
+```
+
+```
+- 동작 및 상태 수동
+
+a. 동작 및 상태 수동
+Die Frau repariert das Auto. (능동문 현재)
+Das Auto wird (von der Frau) repariert. (동작 수동문 현재)
+Das Auto ist repariert. (상태 수동문 현재)
+Das Auto ist nicht mehr kaputt.
+
+b. 동작 및 상태 수동
+Ich wasche die Wäsche. (능동문 현재)
+Die Wäsche wird (von mir) gewaschen. (동작 수동문 현재)
+Die Wäsche ist gewaschen. (상태 수동문 현재)
+Die Wäsche ist sauber. <-> schmutzig
+
+c. 동작 및 상태 수동
+Der Doktor operiert den Patienten. (능동문 현재)
+Der Patient wird operiert. (동작 수동문 현재)
+Der Patient ist operiert. (상태 수동문 현재)
+Der Patient ist jetzt wieder gesund.
+
+```
+
+```
+- 화법조동사와 함께 쓰이는 수동문 ( 화 + p.p + werden )
+
+저 자동차는 수리되어야 해.
+능동 : Man muss das Auto reparieren.
+수동 : Das Auto muss repariert werden.
+
+이 창문은 열릴 수 있다.
+능동 : Man kann das Fenster aufmachen.
+수동 : Das Fenster kann aufgemacht werden.
+
+```
+
+```
+- 화법 조동사가 있는 수동문장 구조 (현재)
+	
+- 수동태 만들시
+능동문의 4격 목적어만 주어로 올 수 있다.
+-> 3격일시 가주어 Es.
+
+Modalverb + Partizip 2 + werden
+
+능동 : Nadine muss die Wäsche waschen.
+수동 : Die Wäsche muss (von Nadine) gewaschen werden.
+
+능동 : Nadine konnte ihrer Freundin helfen.
+수동 : Es konnte ihrer Freundin (von Nadine) geholfen werden.
+		: Ihrer Freundin konnte (von Nadine) geholfen werden.
+		
+- 현재
+능동 : Die Studenten müssen das Buch lesen.
+수동 : Das Buch muss (von den Studenten) gelesen werden.
+
+능동 : Man kann im Park grillen.
+수동 : Im Park kann gegrillt werden.
+
+능동 : Man kann diese Aufgabe leicht lösen.
+수동 : Diese Aufgabe kann leicht gelöst werden.
+
+- 과거
+능동 : Die Studenten mussten das Buch lesen.
+수동 : Das Buch musste (von den Studenten) gelesen werden.
+
+능동 : Man konnte im Park grillen.
+수동 : Im Park konnte gegrillt werden.
+
+능동 : Man konnte diese Aufgabe leicht lösen.
+수동 : Diese Aufgabe konnte leicht gelöst werden.
+
+- 현재완료
+능동 : Die Studenten haben das Buch lesen müssen.
+수동 : Das Buch hat (von den Studenten) gelesen werden müssen.
+
+능동 : Man hat im Park grillen können.
+수동 : Im Park hat gegrillt werden können.
+
+능동 : Man hat diese Aufgabe leicht lösen können.
+수동 : Diese Aufgabe hat leicht gelöst werden können.
+
+```
+
+```
+- 수동의 가능 문장
+
+lassen sich ... R		-->		man kann ... R
+sein ... zu nf		-->		können ... p.p. werden
+
+Man kann den Koffer leicht tragen.
+Der Koffer kann leicht getragen werden.
+Der Koffer lässt sich leicht tragen.
+Der Koffer ist leicht zu tragen.
+Der Koffer ist leicht tragbar.
+
+Man kann den Wagen leicht reparieren.
+Der Wagen kann leicht repariert werden.
+Der Wagen lässt sich leicht reparieren.
+Der Wagen ist leicht reparierbar.
+
+```
+
+```
+- 연습문제
+
+1. Es darf hier geraucht werden.
+-> Man darf hier rauchen.
+
+2. Der Text musste von ihr übersetzt werden.
+-> Sie musste den Text übersetzen.
+
+3. 그는 진찰 받아야만 했다.
+	: Er musste untersucht werden.
+ -> Er hat untersucht werden müssen.
+ -> Man musste ihn untersuchen.
+ -> Man hat ihn untersuchen müssen.
+ 
+4. Mann kann die Kinder sofort vom Kindergarten abholen.
+-> Die Kinder können sofort vom Kindergarten abgeholt werden.
+
+5. Die Kinder lassen sich vom Kindergarten abholen.
+-> Die Kinder sind vom Kindergarten abzuholen.
+```
+

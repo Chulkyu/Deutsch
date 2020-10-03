@@ -945,7 +945,7 @@ Höchsttemperaturen : 최고온도
 
 A : Nun Zum Wetterbericht. In München regnet es morgen den
 
-​	 ganzen Tag. In Frankfurt ist es bewölk, aber am Nachmittag
+​	 ganzen Tag. In Frankfurt ist es bewölkt, aber am Nachmittag
 
 ​	 scheint die Sonne wieder.
 
@@ -992,6 +992,7 @@ teilnehmen + an : 참가하다
 n.Lied : 노래
 pl.Lieder : 노래들
 * per Email : email 로
+bzw. : 혹은, 또는 / beziehungsweise
 ```
 
 A : Sind Sie ein großer Fan von Pop-Musik?
