@@ -794,7 +794,7 @@ Gute Nacht!
 
 ------
 
-### Lektion 17. 자동사
+### Lektion 13. 자동사
 
 ```
 - 목적어가 없어도 되는 동사
@@ -863,7 +863,7 @@ Jutta	/	liegen / Bett
 
 ------
 
-### Lektion 18. 재귀동사
+### Lektion 14. 재귀동사
 
 ```
 - 재귀동사
@@ -941,7 +941,7 @@ Sara und Markus lieben sich (einander (서로)).
 
 ------
 
-### Lektion 19. 재귀동사2
+### Lektion 15. 재귀동사2
 
 ```
 - 재귀동사로만 쓰이는 재귀동사 -> 진짜(참) 재귀동사
@@ -990,6 +990,109 @@ s.ansehen : ~를 관람하다
 		Ich habe mir die Stadt angesehen.
 		Ich sehe mir einen Film an.
 s.anschauen : 관람하다 
+
+```
+
+------
+
+### Lektion 16. 화법조동사1
+
+```
+- 화법조동사란?
+- 화법조동사 können / müssen
+
+- 영어의 '조동사'와 같은 개념
+- 동사 원형과 결합
+- 주동사 자리에 위치
+```
+
+```
+- 화법조동사의 특징
+
+- 주동사로서 쓸 수도 있다.
+- 1인칭단수 = 3인칭단수
+- 동사 원형 문장 마지막으로 후치
+```
+
+```
+können
+
+ich - kann
+du - kannst
+er - kann
+wir - können
+ihr - könnt
+Sie - können
+
+Ich kann Deutsch (sprechen). (주동사로서 쓰일 때)
+Du kannst Deutsch (sprechen).
+Er kann Deutsch (sprechen).
+
+- können 일반과거
+
+ich - konnte
+du - konntest
+er - konnte
+wir - konnten
+ihr - konntet
+Sie - konnten
+
+Ich konnte Deutsch sprechen.
+Du konntest Deutsch sprechen.
+Er konnte Deutsch sprechen.
+
+- können 과거분사
+
+ich - habe gekonnt
+du - hast gekonnt
+er - hat gekonnt
+wir - haben gekonnt
+ihr - habt gekonnt
+Sie - haben gekonnt
+
+Ich habe Deutsch gekonnt.
+Ich habe Deutsch sprechen können.
+(조동사 앞에 동사원형이 오면 조동사도 원형으로 쓴다.)
+
+```
+
+```
+müssen
+
+- 순수한 / 강력한 의무
+- 강한 추측
+
+ich - muss
+du - musst
+er - muss
+wir - müssen
+ihr - müsst
+Sie - müssen
+
+Ich muss nach Hause (gehen).
+Du musst nach Hause (gehen).
+Er muss nach Hause (gehen).
+
+- müssen 일반과거
+
+ich - musste
+du - musstest
+er - musste
+wir - mussten
+ihr - musstet
+Sie - mussten
+
+- müssen 과거분사
+
+ich - habe gemusst
+du - hast gemusst
+er - hat gemusst
+wir - haben gemusst
+ihr - habt gemusst
+Sie - haben gemusst
+
+Ich habe nach Hause gemusst.
+Ich habe nach Hause gehen müssen.
 
 ```
 
