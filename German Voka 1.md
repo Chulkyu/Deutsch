@@ -389,5 +389,81 @@ eilig : 서둘러, 서두르는
  : dringend den Schlaf brauchen
 ```
 
+------
 
+### Lektion 19. am Morgen
+
+```
+am Morgen : 아침에
+morgen am Morgen : 내일 아침에
+aufstehen : 일어나다
+aufwachen : 깨다
+pünktlich : 정시에
+genau : 정확한
+spazieren : 산책하다
+laufen : 뛰다
+frühstücken : 아침식사하다
+das Frühstück : 아침식사
+das Brot : 빵
+das Brötchen : 작은빵
+움라우트 + chen = 축소형 어미 --> 항상 중성 !
+die Butter : 버터
+das Müsli : 뮤즐리(곡물 말린 것)
+das Spiegelei : 계란후라이
+das Ei : 달걀
+die Eier : 달걀들
+
+
+늦게 일어나다
+ : spät aufstehen = verschlafen
+일찍 일어나다
+ : früh aufstehen
+정시에 깨다
+ : pünktlich aufwachen
+정확히 깨다
+ : genau aufwachen
+ 
+아침에 산책하다
+ : am Morgen spazieren
+일찍 산책하다 
+ : früh spazieren
+매일 뛰다
+ : jeden Tag laufen
+정기적으로 뛰다
+ : regelmäßig laufen
+ 
+아침식사로 ~을 먹다.
+ : zum Frühstück ~ essen
+빵으로 아침식사하다.
+ : mit Brot frühstücken
+작은빵으로 아침식사하다
+ : mit Brötchen frühstücken
+계란후라이로 아침식사하다
+ : mit Spiegelei frühstücken
+빵을 버터와 함께
+ : Brot mit Butter
+작은빵을 버터와 함께
+ : Brötchen mit Butter
+
+아침에 일어나다.
+ : am Morgen aufstehen.
+아침에 일찍 깨다.
+ : am Morgen früh aufwachen.
+정시에 일어나다.
+ : pünktlich aufstehen.
+정확히 7시에 일어나다.
+ : genau um 7 Uhr aufstehen.
+매일 아침에 산책하다.
+ : jeden Morgen spazieren.
+아침에 뛰다.
+ : am Morgen laufen.
+정확히 8시에 아침식사 하다.
+ : genau um 8 Uhr frühstücken.
+아침식사로 빵을 먹다.
+ : zum Frühstück ein Brot essen.
+계란후라이와 작은 빵을 먹다.
+ : ein Brötschen mit Spiegelei essen.
+ 
+ 
+```
 
