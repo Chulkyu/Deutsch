@@ -464,6 +464,61 @@ die Eier : 달걀들
 계란후라이와 작은 빵을 먹다.
  : ein Brötschen mit Spiegelei essen.
  
- 
+```
+
+------
+
+### Lektion 20. zur Arbeit
+
+```
+zur Arbeit : 일하러 가다.
+fahren : 타고 가다.
+das Rad : 바퀴
+das Fahrrad : 자전거
+das Motorrad : 오토바이
+das Auto : 자동차
+der Ski[sii] : 스키
+
+Ski fahren
+Auto fahren : 운전해서 가다.
+mit dem Auto fahren : 차로 이동하다.(운전/동승 확실하지 않음)
+
+einsteigen : 승차하다
+aussteigen : 하차하다
+umsteigen : 환승하다
+die U-Bahn : 지하철
+der Bus : 버스
+aus + 3격 : ~ 밖으로, ~로 부터
+
+in die U-Bahn einsteigen
+in den Bus einsteigen
+in den Zug einsteigen
+in das Auto einsteigen
+
+aus der U-Bahn aussteigen
+aus dem Bus aussteigen
+aus dem Zug aussteigen
+aus dem Auto aussteigen
+zu/aus + 항상 3격(이동의 의미라도)
+
+in Berlin umsteigen
+
+자전거를 타고 출근하다.
+ : zur Arbeit mit dem Fahrrad fahren
+스키를 타다.
+ : Ski fahren.
+자동차를 몰다.
+ : ein Auto fahren.
+지하철로 가다.
+ : mit der U-Bahn fahren.
+부산까지 자동차로 가다.
+ : nach Busan mit dem Auto fahren.
+베를린에서 갈아타다.
+ : in Berlin umsteigen.
+아침에 버스에 타다.
+ : am Morgen in den Bus einsteigen.
+버스에서 내리다.
+ : aus dem Bus aussteigen.
+
 ```
 
