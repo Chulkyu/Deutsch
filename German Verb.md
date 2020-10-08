@@ -1096,3 +1096,98 @@ Ich habe nach Hause gehen müssen.
 
 ```
 
+------
+
+### Lektion 17. 화법조동사2
+
+```
+- dürfen / soll(t)en / möchten / wollen 의 쓰임
+```
+
+```
+- dürfen
+
+- 허가
+- nicht / kein : 불허, 금지
+- müssen + nicht / kein : 의무 부정 ( ~할 필요 없다 )
+
+ich - darf - darfte - habe gedurft
+du - darfst - darftest - hast gedurft
+er - darf - durfte - hat gedurft
+wir - dürfen - durften - haben gedurft
+ihr - dürft - durftet - habt gedurft
+Sie - dürfen - durften - haben gedurft
+
+Darf ich vorbei(gehen)?
+Hier darf man nicht rauchen.
+Du darfst dich hier setzen.
+
+Dank dir durfte ich hier bleiben.
+Ich hatte die Note 1.
+Endlich durfte ich Computerspiele (spielen).
+
+```
+
+```
+- sollen / sollten
+
+- (타인의 의지가 개입된) 의므
+- 전언 ( Es soll regnet )
+- 충고 ( sollten )
+
+ich - soll - sollte 
+du - sollst - solltest 
+er - soll - sollte 
+wir - sollen - sollten 
+ihr - sollt - solltet 
+Sie - sollen - sollten 
+
+Du solltest deiner Mutter die Blumen schenken.
+Wir haben noch mehr lernen sollen.
+
+```
+
+```
+- möchten / wollen
+
+- 희망
+- 의지
+
+- möchten (현재형만 있다)
+	mögen : 좋아하다 / ~ 일 것이다.
+	mögen의 과거 : mochten
+	접속법 2식 : möchten
+
+ich - möchte - wollte
+du - möchtest - wolltest
+er - möchte - wollte
+wir - möchten - wollten
+ihr - möchtet - wolltet
+Sie - möchten - wollten
+
+- mögen
+ich - mag - -habe gemocht
+du - magst - - hast gemocht
+er - mag - - hat gemocht
+wir - mögen - - haben gemocht
+ihr - mögt - - habt gemocht
+Sie - mögen - - haben gemocht
+
+Ich mag Deutsch.
+-> Ich mochte Deutech.
+Ich möchte Deutschlehrer werden.
+-> Ich wollte Deutschlehrer werden.
+Vor langem habe ich das gewollt.
+-> Vor langem habe ich Deutschlehrer werden wollen.
+Vor langem : 오래전에
+
+- wollen
+ich - will - wollte - habe gewollt
+du - willst - wolltest - hast gewollt
+er - will - wollte - hat gewollt
+wir - wollen - wollten - haben gewollt
+ihr - wollt - wolltet - habt gewollt
+Sie - wollen - wollten - haben gewollt
+
+
+```
