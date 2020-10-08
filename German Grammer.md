@@ -1,4 +1,4 @@
-### Lektion 1. Sein
+###  Lektion 1. Sein
 
 ```
 * 인칭대명사에 따른 sein 동사의 변화
@@ -4521,5 +4521,390 @@ Der Wagen ist leicht reparierbar.
 
 5. Die Kinder lassen sich vom Kindergarten abholen.
 -> Die Kinder sind vom Kindergarten abzuholen.
+```
+
+------
+
+### Lektion 14. 동사활용 심화
+
+```
+1. 동사 + 전치사 (암기)
+	 형용사 + 전치사 (암기)
+2. lassen 동사 : 의미와 용법, 시제
+3. 정동사 ... Infinitiv
+	 = zu 없이 사용하는 동사
+```
+
+```
+기차역으로 가는 길을 여쭤봐도 될까요?
+ : Darf ich Sie nach dem Weg zum Bahnhof fragen?
+ jn. nach + 3격 + fragen : ~에게 ~에 대해 물어보다.
+
+대체 뭘 그렇게 기다리니? 택시
+ : Worauf wartest du denn? - Ich warte auf das Taxi.
+ auf + 4격 + warten : ~을 기다리다.
+ auf wen : ~누구를 / worauf : 무엇을
+ 
+ 잘 가 / 잘 가고 부모님께 안부 전해줘.
+  : Tschüs. / Tschüs und liebe Grüße an deine Eltern.
+  : Tschüs. / Tschüs und grüße deine Eltern von mir.
+  liebe / viele Grüße an + 4격 : ~에게 안부를 전하다.
+  jn. von + 3격 + grüßen : ~에게 안부를 전하다.
+
+```
+
+```
+- 3격 지배 전치사 + 동사
+----------------------------------------------------------------
+1. aus + 3 + bestehen : ~으로 구성되어 있다.
+2. aus + 3 + stammen : ~에서 파생되었다. ~에서 근거를 이루다.
+3. aus + 3 + werden : ~에서 되어지다.
+4. jm. zu + 3 + gratulieren : ~에게 축하를 주다.
+5. zu + 3 + dienen : ~에 유용하다, 유익하다.
+6. jn. zu + 3 + einladen : ~에게 초대하다.
+7. zu + 3 + führen : ~으로 초래하다, ~으로 이끌다.
+8. zu + 3 + passen : ~와 어울리다.
+	 A passt zu B : A와 B가 어울리다.
+9. zu + 3 + werden : ~으로 되어가다.(과정)
+10. bei + 3 + anrufen : ~에게 전화걸다.
+11. bei + 3 + arbeiten : ~에서 일하다
+		arbeiten an + 3 : ~에 몰두해서 일하다.
+12. jm. bei + 3 + helfen : ~에 ~을 돕다.
+13. sprechen mit + 3 + von + 3 : ~와 함께 ~에 관해서 이야기하다.
+		sprechen mit + 3 + über + 4 : ~와 함께 ~에 대해서 이야기하다.
+14. von + 3 + abhängen : ~에 달려있다, 의존적이다.(depend on)
+15. von + 3 + erfahren : ~에 관해서 경험하다, 듣고 알다.
+16. jn. von + 3 + grüßen : ~로 부터 안부를 전하다.
+17. jn. von + 3 + überzeugen : ~를 ~로부터 확신시키다.
+18. jm. von + 3 + erzählen : ~에게 ~에 대해서 이야기하다.
+19. von + 3 + träumen : ~에 관해서 꿈꾸다.
+20. mit + 3 + beginnen : ~을 시작하다.
+21. mit + 3 + anfangen : ~을 시작하다.
+22. mit + 3 + rechnen : ~을 예상하다, 예측하다.
+23. mit + 3 + umgehen : ~와 잘 어울리다(교제하다), ~을 잘 다루다.
+24. jn. mit + 3 + verbinden : ~와 연결시키다.(전화상)
+25. jn. mit + 3 + vergleichen : ~를 ~와 비교하다.
+26. mit + 3 + telefonieren : ~와 전화통화하다.
+27. mit + 3 + aufhören : ~을 그만두다, 중단하다.
+28. jn. nach + 3 + fragen : ~에게 ~을 질문하다.
+29. nach + 3 + suchen : ~을 찾아다니다.
+		suchen + 4 : ~을 찾아다니다.
+30. nach + 3 + schmecken : ~한 맛이 나다.
+31. nach + 3 + riechen : ~한 냄새가 나다.
+32. nach + 3 + streben : ~을 노력하다.
+
+Der Ring besteht aus Gold. (물질, 재료에는 무관사)
+Ich gratuliere dir zur Hochzeit.
+Die Früchte dienen den Affen zur Nahrung.
+ : 그 열매들이 원숭이들에게 먹이로 사용된다.
+Er lädt mich zum Essen ein.
+Die Bluse passt nicht zu deinem Rock.
+Er arbeitet bei einer Fabrik.
+Ich helfe dir bei der Gartenarbeit.
+Mein Studium hängt von der staatlichen Hilfe ab.
+ : 내 학업은 국가의 도움에 달려있다.
+Wir sprechen von unserem Leher.
+Grüße deine Eltern von mir.
+Er hat viel von dir erzählt.
+Ich träume von einem Haus mit Garten.
+Wir fangen mit dem Deutschunterricht an.
+-> Wir haben mit dem Deutschunterricht angefangen.
+Im Dezember rechnet man schon mit Schnee.
+Können Sie mich bitte mit Frau Lee verbinden?
+Vergleichen Sie bitte Freiburg mit Berlin !
+Um 19 Uhr hört er mit der Arbeit auf.
+Der Journalist fragt mich nach meiner Meinung.
+Dieser Tee schmeckt nach Schokolade.
+Man strebt nach einem besseren Leben.
+
+```
+
+```
+- 4격 지배 전치사 + 동사
+----------------------------------------------------------------
+33. gegen + 4 + protestieren : ~에 대항하여 항쟁,데모 하다.
+34. es geht um + 4 ~ : ~이 관건이다, 문제이다, 주제이다.
+35. um + 4 + kämpfen : ~을 획득하기 위하여 싸운다.
+		kämpfen + für + 4 : ~을 위하여 싸우다.
+36. jn. um + 4 + bitten : ~에게 ~을 부탁하다.
+37. etwas für + 4 + ausgeben : ~을 위해 지출하다.
+38. jm. für + 4 + danken : ~에게 ~에 대해 고마워하다.
+39. für + 4 + gelten : ~이 유효하다.
+		gelten als : ~으로 간주하다. ~으로 여겨지다.
+		gelten - galt - gegolten
+40. etwas für + 4 + halten : ~을 ~으로 여기다.
+		halten - hielt - gehalten
+41. für + 4 + sorgen : ~을 돌보다.
+
+Wir protestieren gegen Atomkraft.
+Es geht jetzt um die Wurst. : 지금 아주 중요한 사항이다.
+Wir kämpfen um unser Leben.
+Der Render bittet uns um Aufmerksamkeit. : 그 연설자는 우리에게 주목을 부탁한다.
+Ich danke dir für die Einladung.
+Diese Fahrkarte gilt nur für die Innenstadt.
+Das halte ich für gute Idee.
+Ich muss im Alter für meine Eltern sorgen.
+
+```
+
+```
+- 3/4격 지배 전치사 + 동사
+-----------------------------------------------------------------
+42. jn. an + 3 + erkennen : ~를 ~으로 알아차리다.
+43. an + 3 + fehlen : ~이 부족하다, 결여되어있다.
+44. jn. an + 3 + hindern : ~를 ~하지 못하게 방해하다.
+45. an + 3 + leiden : ~ 질병을 앓다.
+46. an + 3 + liegen : ~의 책임이다.
+47. an + 3 + sterben : ~으로 죽다.
+48. an + 3 + teilnehmen : ~에 참여하다.
+49. an + 3 + zweifeln : ~을 의심하다.
+50. auf + 3 + bestehen : ~을 고집하다. 주장하다.
+51. in + 3 + bestehen : ~이다.
+52. jn. vor + 3 + warnen : ~에게 ~에 대해 경고하다.
+53. vor + 3 + zittern : ~ 때문에 떨다.
+54. etwas vor + 3 + schützen : ~에게서 보호하다.
+55. unter + 3 + leiden : ~에 시달리다.
+
+Kinder erkennen Pinocchio an seiner langen Nase.
+Es fehlt mir an Erfahrung.
+Ich leide an Übergewiht / unter Schlafproblemen.
+ : 비만을 앓고 있다. / 수면장애에 시달리다.
+Er ist an der Vogelgrippe gestorben. : 조류독감에 죽다.
+Südkorea nimmt seit 1986 ununterbrochen an der Fußball-WM teil.
+ : 한국은 1986년 이후로 끊임없이 월드컵에 참여하고 있습니다.
+Sie zweifelt an seiner Geschichte. : 그녀는 그의 이야기를 의심한다.
+Ich bestehe auf einem korrekten Vertrag. : 나는 정확한 계약서를 고집한다.
+Er warnt mich vor der großen Gefahr.
+ : 그는 나에게 커다란 위험이 있을거라 경고합니다.
+Mann soll seinen PC vor Hackern schützen.
+
+56. auf + 4 + achten : ~을 유의하다.
+57. auf + 4 + ankommen : ~에 달려있다. 관건이다.
+58. jm. auf + 4 + antworten : ~에게 ~에 대해 답변하다.
+59. auf + 4 + aufpassen : ~을 돌보다.
+60. jn. auf + 4 + hinweisen : ~에게 ~을 언급하다, 암시하다.
+61. auf + 4 + hoffen : ~을 희망하다.
+62. auf + 4 + reagieren : ~에 반응하다.
+63. etwas auf + 4 + verschieben : ~을 ~이후로 미루다.
+64. auf + 4 + verzichten : ~을 단념하다.
+65. auf + 4 + warten : ~을 기다리다.
+66. in + 4 + teilen : ~으로 나누다.
+67. über + 4 + diskutieren : ~에 대해 토의하다.
+68. über + 4 + klagen : ~을 불평하다.
+69. über + 4 + lachen : ~에 대해 비웃다.
+70. über + 4 + nachdenken : ~에 대해 심사숙고하다.
+71. über + 4 + streiten : ~에 대해 싸우다.
+
+Achten Sie bitte auf Ihre Gesundheit.
+Es kommt jetzt auf die Qualität an. : 품질이 관건이다.
+Er antwortet mir nicht auf die E-Mail.
+Ich passe auf mein Baby auf.
+Darf ich Sie mal auf die Hausordnung hinweisen?
+Er reagiert nicht auf meine Einladung.
+Ich verzichte auf den Weihnachtskonum. : 성탄소비를 단념한다.
+Sie streiten sich über Kleinigkeiten.
+Ich denke über das Problem nach.
+
+```
+
+```
+- 전치사 + 형용사 ( 3 / 4격 ) & 명사
+-----------------------------------------------------------------
+1. arm an + 3 : ~이 부족한
+2. Interesse an + 3 : ~에 대한 흥미
+3. beschäftigt mit + 3 : ~에 연구하는, 몰두하는
+4. fertig mit + 3 : ~이 끝난
+5. reich an + 3 : ~이 풍부한
+6. Problem mit + 3 : ~에 대한 문제점
+7. zufrieden mit + 3 : ~으로 만족한
+8. weit von + 3 : ~에서 멀어진, 떨어져 있는
+9. Angst vor + 3 : ~에 대한 두려움
+10. angewiesen auf + 4 : ~에 의존적인
+11. neidisch auf + 4 : ~이 부러운
+12. stolz auf + 4 : ~이 자랑스러운
+13. bekannt für + 4 : ~으로 알려진
+14. berühmt für + 4 : ~으로 저명한
+15. verantwortlich für + 4 : ~의 책임이 있는
+16. froh über + 4 : ~에 대해 행복한
+17. schuld an + 3 : ~의 책임이 있는, 죄가 있는
+18. schädlich für + 4 : ~에 해로운
+
+Immer mehr Menschen sind finanziell vom Staat abhängig.
+Der Autofahrer war schuld an dem Unfall.
+Wir sind sehr zufrieden mit unserem neuen Auto.
+Morgens ist sie immer mit dem Kaffeekochen beschäftigt.
+Bist du schon fertig mit den Hausaufgaben?
+München ist bekannt für Oktoverfest und Bier.
+Kinder sind auf die Hilfe Erwachsener angewiesen.
+Er ist sehr stolz auf seine hübsche Frau.
+Sie ist neidisch auf ihren erfolgreichen Bruder.
+Gestreifte Krawatten sind typisch für Politiker.
+ : 줄무늬 넥타이는 정치인들에게 전형적이다.
+Kangho Song war berühmt für seine Rolle als Taxifahrer.
+Pollen sind oft verantwortlich für Allergien.
+ : 꽃가루가 주로 알레르기의 책임이 있습니다.(원인입니다.)
+Zucker ist schädlich für die Zähne.
+Sie ist glücklich über die vielen Geschenke.
+
+```
+
+```
+- lassen - ließ - gelassen
+
+a. 준 화법 조동사
+b. 동사원형을 보충어로 취하는 동사
+c. 본동사 : ~을 ~에 놔두다, 그만 두다
+	 조동사 : ~하도록 시키다, ~허락하다
+	 
+ich - lasse - ließ
+du - lässt - ließest
+er - lässt - ließ
+wir - lassen - ließen
+ihr - lasst - ließt
+Sie - lassen - ließen
+
+- lassen 본동사 ( ~을 그만 두다 )
+-----------------------------------------------------------------
+난 흡연을 그만둔다.
+ : Ich rauche nicht mehr.
+ : Ich höre mit dem Rauchen auf.
+ : Ich verzichte auf das Rauchen.
+ : Ich lasse das Rauchen.
+
+그만 둬라 !
+ : Lass das !
+ : Lasst das !
+ 
+엄마 좀 내버려 둬라 !
+ : Lass Mama in Ruhe !
+ : Hör auf damit Mama zu stören.
+ : Stör doch bitte Mama nicht.
+ 
+ 
+- lassen 본동사 + (sitzen, liegen, stehen...)
+-----------------------------------------------------------------
+그는 열쇠를 집에 놔둔다.
+ : Er lässt seinen Schlüssel zu Hause (liegen).
+
+나는 자전거를 문 앞에 놔둔다.
+ : Ich lasse mein Fahrrad vor der Tür (stehen).
+ 
+그들은 자동차를 차고에 세워 둔다.
+ : Sie lassen ihr Auto in der Garage (stehen).
+ 
+ 
+- lassen 조동사 + 동사원형 ( ~ 하게 하다 / 시키다 )
+-----------------------------------------------------------------
+내 아버지가 의사를 오게 시킨다.
+ : Mein Vater lässt den Arzt kommen.
+
+내가 끝까지 말하게 놔둬줘 !
+ : Lass mich bitte ausreden !
+ 
+한 번 보여주세요 !
+ : Lassen Sie mich mal sehen !
+ 
+ 
+- lassen 조동사 + 동사원형 ( ~ 하게 하다, 역할부여 )
+-----------------------------------------------------------------
+나는 내 머리카락을 자르게 한다.
+ : Ich lasse mir die Haare schneiden.
+ 
+그는 빨래를 그의 어머니로부터 빨도록 시킨다.
+ : Er lässt sich von seiner Mutter die Wäsche waschen.
+  = Seine Mutter wäscht die Wäsche.
+ 
+그는 피자서비스로부터 피자 한 판을 배달하도록 시킨다. (Service / Pizza )
+ : Er lässt sich vom Pizzaservice eine Pizza liefern.
+
+
+- lassen 조동사 + 동사원형 ( ~하도록 허락하다 )
+-----------------------------------------------------------------
+나는 아이들이 영화관에 가도록 허락한다.
+ : Ich lasse die Kinder ins Kino gehen.
+ = Ich erlaube ihnen, ins Kino zu gehen.
+ 
+나는 내 딸이 음악을 듣도록 허락한다.
+ : Ich lasse meine Tochter Musik hören.
+ = Ich erlaube ihr, Musik zu hören.
+ = Sie darf Musik hören.
+ 
+ 
+- lassen 시제와 용법 ( 본동사 / 조동사 )
+-----------------------------------------------------------------
+본동사
+- 현재 : Er lässt sein Auto zu Hause.
+- 과거 : Er ließ sein Auto zu Hause.
+- 현완 : Er hat sein Auto zu Hause gelassen.
+- 미래 : Er wird sein Auto zu Hause lassen.
+
+조동사
+- 현재 : Er lässt sich morgen operieren.
+- 과거 : Er ließ sich gestern operieren.
+- 현완 : Er hat sich gestern operieren lassen.
+- 미래 : Er wird sich morgen operieren lassen.
+- 의무문 : Lässt sich der Mann morgen operieren?
+
+
+
+- 동사원형을 보충어로 하는 동사
+-----------------------------------------------------------------
+finites Verb (정동사) ... (Infinitiv)
+ - zu 없이 사용하는 부정형
+Ich kann gut tanzen. (Modalverben)
+Ich lasse meinen Hund frei laufen. (lassen)
+
+- 인지~, 움직임 동사들
+ : sehen, hören, fühlen, gehen, kommen, fahren,
+ 	 laufen, bleiben, finden ...
+Ich bleibe stecken : 옴짝달싹 못하다.
+
+
+나는 저 학생이 바이올린 연주하는 걸 듣는다.
+ : Ich höre den Schüler Geige spielen.
+나는 저 학생이 바이올린 연주하는 걸 들었다.
+ : Ich habe den Schüler Geige spielen hören.
+ 
+나는 그녀가 숙제를 하고 있는 걸 본다.
+ : Ich sehe sie die Hausaufgaben machen.
+나는 그녀가 숙제를 하고 있는 걸 보았다.
+ : Ich habe sie die Hausaufgaben machen sehen.
+ 
+나는 수영하러 / 밥 먹으로 / 산책하러 간다.
+ : Ich gehe schwimmen / essen / spazieren.
+나는 수영하러 / 밥 먹으로 /  산책하러 갔다.
+ : Ich bin schwimmen / essen / spazieren gegangen.
+ 
+우리는 엘리베이터에 갇혀 있다.
+ : Wir bleiben im Aufzug stecken.
+우리는 엘리베이터에 갇혀 있었다.
+ : Wir sind im Aufzug stecken geblieben.
+
+```
+
+```
+- 연습문제
+
+빈칸에 들어갈 단어로 알맞은 것은?
+1. Sie ( hält ) ihn nicht ( für ) ihren Kollengen.
+
+2. Luisa ist sehr froh ( über ) die bestandene Prüfung.
+	 Da ( von ) erzählt sie gleich ihren Eltern.
+	 
+3. A : Sind Sie ( mit ) Ihrer Wohnung zufrieden?
+	 B : Ja, sogar sehr. Es fehlt mir aber ( an ) Geld.
+	 
+4. Er hat sein Auto zu Hause ( gelassen. )
+	 Sie hat ihre Mutter singen ( hören. )
+	 Sie ist müde und geht ( schlafen. )
+	 Wir sehen unsere Nachbarin nach Hause ( kommen. )
+	 Gestern bin ich ( einkaufen ) gegangen.
+	 
+5. Sie hat sich ihre Haare scheiden lassen.
+	 Er hat seiner Frau im Haushalt  ( helfen ) müssen.
+	 Wir hören die Schülerinnen ( singen. )
+	 Mein Mann hat auf die Kinder aufpassen ( sollen. )
+	 Bist du schon mit den Hausaufgaben fertig ( gewesen? )
+	 
 ```
 
