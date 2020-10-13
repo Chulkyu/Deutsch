@@ -1084,6 +1084,7 @@ A : Achtung, die aktuelle Verkehrslage auf der A8 zwischen Ulm und
 ```
 a.aktuell : 현재의
 stören : 방해하다
+die Störung : 고장, 결함
 bremsen : 정지시키다, 제동을 걸다
 f.Bremsenstörung : 브레이크 결함
 ```

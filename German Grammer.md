@@ -4908,3 +4908,225 @@ Ich bleibe stecken : 옴짝달싹 못하다.
 	 
 ```
 
+------
+
+### Lektion 15. 문장구조 배어법 ( Wortstellung )
+
+```
+1. 문장의 의미
+2. 문장 구조 : 문장의 어순 ( 주어 + 술어 ... )
+3. 어순에 따른 문장 만들기 ( nicht 위치 )
+```
+
+```
+- 문장이란
+여러 단어들이 모여 성분이 되고,
+이 것들이 잘 분류, 합체된 글 또는 말의 문법적 단위
+
+문장 성분 : a. 술어		b. 보충어		c. 임시어
+동사의 위치에 따라 : 1. 정치법		2. 도치법		3. 후치법
+
+```
+
+```
+- 문장 구조의 규칙
+
+a. 어순 : 짧은 것이 긴 것에 우선.
+b. (인칭)대명사가 (고유)명사에 우선.
+c. 명사 어순 : 3 + 4 / 대명사 어순 : 4 + 3
+d. 3, 4격 목적어가 전치사격 보충어에 우선
+e. 임시어(지시어) 순서 : TeKaMoLo (시원방장)
+
+a. Wie gefällt dir die Wohnung?
+b. Sie gefällt aber meinem Mann nicht.
+c. Gestern habe ich meinem Mann die Wohung gezeigt.
+	- Gestern habe ich sie ihm gezeigt.
+d. Er hat mir herzlich für die Einladung gedankt.
+e. Wo warst du gestern?
+	- Ich war in der Mensa gestern
+	-> Gestern war ich in der Mensa.
+		 Gestern am Nachmittag war ich in der Mensa.
+e. 그는 그저께 / 학교로 / 우산을 / 가지고 / 비 때문에 / 갔다.
+	-> Vorgestern ist er wegen des Regens mit dem Schirm zur Schule gegangen.
+```
+
+```
+- 문장 구조의 규칙 - 동사가 첫번째로 오는 경우
+
+왔나요 그는 한국에서?
+ : Kommt er aus Korea?
+이 얼마나 아름다운 날씨인가.
+ : Wie schön ist das Wetter.
+방문하다 너는 그녀를?
+ : Besuchst du sie?
+읽으세요 당신은 어서 저 본문을
+ : Lesen Sie doch den Text!
+여라			이젠 좀 조용히 한 ~
+ : Seid jetzt endlich mal ruhig!
+
+```
+
+```
+- 주어 + 술어 + ( 4격 보충어 ) - 동사 2번째 위치
+
+저 남자가 잠을 (안)잔다.
+ : Der Mann schläft (nicht).
+저 소년이 (안)일한다.
+ : Der Junge arbeitet (nicht).
+그녀가 (안)사랑한다 저 선생님을.
+ : Sie liebt den Lehrer (nicht).
+나는 (안)방문한다 할머니를.
+ : Ich besuche meine Oma (nicht).
+
+- 주어 + 술어 + 보충어 - 동사 2번째 위치
+
+저 남자가 (안)간다 베를린으로
+ :  Der Mann fährt (nicht) nach Berlin.
+저 소년이 (안)돕는다 자기의 엄마를
+ : Der Junge hilft seiner Mutter (nicht).
+저 책은 (안)놓여 있다 의자 위에
+ : Das Buch liegt (nicht) auf dem Stuhl.
+나는 (안)간다 병원으로
+ : Ich gehe (nicht) zum Arzt.
+ 
+- 주어 + 술어 + 전치사격 - / 3 + 4격 보충어
+
+그녀는 (안)생각한다 항상 너를
+ : Sie denkt immer (nicht) an dich.
+나는 (안)기다린다 너를
+ : Ich warte (nicht) auf dich.
+그녀가 (안)놓는다 저 책을 냉장고 위에
+ : Sie legt das Buch (nicht) auf den Kühlschrank.
+저 소년이 (안)선물한다 그의 여선생님께 꽃을
+ : Der Junge schenkt seiner Klassenlehrerin Blumen (nicht).
+
+```
+
+```
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )
+
+언제 가니 너는 뮌헨으로?
+ : Wann fährst du nach München?
+내일 간다 나는 뮌헨으로 / 거기로
+ : Morgen fahre ich nach München / dorthin.
+언제부터 배우니 그는 이미 독일어를?
+ : Seit wann lernt er schon Deutsch?
+어제부터 배운다 그는 독일어를
+ : Seit gestern lernt er Deutsch.
+ 
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )
+
+왜 가니 너는 뮌헨으로?
+ : Warum fährst du nach München?
+시험 때문에 간다 나는 뮌헨으로 / 거기로.
+ : Wegen der Prüfung fahre ich nach München / dorthin.
+무엇 때문에 배우니 그는 독일어를?
+ : Wozu lernt er Deutsch?
+그는 할 것이다 나중에 독일에서 전공하다.
+ : Er will später in Deutschland studieren.
+
+- 의문사 / 임시어 ( 시간, 원인, 목적, 방법, 장소 )4
+
+어떻게 성취한다 사람은 자신의 목표를?
+ : Wie erreicht man sein Ziel?
+인내로 성취한다 사람은 자신의 목표를
+ : Durch Ausdauer erreicht man sein Ziel.
+어디서 공부하니 그는 자주 독일어를?
+ : Wo lernt er oft Deutsch?
+커피숍에서 배운다 그는 자주 독일어를
+ : Im Café lernt er oft Deutsch.
+ 
+```
+
+```
+- 복합술어
+
+나는 ~ㅆ다 어제 숙제를 (안)했다.
+ : Ich habe gestern die Hausaufgaben (nicht) gemacht.
+그는 ~ㅆ다 어제 영화관으로 (안)갔
+ : Er ist gestern ins Kino (nicht) gegangen.
+그녀는 ~ㅆ다 오늘 매우 일찍이 (안)일어났
+ : Sie ist heute sehr früh (nicht) aufgestanden.
+그는 ~ㅆ다 어제 저녁 한 시간 동안 독일어를 (안)공부했
+ : Er hat gestern Abend eine Stunde lang Deutsch (nicht) gelernt.
+
+- 복합술어 (미래형)
+
+나는 ~거다 올해 독일로 가다.
+ : Ich werde dieses Jahr nach Deutschland fliegen.
+언제 ~거니 너는 독일로 가다?
+ : Wann wirst du nach Deutschland fliegen?
+ 
+- 복합술어 (수동태)
+
+저 차는 ~진다 지금 깨끗하게 세차 되어
+ : Das Auto wird jetzt sauber gewaschen.
+저 차는 ~졌다 이미 며칠 전부터 세차 되어
+ : Das Auto ist schon seit Tagen gewaschen.
+나는 ~졌다 주말에 친구들에 의해 방문되어
+ : Ich wurde letztes Wochenende von meinen Freunden besucht.
+
+- 복합술어 (화법조동사)
+
+나는 ~수 있다 매우 잘 축구를 경기하다.
+ : Ich kann sehr gut Fußball spielen.
+그는 ~해야 한다 당장 집으로 가다.
+ : Er muss sofort nach Hause gehen.
+나는 ~고 싶다 너를 내 생일에 초대하다.
+ : Ich möchte dich zu meinem Geburtstag einladen.
+그는 ~해도 되었다 어제 디스코텍으로 가다.
+ : Er durfte gestern in die Disko gehen.
+언제 전화 걸다 너는 나를 전화 걸다.
+ : Wann rufst du mich an?
+무엇을 사다 그는 그릴파티를 위해서 안으로
+ : Was kauft er für die Grillparty ein?
+어디서 ~ㅆ다 너희는 어제 온종일 머물렀
+ : Wo seid ihr gestern den ganzen Tag geblieben?
+무엇을 ~ㅆ다 너는 그렇게 오랫동안 기다렸
+ : Worauf hast du so lange gewartet?
+```
+
+```
+- nicht 의 위치
+
+a. 문장전체 부정 : 맨 끝
+b. 두 번째 술어부분 앞
+	- 분리전철 앞
+	- 후치된 Inf. 및 p.p. 앞
+c. 형용사, 방법 임시어 앞
+d. 전치사 보충어 앞
+e. 위치, 장소, 방향 보충어 앞
+
+```
+
+```
+- 연습문제
+
+1. Ich habe sich interessiert für Sport nicht.
+ -> Ich habe mich nicht für Sport interessiert.
+ 
+2. Sie ist mit dem Taxi gestern Morgen zur Arbeit gekommen.
+ -> Sie ist gestern Morgen mit dem Taxi zur Arbeit gekommen.
+ 
+3. Paul / seinem Neffen / erzählte / gestern / eine Geschichte.
+ -> Paul erzählte gestern seinem Neffen eine Geschichte.
+ 
+4. 어순이 맞지 않는 것은?
+	1) Gefällt dir die Wohnung?
+	2) Ich stelle mich euch vor.
+	3) Am Sonntag ist er zu Hause nicht.
+		-> Am Sonntag ist er nicht zu Hause.
+	4) Peter ist heute um 6:30 Uhr aufgestanden.
+
+5. 어순이 가장 적절하게 쓰인 문장은?
+	1) Ich schreibe an dich einen Brief.
+		-> Ich schreibe dir einen Brief. 
+		-> Ich schreibe einen Brief an dich.
+	2) Er hat sein Buch dem Kind geliehen.
+		-> Er hat dem Kind sein Buch geliehen.
+	3) Sie hat sich über seinen Heiratsantrag sehr gefreut.
+		-> Sie hat sich sehr über seinen Heiratsantrag gefreut.
+	4) Peter ist heute um 6:30 Uhr aufgestanden.
+	
+```
+
