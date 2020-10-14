@@ -1189,5 +1189,85 @@ wir - wollen - wollten - haben gewollt
 ihr - wollt - wolltet - habt gewollt
 Sie - wollen - wollten - haben gewollt
 
+```
+
+------
+
+### Lektion 18. 수동태
 
 ```
+- 수동태의 쓰임
+- 상태수동 / 진행수동
+```
+
+```
+- 수동태란?
+
+주어가 어떤 동작의 대상이 되어 그 작용을 받는 서술형식
+```
+
+```
+- 수동태를 쓰는 이유?
+
+a. 행위자가 분명하지 않을 때
+b. 행위자가 중요하지 않을 때
+c. 상황 서술이 더욱 우선일 때
+
+```
+
+```
+- 상태수동 ( Zustandspassiv ) 이란?
+
+sein 동사에 과거분사가 결합하여 어떠한 상항이 이루어져 있는 상태를 서술.
+( 현재완료로 쓸 수 없다. )
+
+z.B. Der Kuchen ist gebacken.
+		 Der Kuchen war gebacken.
+		 
+```
+
+```
+- 진행수동 ( Vorgangspassiv ) 이란?
+
+werden 동사에 과거분사가 결합하여 어떠한 상황이 이루어지는 수동적인 현상의 진행을 서술.
+( 현재완료형 가능. )
+
+z.B. Der Kuchen wird (von meiner Mutter) gebacken.
+		 Der Kuchen wurde (von meiner Mutter) gebacken.
+		 von + 3격= by (사람)
+		 durch + 4격 = by (장치)
+		 
+		 Der Kuchen ist (von meiner Mutter) gebacken worden.
+		 
+```
+
+```
+- 연습
+
+Ich öffne die Fenster.
+-> Die Fenster werden (von mir) geöffnet. (진행)
+-> Die Fenster sind (von mir) geôffnet. (상태)
+
+Du schriebst einen Brief.
+-> Ein Brief wurde (von dir) geschrieben. (진행)
+-> Ein Brief ist (von dir) geschrieben. (상태)
+
+Er hat eine Zeitung gelesen. (현재완료 -> 진행수동만 가능)
+-> Eine Zeitung ist von ihm gelesen worden. (진행)
+
+Ich muss dieses Dokument morgen abgeben.
+-> Dieses Dokument muss morgen abgegeben werden.(조동사 - 과거분사 - werden)
+
+Man muss zuerst dieses Programm installieren.
+-> Dieses Programm muss zuerst installiert werden.
+
+Er konnte Deutsch sprechen.
+-> Deutsch konnte von ihm gesprochen werden.
+
+Meine Mutter sagt, dass ich das Fenster zumachen sollte.
+-> Laut meiner Mutter sollte das Fenster von mir zugemacht werden.
+ laut + 2격 : ~에 의하면, ~에 따르면
+ 
+ 
+```
+
