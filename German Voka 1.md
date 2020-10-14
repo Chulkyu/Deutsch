@@ -556,11 +556,51 @@ an dem Geldautomaten
 간판에 요금이 쓰여 있다
  : der Tarif auf dem Schild stehen
  
+```
 
+------
 
+### Lektion 22. beim Arzt
 
+```
+beim Arzt : 병원에서
+haben : 가지다
+der Kopf : 머리
+der Bauch : 배
+der Schmerz : 고통
+Schmerzen
+Kopfschmerzen
+Bauchschmerzen
+die Mandel : 편도선
+die Entzündung : 염증
 
+Kopfschmerzen : 두통
+Bauchschmerzen : 복통
+Mandelentzündung : 편도염
 
+wehtun : 아프게 하다
+die Hand : 손
+die Hände
+der Arm : 팔
+das Bein : 다리
+der Oberschenkel : 허벅지
+der Rücken : 등
+
+meine Hand tut weh
+mein Kopf tut weh
+mein Bein tut weh
+meine Beine tun weh
+
+eine Mandelentzündung haben
+Kopfschmerzen haben
+Bauchschmerzen haben
+
+손이 너무 아프다.
+ : meine Hand tut so weh.
+다리가 아프다.
+ : mein Bein tut weh.
+등이 아프다.
+ : mein Rücken tut weh.
 
 ```
 
