@@ -522,3 +522,45 @@ in Berlin umsteigen
 
 ```
 
+------
+
+### Lektion 21. am Bahnhof
+
+```
+nehmen : 취하다
+die Fahrt : 운행 (타고 가기)
+der Flug : 비행
+einfach : 단순한, 편도
+hin-und zurück : 왕복
+
+die einfach Fahrt nehmen
+den einfach Flug nehmen
+eine Fahrkarte(hin-und zurück) nehmen
+
+stehen : 쓰여 있다
+der Automat : 자판기
+der Geldautomat : 현금인출기
+das Schild : 간판
+die Information : 정보
+der Tarif : 요금, 요금제
+
+auf dem Schild stehen
+der Tarif stehen
+die Information stehen
+an dem Geldautomaten
+
+편도 비행기를 취하다
+ : einen einfachen Flug nehmen
+왕복 주세요
+ : Hin-und zurück, bitte.
+간판에 요금이 쓰여 있다
+ : der Tarif auf dem Schild stehen
+ 
+
+
+
+
+
+
+```
+
