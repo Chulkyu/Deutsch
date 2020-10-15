@@ -604,3 +604,49 @@ Bauchschmerzen haben
 
 ```
 
+------
+
+### Lektion 23. auf, zu ( 열다, 닫다 )
+
+```
+aufmachen : 열다
+öffnen : 열다
+die Tür : 문
+der Eingang : 입구
+der Ausgang : 출구
+die Eingangstür : 출입문
+die Ausgangstür : 나가는문
+der Deckel : 뚜껑
+die Flasche : 병
+zumachen : 닫다
+schließen : 닫다
+der Mund : 입
+das Auge : 눈
+die Augen (pl)
+das Herz : 마음, 심장
+
+
+
+die Tür aufmachen (öffnen)
+den Deckel öffnen (aufmachen)
+die Flasche aufmachen (öffnen)
+
+die Augen zumachen (schließen)
+den Mund schließen (zumachen)
+ins Herz schließen : 누군가를 좋아하게 되다.
+
+병 뚜껑을 열다.
+ : Die Flasche aufmachen / öffnen.
+입구 문을 열다.
+ : Die Eingangstür öffnen / aufmachen.
+출구 문를 닫다.
+ : Die Ausgangstür schließen / zumachen.
+눈을 감다.
+ : Die Augen zumachen / schließen.
+입을 닫다.
+ : Der Mund schließen / zumachen.
+그 사람들을 좋아하게 되다.
+ : Die Leute ins Herz schließen.
+
+```
+
