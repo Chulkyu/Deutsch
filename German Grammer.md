@@ -5130,3 +5130,178 @@ e. 위치, 장소, 방향 보충어 앞
 	
 ```
 
+------
+
+### Lektion 16. 부문장 - dass (Nebensätze) 구별법
+
+```
+1. 주문장과 부문장 구별하기
+2. dass - 문장의 정의와 특징
+3. dass 문장의 활용 : 주어, 목적어, 수식어, 전치사 보충어
+```
+
+```
+- 주문장과 주문장 ( Hauptsätze )
+-----------------------------------------------------------------------
+주문장															주문장
+
+Sie ist krank.									Sie geht zum Arzt.
+Sie ist Krank,									deshalb geht sie zum Arzt.
+Seine Mutter ist Deutsche				Er spricht sehr gut Deutsch.
+Seine Mutter ist Deutsche,			deswegen spricht er sehr gut Deutsch.
+
+```
+
+```
+- 주문장과 부문장 구별하기
+------------------------------------------------------------------------
+								주문장										부문장
+								
+정동사			Pos.1 (명령문, 선택 의무문)				문장 맨 뒤
+				 Pos.2 (평서문, 의문사/의무문)				
+
+독립성						가능										불가능 - 접속사로 주문장에 연결
+
+				 Sie bleibt zu Hause,					ihre Mutter ist krank. (주문장)
+				 															weil ihre Mutter krank ist.
+				 
+```
+
+```
+- 주문장과 부문장
+------------------------------------------------------------------------
+				 주문장													부문장
+							 
+Sie geht zum Arzt,								weil sie krank ist.
+Er spricht sehr gut Deutsch,			weil seine Mutter Deutsche ist.
+Er konnte nicht arbeiten,					weil er krank war.
+Ich war sehr müde,								weil ich nicht genug geschlafen habe.
+
+				부문장																		주문장
+				
+Weil sie krank ist,											geht sie zum Arzt.
+Weil seine Mutter Deutsche ist,					spricht er sehr gut Deutsch.
+Weil er krank war,											konnte er nicht arbeiten.
+Weil ich nicht genug geschlafen habe,		war ich sehr müde.
+
+```
+
+```
+- dass - 문장의 정의
+
+a. 주문장에 필요한 정황과 줄거리 묘사
+b. 보충어 대신 필요한 문장(성분)
+	 문장이 보충어 역할 : ~ 한다는 것
+c. 부문장 : 동사의 위치 - 맨 뒤
+
+- 특정 동사와 표현에 사용
+a. 알고 있거나 알려진 사실
+	 Ich weiß, ... / Ich glaube, ...
+b. 생각, 느낌, 의견의 표현
+	 Ich finde, ...	/	Ich habe Angst, ...
+	 Ich freue mich, ...	/	 Es ist wichtig, ...
+	 Es ist schade, ...
+
+```
+
+```
+- dass - 문장
+
+Er kommt zur Party.
+-> dass er zur Party kommt.
+
+Wir gehen ins Kino.
+-> dass wir ins Kino gehen.
+
+```
+
+```
+- dass 문장의 활용 ( 주어와 4격 보충어 )
+
+Es freut mich, dass er zur Party kommt.
+Dass er zur Party kommt, freut mich.
+
+Er weiß, dass wir ins Kino gehen.
+Dass wir ins Kino gehen, weiß er.
+
+
+- dass 문장의 활용 ( 수식어와 전치사 보충어 )
+
+Ich habe die Absicht, dass ich bald Deutsch lerne.
+Ich will bald Deutsch lernen.
+die Absicht : 의도, 의향
+
+Er freut sich darauf, dass wir zusammen Deutsch lernen.
+freut sich über : ~에 대해 기뻐하다.
+fruet sich auf : ~에 대해 학수고대하다.
+
+```
+
+```
+- dass 문장의 활용 ( 주어 )
+
+네가 지금 가야 하는 (사실이)게 아깝다.
+ : Es ist schade, dass du jetzt gehen musst.
+ 
+네가 내게 전화해 줘서 좋다.
+ : Es freut mich daüber, dass du mich anrufst.
+ 	 Es ist schön, dass du mich anrufst.
+
+
+- dass 문장의 활용 ( 4격 보충어 )
+
+나는 엄마가 오늘 생신이라는 (사실일)걸 몰랐다.
+ : Ich wusste es nicht, dass meine Mutter heute Geburtstag hat.
+   Ich habe es vergessen, dass meine Mutter heute Geburtstag hat.
+   
+나는 그가 너희들을 도왔다는 (사실이)게 참 좋았어.
+ :  Es war schön, dass er euch geholfen hat.
+    Ich fand es schön, dass er euch geholfen hat.
+    
+    
+- dass 문장의 활용 ( 수식어 )
+
+나는 그가 우리를 조만간 방문하는 바람이 있어.
+ : Ich hoffe es, dass er uns bald besucht.
+   Ich habe den Wunsch, dass er uns bald besucht.
+   
+나는 내가 그녀를 결혼하는 희망을 가지고 있다. = 결혼을 희망한다.
+ : Ich habe einen Wunsch, dass ich sie heirate.
+   Ich habe die Hoffnung, dass ich sie heirate.
+
+
+- dass 문장의 활용 ( 전치사 보충어 )
+
+나는 내가 늦게 일어난 게 화가나.
+ : Ich ärgere mich darüber, dass ich spät aufgestanden bin.
+   
+나는 당신이 우리를 도와준 것에 대해 진심으로 감사드립니다.
+ : Ich danke Ihnen ganz herzlich, dass Sie uns geholfen haben.
+   Ich danke Ihnen dafür, dass Sie uns viel geholfen haben.
+ 
+```
+
+
+
+```
+- 연습문제
+
+1. Du hast kein Geld.
+	-> Ich weiß, dass du kein Geld hast.
+
+2. Du hast heute Geburtstag.
+	-> Ich weiß, dass du heute Geburtstag hast.
+	
+3. Ich habe heute um 4 Uhr einen Arzttermin.
+	-> Ich habe vergessen, dass ich heute um 4 Uhr einen Arzttermin habe.
+
+4. Man darf in diesem Museum fotografieren.
+	-> Es ist erlaubt, dass man in diesem Museum fotografiert.
+									 , in diesem Museum zu fotografieren.
+
+5. Man soll für die Zukunft Deutsch lernen.
+	-> Es ist empfehlenswert, dass man für die Zukunft Deutsch lernt.
+													, für die Zukunft Deutsch zu lernen.
+	die Zukunft : 미래, 장래
+```
+
