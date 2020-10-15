@@ -1268,6 +1268,52 @@ Meine Mutter sagt, dass ich das Fenster zumachen sollte.
 -> Laut meiner Mutter sollte das Fenster von mir zugemacht werden.
  laut + 2격 : ~에 의하면, ~에 따르면
  
+```
+
+------
+
+### Lektion 19. 미래시제
+
+```
+- 독일어의 미래시제 만드는 법
+- 미래 1, 미래 2 (Futur 1, 2)
+```
+
+```
+- 미래 1
+
+- werden + 동사원형(후치) : ~ 할 것이다.
+
+```
+
+```
+- 미래 2
+
+- werden + 완료형(p.p. + haben/sein) : ~가 완료된 상황이 될 것이다.
+
+```
+
+```
+Ich werde mit dir spazieren gehen.
+Wirst du mich heiraten?
+Werden sie wieder miteinander reden können?
+Wirst du dich dann auf das Lernen konzentrieren?
+Ich werde irgendwann mal ihn sehen sollen.
+Wird diese Aufgabe gemacht werden?
+Der Mann wird bald gestorben sein.
+Du wirst diesen Test bestanden haben.
+
+이번 여름에 너는 뭘 할 거니?
+ : Was wirst du diesen Sommer machen?
+나는 이번 여름에는 시간이 없을 거야.
+ : Ich werde diesen Sommer keine Zeit haben.
+가을에 여행을 갈 거야.
+ : Im Herbst werde ich eine Reise machen.
+그럼 겨울에 너는 돌아와 있겠지?
+ : Dann wirst du im Winter zurückgekommen sein?
+아니, 나는 겨울에는 학교를 좋업하고 유럽에 있을거야.
+ : Nein, im Winter werde ich die Schule abgeschlossen haben
+ 	 und in Europa sein.
  
 ```
 
