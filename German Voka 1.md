@@ -650,3 +650,50 @@ ins Herz schließen : 누군가를 좋아하게 되다.
 
 ```
 
+------
+
+### Lektion 24. be-
+
+```
+besuchen : 방문하다
+die Großeltern : 조부모님
+die Schule : 학교
+die Fachhochschule : 전문학교
+die Fahrschule : 면허학원
+der Kurs : 강좌
+die Ausstellung : 전시회
+
+eine Ausstellung besuchen : 방문하다
+meine Großeltern besuchen : 방문하다
+die Schule besuchen : 다니다
+die Fachhochschule : 다니다
+die Fahrschule besuchen : 다니다
+den Kurs besuchen : 다니다
+
+bekommen : 얻다
+endlich : 드디어
+der Führerschein : 운전면허
+das Zeugnis : 증명서
+das Erlaubnis : 허가
+erlauben : 허가하다
+die Gänsehaut : 거위피부 (닭살)
+
+eine Gänsehaut bekommen : 닭살 돋다.
+den Führerschein bekommen
+das Zeugnis bekommen
+das Erlaubnis bekommen
+
+그 학교에 다니다.
+ : die Schule besuchen.
+어학강좌에 다니다.
+ : den Sprachkurs besuchen.
+한 전시회를 방문하다.
+ : eine Ausstellung besuchen.
+드디어 운전면허를 따다.
+ : endlich den Führerschein bekommen.
+허가를 받다.
+ : das Erlaubnis bekommen.
+닭살 돋다.
+ : eine Gänsehaut bekommen.
+```
+
