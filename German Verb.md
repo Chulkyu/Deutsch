@@ -1317,3 +1317,124 @@ Du wirst diesen Test bestanden haben.
  
 ```
 
+------
+
+### Lektion 20. 접속법 ( Konjunktiv )
+
+```
+- 접속법이란 무엇인가
+- 접속법 1식, 2식
+```
+
+```
+- 접속법이란?
+
+a. 간접화법 (Indirekte Rede)
+b. ~라고 한다 (전언) - 접속법 1식
+c. ~일지도 모른다 (추측, 공손) - 접속법 2식
+
+```
+
+```
+- 접속법 1식
+
+a. 간접화법
+b. ~라고 한다 (전언)
+
+- 접속법 1식 만드는 방법
+ich	-	어간 + e
+du	- 어간 + est
+er	- 어간 + e < 3인칭이 중요 >
+wir - 어간 + en
+ihr - 어간 + et
+Sie - 어간 + en
+
+Er komme in 5 Minuten. : 그가 5분 후에 온다고 하더라.
+Der Kanzler habe es gesagt. : 그 총리가 그것을 말했다고 하더라.
+Paul hat gesagt, du kommest um halb eins.: Paul이 너가 12시 반에 온다고 하더라.
+
+- 직설법 현재와 같은 경우 (arbeitest = arbeitest)
+-> 접속법2식으로 대체
+
+- 접속법 1식 sein
+ich - sei
+du	- sei(e)st
+er	- sei
+wir - seien
+ihr - sei(e)t
+Sie - seien
+
+- 접속법 1식 haben
+ich - habe
+du	- habest
+er	- habe
+wir - haben
+ihr - habet
+Sie - haben
+
+- 접속법 1식 조동사류
+Er kann - Er könne
+Er muss - Er müsse
+Er will - Er wolle
+Er soll - Er solle
+Er darf - Er dürfe
+Er wird - Er werde
+
+Sie könne Klavier spielen. : 그녀는 피아노를 칠 수 있다고 하더라.
+Das Essen werde gekocht. : 그 음식이 요리되어진다고 합니다.
+Er habe es gemacht. : 그가 그것을 했다고 합니다.
+Das Auto sei kaputt gegangen. : 그 자동차가 고장이 났다고 합니다.
+
+```
+
+```
+- 접속법 2식
+
+a. 간접화법
+b. ~일 것이다 : 공손, 추측, 가정
+c. gern과 함께 : ~하고 싶다 (소망)
+
+
+- 접속법 2식 만드는 방법
+a. 일반 과거형에 Umlaut + 어미
+b. 1인칭 = 3인칭 단수
+
+- 접속법 2식 sein
+ich - wäre
+du	- wärst
+er	- wäre
+wir - wären
+ihr - wärt
+Sie - wären
+
+- 접속법 2식 haben
+ich - hätte
+du	- hättest
+er	- hätte
+wir - hätten
+ihr - hättet
+Sie - hätten
+
+- 접속법 2식 조동사류
+Er kann - Er könnte
+Er muss - Er müsste
+Er darf - Er dürfte
+Er wird - Er würde (gern) (희망)
+
+
+- 접속법 2식 essen
+ich - äße
+du	- äßt
+er	- äße
+wir - äßen
+ihr - äßt
+Sie - äßen
+ : a. 발음상으로 구분이 어려움
+ 	 b. haben, sein 을 뺀 나머지 대부분 동사는 würden에 원형 결합
+ 	 
+Würden sie wieder einander reden? : 그들은 서로 이야기를 하게 될 수 있을까?
+Ich könnte dir helfen. : 나는 너를 도와줄 수 있을지도 모르겠어.
+Könntest du mir helfen? : 혹시 나를 도와줄 수 있을까? (공손)
+
+```
+
