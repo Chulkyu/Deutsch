@@ -666,7 +666,7 @@ die Ausstellung : 전시회
 eine Ausstellung besuchen : 방문하다
 meine Großeltern besuchen : 방문하다
 die Schule besuchen : 다니다
-die Fachhochschule : 다니다
+die Fachhochschule besuchen : 다니다
 die Fahrschule besuchen : 다니다
 den Kurs besuchen : 다니다
 
@@ -696,4 +696,58 @@ das Erlaubnis bekommen
 닭살 돋다.
  : eine Gänsehaut bekommen.
 ```
+
+------
+
+------
+
+# VOKA 2.
+
+### Lektion 1. nach Deutschland
+
+```
+planen : 계획하다
+vorhaben : 계획하다
+die Reise : 여행
+die Pauschalreise : 패키지 여행
+die Fußreise : 도보여행
+für + 4격 : ~동안
+während + 2격 : ~동안
+
+eine Reise planen
+Ich habe eine Reise vor.
+eine Pauschalreise vorhaben
+eine Fußreise planen
+
+für eine Woche
+während der Ferien
+
+reservieren : 예약하다
+buchen : 예약하다
+der Platz : 자리, 광장
+der Flug : 비행
+das Flugticket  : 비행기표
+
+einen Platz reservieren
+einen Flug buchen
+ein Flugticket buchen
+
+여행을 계획하다.
+ : eine Reise planen
+도보여행을 계획하다.
+ : eine Fußreise vorhaben
+패키지여행을 예약하다.
+ : eine Pauschalreise reservieren
+일주일 동안 여행을 계획하다.
+ : für eine Woche eine Reise vorhaben.
+방학동안 도보여행을 계획하다.
+ : während der Feiren eine Fußreise planen.
+자리 하나를 예약하다.
+ : einen Platz buchen.
+비행기표를 예약하다.
+ : ein Flugticket buchen.
+
+```
+
+
 
