@@ -5305,3 +5305,246 @@ fruet sich auf : ~에 대해 학수고대하다.
 	die Zukunft : 미래, 장래
 ```
 
+------
+
+### Lektion 17. zu 부정법
+
+```
+1. zu 부정법의 특징
+2. zu 부정법의 활용 : 주어, 목적어, 전치사격 보충어, 수식어
+3. 임시어
+	: statt ~ zu Inf. : ~ 하는 것 대신에
+		ohne ~ zu Inf. : ~ 하는 것도 없이
+		um ~ zu Inf. : ~ 하기 위해
+```
+
+```
+- zu 부정법의 특징
+
+a. 주문장의 동사 - 부문장 행위와 관련
+b. 대부분의 동사가 보충어로써
+	zu + Infinitiv 형성 ( ~ 하는 것, ~ 하는 )
+	: ~ 시작, 약속, 포기, 희망, 허락, 부탁, 잊음, 시도 등등
+
+```
+
+```
+- zu 부정법이 가능한 문장
+
+주문장			Man arbeitet am Samstag						일하다
+dass~		 dass man am Samstag arbeitet.		 일하는 것 / 주어 필수, 동사 맨 뒤
+zu + Inf	am Samstag zu arbeiten					 일하는 것 / 주어 없음
+
+주문장			Man raucht viel.								흡연하다
+dass~		 dass man viel raucht.					흡연하는 것 / 주어 필수, 동사 맨 뒤
+zu + Inf	viel zu rauchen								흡연하는 것 / 주어 없음
+
+a. dass 부문장 주어 - man
+b. dass 부문장 주어와 주문장 주어 일치
+c. dass 부문장 주어와 주문장 3,4격 보충어 일치
+
+- zu 부정법이 불가능한 동사 : '언급, 인지, 앎'을 나타내는 동사
+												(fragen, wissen, ... )
+
+```
+
+```
+- zu 부정법 활용 (주어)
+
+커피를 많이 마시는 건 건강에 해롭다.
+건강에 해롭다.
+ : Es ist der Gesundheit schädlich.
+커피를 많이 마신다.
+ : dass man viel Kaffee trinkt.
+-> Es ist der Gesundheit schädlich, viel Kaffee zu trinken.
+-> Viel Kaffee zu trinken ist der Gesundheit schädlich.
+
+독일어 배우는 것은 그리 어렵지 않다.
+그리 어렵지 않다.
+ : Es ist nicht so schwer.
+독일어를 배우다.
+ : dass man Deutsch lernt.
+-> Es ist nicht so schwer, Deutsch zu lernen.
+-> Deutsch zu lernen ist nicht so schwer.
+
+여기서 그릴하는 것은 금지다.
+이것은 금지다.
+ : Es ist verboten.
+여기서 그릴하다.
+ : dass man hier grillt.
+-> Es ist , hier zu grillen.
+-> Hier zu grillen ist verboten.
+
+```
+
+```
+- zu 부정법 활용 (4격 보충어)
+
+나는 독일어 배우는 걸 시작했다.
+나는 시작했다.
+ : Ich habe angefangen.
+독일어 배우는 것을.
+ : dass ich Deutsch lerne.
+-> Ich habe angefangen, Deutsch zu lernen.
+-> Deutsch zu lernen habe ich angefangen.
+
+나는 담배를 끊었습니다.
+나는 끊었습니다.
+ : Ich habe aufgehört.
+ : Ich habe mit dem Rauchen aufgehört.
+흡연하는 것을.
+ : dass ich rauche.
+-> Ich habe (es) aufgehört, zu rauchen.
+
+그녀는 내일 나를 방문하기를 희망한다.
+그녀는 희망한다.
+ : Sie hofft (darauf),
+내일 나를 방문하는 것을.
+ : dass sie mich morgen besucht.
+-> Sie will, mich morgen zu besuchen.
+
+그는 그녀에게 좋은 가방 사줄 것을 약속한다.
+그는 약속한다.
+ : Er verspricht ihr,
+그녀에게 좋은 가방 사줄 것을.
+ : dass er ihr eine gute Tasche kauft.
+-> Er verspricht ihr, eine gute Tasche zu kaufen.
+
+나는 네가 내일 영화관 가는 걸 허락한다.
+나는 허락한다.
+ : Ich erlaube (es) dir,
+네가 내일 영화관 가는 걸.
+ : dass du morgen ins Kino gehst.
+-> Ich erlaube (es) dir, morgen ins Kino zu gehen.
+
+그가 내게 파티에 올 것을 부탁했다.
+그가 부탁했다.
+ : Er hat mich (darum) gebeten,
+내게 파티에 올 것을.
+ : dass ich zur Party komme.
+-> Er hat mich (darum) gebeten, zur Party zu kommen.
+
+```
+
+```
+- zu 부정법 활용 (전치사격 보충어)
+
+그는 그녀가 오늘 오기를 학수고대한다.
+그는 학수고대한다.
+ : Er freut sich darauf,
+그녀가 오늘 오기를.
+ : dass sie heute kommt.
+-> Er freut sich darauf, dass sie heute kommt
+
+그는 자신이 곧 그녀를 만나길 학수고대한다.
+그는 학수고대한다.
+ : Er freut sich darauf,
+자신이 곧 그녀를 만나길.
+ : dass er sie bald trifft.
+-> Er freut sich dafrauf, sie bald zu treffen.
+
+그는 장학금을 받을 거라 확신했다.
+그는 확신했다.
+ : Er ist davon überzeugt,
+장학음을 받을 것을.
+ : dass er ein Stipendium bekommt.
+-> Er ist davon überzeugt, ein Stipendium zu bekommen.
+
+```
+
+```
+- zu 부정법 활용 (수식어)
+
+그녀는 우리를 만날 시간이 없다.
+그녀는 시간이 없다.
+ : Sie hat keine Zeit,
+우리를 만날.
+ : dass sie uns trifft.
+-> Sie hat keine Zeit, uns zu treffen.
+
+나는 독일에서 공부할 기회가 생겼다.
+나는 기회가 생겼다.
+ : Ich habe eine Chance,
+독일에서 공부할.
+ : dass ich in Deutschland studiere.
+-> Ich habe eine Chance, in Deutschland zu studieren.
+
+```
+
+```
+- zu 부정법 활용 (임시어)
+
+(an)statt ~ zu Inf. : ~ 하는 것 대신에
+Er ist nach Deutschland geflogen,
+anstatt dass er in Korea arbeitet.
+-> anstatt in Korea zu arbeiten.
+
+ohne ~ zu Inf. : ~ 하지 않은 채로
+Er ist nach Deutschland geflogen,
+ohne dass er sich mit seinen Eltern unterhält.
+-> ohne sich mit seinen Eltern zu unterhalten.
+
+um ~ zu Inf. : ~ 하기 위해서
+Er ist nach Deutschland geflogen,
+damit er dort einen besseren Job findet.
+-> um dort einen besseren Job zu finden.
+
+Er geht in die Disko, < (an)statt > fleißig zu arbeiten.
+Ralf benutzt mein Taschentuch, < ohne > mich zu fragen.
+Er geht in die Stadtmitte, < um > seine Freunde zu treffen.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+ a. Es ist schwer, eine Fremdsprache <  > lernen.
+ 	-> zu
+ b. Er empfiehlt dem Patienten, mehr Sport zu trei ben.
+ c. Er verschreibt mir ein Medikament, <um wieder gesund zu werden.>
+ 	-> damit ~ (not um ~ zu, 주어가 다르므로)
+ d. Hier zu parken < sind > verboten.
+ 	-> ist
+ e. Er hat den Wunsch, sein Deutsch < verzubessern >.
+ 	-> zu verbessern, 비분리동사
+ 	
+2. 옳게 쓰인 문장을 고른 것은?
+	a. Sie hat mir nicht erlaubt, ins Kino < > gehen.
+		-> zu
+	b. Anstatt zu schlafen < sie sieht > fern.
+		-> sieht sie fern.
+	c. Er hat es vergessen, < um > früh aufzustehen.
+		-> früh aufzustehen.
+	d. Ich habe heute keine Lust, ins Kino zu gehen.
+	
+3. 옳게 쓰인 문장을 고른 것은?
+	Dora lernt sehr fleißig Deutsch,
+	<		> später in Deutschland <		> studieren.
+	-> um, zu
+	
+4. 옳게 쓰인 문장은?
+	나는 그녀에게 (나를) 도와달라고 부탁했다.
+-> 나는 부탁했다 그녀에게.
+		: Ich habe sie gebeten,
+	 나를 도와달라고.
+		: dass sie mir hilft.
+	-> Ich habe sie gebeten, mir zu helfen.
+	-> Ich bat sie, mir zu helfen.
+	
+bitten - bat - gebeten
+bieten - bot - geboten
+beten - betete - gebetet
+
+5. 문장의 쓰임이 바른 것은?
+	a. Er fragt mich, <		> morgen zu arbeiten.
+		-> ob morgen arbeitet. ( fragen -> zu 부정사 못 씀.)
+	b. Ich weiß, morgen früh < aufzuwachen >.
+		-> Ich weiß, dass ich morgen früh aufwachen muss.
+			 (wissen -> zu 부정사 못 씀)
+	c. Mein Bruder hat heute vor, < Busan besucht zu haben >.
+		-> Busan zu besuchen.
+	d. Ich denke immer daran, die Prüfung erfolgreich zu bestehen.
+
+```
+
