@@ -701,9 +701,9 @@ das Erlaubnis bekommen
 
 ------
 
-# VOKA 2.
+# VOKA 2. nach Deutschland
 
-### Lektion 1. nach Deutschland
+### Lektion 1. vorhaben / buchen
 
 ```
 planen : 계획하다
@@ -749,5 +749,49 @@ ein Flugticket buchen
 
 ```
 
+------
 
+### Lektion 2. einpacken / 
+
+```
+einpacken : 짐을 싸다
+auspacken : 짐을 풀다
+das Gepäck : 여행가방
+der Koffer : 트렁크
+(pl)die Kleider : 옷
+das Medikament : 약
+
+das Gepäck einpacken
+den Koffer auspacken
+die Kleider einpacken
+die Medikamente auspacken
+
+abfahren : 출발하다
+abfliegen : 출발하다
+das Gleis : 승강장
+die Fluggesellschaft : 항공사
+bald : 곧
+gleich : 즉시, 똑같은
+
+bald abfahren
+gleich abfliegen
+auf dem Gleis
+mit der Fluggesellschaft
+
+여행 가방을 싸다.
+ : ein Gepäck einpacken
+트렁크를 풀다.
+ : einen Koffer auspacken
+옷과 약을 싸다.
+ : die Kleider und die Medikamente einpacken
+곧/즉시 출발하다.
+ : bald / gleich abfahren / abfliegen
+4번 승강장에서 출발하다.
+ : auf dem Gleis 4 abfahren / abfliegen
+A 항공사로
+ : mit der Fluggesellschaft A
+
+
+
+```
 
