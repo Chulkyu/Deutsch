@@ -5548,3 +5548,288 @@ beten - betete - gebetet
 
 ```
 
+------
+
+### Lektion 18. 종속접속사 1
+
+```
+1. 종속접속사의 정의와 특징
+2. 접속사의 종류와 용법
+3. 문장 만들기 !!!
+```
+
+```
+- 종속접속사의 정의와 특징
+
+a. 주문장(HS) - 부문장(NS) 연결
+b. 부문장의 동사는 맨 뒤
+c. 부문장 + 주문장 = 주문장은 도치
+주문장(Hauptsatz) / 부문장(Nebensatz)
+
+Ich bleibe im Bett. Ich bin krank.
+	-> Ich bleibe im Bett, weil ich krank bin.
+	-> Weil ich krank bin, bleibe ich im Bett.
+
+```
+
+```
+- 종속접속사의 종류와 용법
+
+a. 시간 - als, wenn, bevor, bis, während, nachdem, seitdem, sobald ...
+				als(일회성), wenn(반복), nachdem(시제 중요)
+b. 원인 - weil, da
+c. 양보 - obwohl, obgleich, obschon
+d. 조건 - wenn, falls
+e. 목적 - damit
+f. 결과 - so dass / 방법 - indem / 비례 - je ~ desto
+
+```
+
+```
+- wenn oder als?
+
+아버지가 항상 기뻐했다.(HS) 내가 그를 방문했다.(HS)
+-> Mein Vater hat sich immer gefreut. Ich habe ihn besucht.
+
+내가 아버지를 방문했을 때 그는 항상 기뻐했다.
+-> Wenn ich meinen Vater besuchte, freute er sich immer.
+-> Wenn ich meinen Vater besucht habe, hat er sich immer gefreut.
+-> Er freute sich immer, wenn ich meinen Vater besuchte.
+
+
+나는 숙제를 끝냈다.(HS) 나는 산책을 했다.(HS)
+-> Ich war fertig mit Hausaufgaben. Ich ging spazieren.
+
+내가 숙제를 끝냈을 때 나는 항상 산책을 했다.
+-> Wenn ich mit den Hausaufgaben fertig war, ging ich immer spazieren.
+-> Ich ging immer spazieren, wenn ich mit den Hausaufgaben fertig war.
+
+내가 숙제를 끝내면 나는 산책을 한다. (현재나 미래 조건)
+-> Wenn ich mit den Hausaufgaben fertig bin, (dann) gehe ich spazieren.
+-> Ich gehe spazieren, wenn ich mit den Hausaufgaben fertig bin.
+
+나는 시험에 합격하면 휴가를 갈 거다. 
+-> Ich mache eine Urlaub, wenn ich die Prüfung bestehe.
+-> Wenn ich die Prüfung bestehe, (dann) mache ich einen Urlaub.
+
+나는 내일 시간이 있으면 내 친구를 만날거다.
+-> Ich treffe meinen Freund, wenn ich morgen Zeit habe.
+-> Wenn ich morgen Zeit habe, (dann) treffe ich meinen Freund.
+-> Habe ich morgen Zeit, (dann) treffe ich meinen Freund.
+ : wenn이 조건절로 쓰일 때 생략가능(동사가 맨 앞으로)
+ 
+-> Wenn ich morgen Zeit hätte, würde ich meinen Freud treffen.
+ : 내일 시간이 있다면 친구를 만날 텐데.(시간이 없어서 친구를 못 만난다.)
+ 
+ 
+
+나는 베를린에 있었다.(HS) 날씨가 좋았다.(HS)
+-> Ich war in Berlin. Das Wetter was schön.
+
+내가 베를린에 있었을 때 날씨가 좋았다.
+-> Als ich in Berlin war, war das Wetter sehr schön.
+-> Das Wetter war sehr schön, als ich in Berlin war.
+
+내가 숙제를 마쳤을 때가 저녁 8시였다.
+-> Als ich mit den Hausaufgaben fertig war, war es 8 Uhr abends.
+-> Es war 8 Uhr abends, als ich mit den Hausaufgaben fertig war.
+
+내가 15살 이었을 때 매우 게을렀다.
+-> Als ich 15 war, war ich sehr faul.
+-> Ich war sehr faul, als ich 15 war.
+
+집에 되돌아 왔을 때 엄마는 혼자t tv를 보고 있었다.
+-> Als ich nach Hause zurückkom, sah meine Mutter allein fern.
+-> Meine Mutter sah allein fern, als ich nach Hause zurückkam.
+
+이 수업은 내가 생각했던 것 보다 훨씬 더 길게 걸린다.
+-> Als ich dachte, dauert der Unterricht viel länger.
+-> Der Unterricht dauert viel länger, als ich gedacht habe.
+(비교급 : ~보다 ~더한)
+
+그는 선생님으로서 일한다.
+-> Er arbeitet als Lehrer. (동급 : ~로써)
+
+```
+
+```
+- bevor : ~ 하기 전에
+
+잠자러 가기 전에 나는 치아를 닦는다.
+-> Bevor ich ins Bett gehe, putze ich mir die Zähne.
+-> Ich putze mir die Zähne, bevor ich ins Bett gehe.
+
+학교 가기전에 내 방을 정리해야 한다.
+-> Bevor ich zur Schule gehe, muss ich mein Zimmer aufräumen.
+-> Ich muss mein Zimmer aufräumen, bevor ich zur Schule gehe.
+
+```
+
+```
+- bis : ~ 할 때까지
+
+그녀가 되돌아 올 때까지 나는 그녀를 기다린다.
+-> Bis sie zurückkommt, warte ich noch auf sie.
+-> Ich warte noch auf sie, bis sie zurückkommt.
+
+(저) 버스가 출발할 때까지 아직 10분이 있다.
+-> Bis der Bus abfährt, sind es noch 10 Minuten.
+-> Es sind noch 10 Minuten, bis der Bus abfährt.
+
+```
+
+```
+- während : ~ 하는 동안
+
+그가 책을 읽는 동안 나는 편지 한 장을 쓴다.
+-> Während er ein Buch liest, schreibe ich einen Brief.
+-> Ich schreibe einen Brief, während er ein Buch liest.
+
+공부하는 동안 난 음악을 크게 듣는다.
+-> Während ich lerne, höre ich laut Musik.
+-> Während des Lernens höre ich laut Musik.
+
+복문 : 종속접속사 + 		주어 + 형용사/동사
+단문 : 전치사	  +		 명사
+
+```
+
+```
+- nachdem : ~ 한 이후에 ( 시제 중요 )
+
+Nebensatz (nachdem)							Hauptsatz
+	현재완료 / (과거)									현재, 미래
+	과거완료											과거 / (현재완료)
+	
+Nachdem ich gegessen habe, gehe ich jetzt spazieren.
+Nachdem ich gegessen hatte, ging ich spazieren.
+Nach dem Essen gehe ich spazieren.
+							 ging ich spazieren.
+								
+나는 축구를 한 다음에 그녀를 만난다.
+-> Nach dem Fußball treffe ich sie.
+-> Nachdem ich Fußball spiele, treffe ich sie.
+
+나는 축구를 한 다음에 그녀를 만났다.
+-> Nach dem Fußball traf ich sie.
+-> Nachdem ich Fußball gespielt habe, treffe ich sie.
+-> Nachdem ich Fußball gespielt hatte, traf ich sie.
+
+```
+
+```
+- seit(dem) : ~ 한 이래로 (지금까지)
+
+나는 시골에 살면서부터 나는 훨씬 더 건강하다고 느낀다.
+-> Seitdem ich auf dem Land wohne, fühle ich mich viel gesünder.
+-> Seit dem Landleben fühle ich mich viel gesünder.
+
+아이들이 있으면서부터...
+-> Seitdem ich Kinder habe, habe ich wenig Freizeit.
+														muss ich viel mehr arbeiten.
+														
+내가 담배를 끊은 이후부터...
+-> Seitdem ich mit dem Rauchen aufgehört habe, 
+																		fühle ich mich viel gesüner.
+																		habe ich 2 Kilo zugenommen.
+																		freut sich besonders meiner Frau.
+																		spare ich viel Geld.
+																		huste ich nicht mehr.
+
+```
+
+```
+- weil / da : ~ 때문에 (원인)
+
+나는 아프기 때문에 나는 병원으로 간다.
+-> Weil ich krank bin, gehe ich zum Arzt.
+-> Ich gehe zum Arzt, weil ich krank bin.
+
+나는 공부해야 하기 때문에 네 생일파티에 못 간다.
+-> Weil ich lernen muss, komme ich nicht zu deiner Geburtstagsparty.
+-> Ich komme nicht zu deiner Geburtstagsparty, weil ich lernen muss.
+
+나는 내일 일찍 일어나야 하기 때문에 지금 자러 간다.
+-> Weil(da) ich morgen früh aufstehen muss, gehe ich jetzt ins Bett.
+-> Ich gehe jetzt ins Bett, da ich morgen früh aufstehen muss.
+
+Ich muss morgen früh aufstehen, < 	> gehe ich jetzt ins Bett.
+-> deshalb, deswegen, daher, darum
+
+나는 피곤하기 때문에 집으로 가야한다.
+-> Weil ich müde bin, muss ich nach Hause gehen.
+-> Ich muss nach Hause, weil ich müde bin.
+-> Ich bin sehr müde, deswegen muss ich nach Hause.
+
+나는 어머니가 독일인이어서 독일어를 잘 한다.
+-> Weil meine Mutter Deutsche ist, spreche ich gut Deutsch.
+-> Ich spreche gut Deutsch, da meine Mutter Deutsche ist.
+-> Meine Mutter ist Deutsche, deshalb spreche ich gut Deutsch.
+
+```
+
+```
+- obwohl : ~ 임에도 불구하고 (양보)
+	weil <-> obwohl		/		wegen <-> trotz		/		deswegen <-> trotzdem
+
+나는 아픔에도 불구하고 학교로 간다.
+-> Obwohl ich krank bin, gehe ich zur Schule.
+-> Ich gehe zur Schule, obwohl ich krank bin.
+
+나는 공부해야 함에도 네 생일파티에 간다.
+-> Obwohl ich lernen muss, komme ich zu deiner Geburtstagsparty.
+-> Ich komme zu deiner Geburtstagsparty, obwohl ich lernen muss.
+-> Ich muss lernen, trotzdem komme ich zu deiner Geburtstagsparty.
+
+나는 내일 일찍 일어나야 하지만 지금 영화 보러 간다.
+-> Obwohl ich morgen früh aufstehen muss, gehe ich jetzt ins Kino.
+-> Ich gehe jetzt ins Kino, obwohl ich morgen früh aufstehen muss.
+-> Ich muss morgen früh aufstehen, trotzdem gehe ich jetzte ins Kino.
+																	 = dennoch
+																	 
+나는 피곤함에도 불구하고 축구를 한다.
+-> Obwohl ich müde bin, spiele ich Fußball.
+-> Ich spiele Fußball, obwohl ich müde bin.
+-> Ich bin müde, trotzdem spiele ich Fußball.
+
+나는 아빠가 독일임에도 독일어를 잘 못한다.
+-> Obwohl mein Vater Deutscher ist, spreche ich nicht so gut Deutsch.
+-> Ich spreche nicht so gut Deutsch, obwohl mein Vater Deutscher ist.
+-> Mein Vater ist Deutscher, troztdem spreche ich nicht so gut Deutsch.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+1) Er wäscht sich die Hände, bevor dem Essen.
+		-> Er wäscht sich die Hände, bevor er isst.
+2) Sie geht spazieren, nach dem sie etwas gegessen hat.
+		-> Sie geht spazieren, nachdem sie etwas gegessen hat.
+3) Seitdem ich Fahrrad fahre, fühle ich mich gesünder.
+4) Er bleibt im Bett, weil ist er erkältet.
+		-> Er bleibt im Bett, weil er erkältet ist.
+		
+2. 옳게 쓰인 답만을 고른 것은?
+	A : Warum kannst du nicht zur Party kommen?
+	B : <		> ich morgen eine wichtige Prüfung <		>.
+-> Weil, habe
+
+3. 밑줄 친 부분을 옳게 바꾸어 쓴 문장은?
+	< Nach der Abfahrt des Zuges > fängt er an, zu weinen.
+-> Nachdem der Zug anfahren ist,
+
+4. 옳게 쓰인 문장은?
+	독일 여행전에 나는 할머니를 방문한다.
+-> Bevor ich nach Deutschland reise, besuche ich meine Großmutter.
+-> Ich besuche meine Oma, bevor ich nach Deutschland reise.
+-> Vor der Reise nach Deutschland besuche ich meine Oma.
+
+5. 다음 문장을 종속 접속사로 잘 연결한 것은?
+	Der Film ist interessant, deshalb gehe ich morgen ins Kino.
+-> Weil der Film interessant ist, gehe ich morgen ist Kino.
+-> Ich gehe morgen ins Kino, weil der Film interessant ist.
+
+```
+
