@@ -751,7 +751,7 @@ ein Flugticket buchen
 
 ------
 
-### Lektion 2. einpacken / 
+### Lektion 2. einpacken / abfahren
 
 ```
 einpacken : 짐을 싸다
@@ -791,7 +791,52 @@ mit der Fluggesellschaft
 A 항공사로
  : mit der Fluggesellschaft A
 
+```
 
+------
+
+### Lektion 3. dauern
+
+```
+dauern : 시간이 걸리다.
+es dauert + 시간 : ~만큼 시간이 걸린다.
+ca. (zirka) : 대략
+ungefähr : 대략
+die Stunde : 시간
+die Minute : 분
+halb : 반의
+eine halbe Stunde : 한 시간 반
+
+eine Stunde dauern
+30 Minuten dauern
+eine halbe Stunde dauern
+es dauert ca. / ungefähr eine Stunde dauern
+
+ankommen : 도착하다
+erreichen : 도달하다
+die Dame : 숙녀
+der Herr : 신사
+der Hauptbahnhof : 중앙역
+wenig : 적은
+
+in wenigen Minuten ankommen : 몇 분 내로 도착하다.
+in wenigen Minuten erreichen
+Berliner Hauptbahnhof : 베를린의 중앙역
+meine Damen und Herren : 신사 숙녀 여러분
+
+약 10시간이 걸린다.
+ : Es dauert ca. 10 Stunden.
+대략 30분이 걸린다.
+ : Es dauert ungefähr 30 Minuten.
+ : Es dauert ca. eine halbe Stunde.
+베를린 중앙역에 도달하다.
+ : Berliner Hauptbahnhof erreichen. (erreichen은 전치사 X)
+몇 분 내로
+ : in wenigen Minuten.
+신사숙녀 여러분
+ : Meine Damen und Herren.
+베를린 중앙역에 도착하다.
+ : in Berliner Hauptbahnhof ankommen.
 
 ```
 
