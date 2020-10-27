@@ -840,3 +840,53 @@ meine Damen und Herren : 신사 숙녀 여러분
 
 ```
 
+------
+
+### Lektion 4. fragen / anrufen
+
+```
+fragen : 질문하다
+nach : ~ 에 대해서
+stellen : 세우다
+die Frage : 질문
+der Taxifahrer : 택시기사
+der Busfahrer : 버스기사
+
+den Taxifahrer fragen
+den Busfahrer fragen
+nach dem Weg
+eine Frage stellen
+zwei Fragen stellen
+
+anrufen : 전화걸다
+wählen : 전화걸다 (다이얼을 누르다)
+das Hotel : 호텔
+die Jugendherberge : 유스호스텔
+der Notruf : 긴급전화
+die Polizei : 경찰
+
+das Hotel anrufen
+die Polizei anrufen
+die Jugendherberge anrufen
+den Notfur wählen
+110 wählen
+
+길에 대해서 질문하다.
+ : nach dem Weg fragen
+질문 하나를 하다.
+ : eine Frage stellen
+택시기사/버시기사에게 질문하다.
+ : den Taxifahrer/Busfahrer fragen
+호텔로 전화하다.
+ : das Hotel anrufen
+유스호스텔로 전화하다.
+ : die Jugendherberge anrufen
+경찰서에 전화하다.
+ : die Polizei anrufen / den Notruf anrufen
+긴급 전화번호로 전화하다.
+ : den Notruf wählen
+110/112로 전화하다.
+ : 110/112 wählen
+ 
+```
+
