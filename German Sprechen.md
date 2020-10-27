@@ -26,6 +26,8 @@ Es schmeckt mir gut.
 
 ```
 
+------
+
 ### Lektion 11. im Restaurant
 
 ```
@@ -48,6 +50,39 @@ Ich nehme ~	/	Ich möchte ~	/	Ich hätte gern ~
 Ich nehme ein Schnitzel.
 Ich möchte ein helles Bier.
 Ich hätte gern ein Schnitzel und ein dunkles Bier, bitte.
+
+```
+
+------
+
+### Lektion 12. Das war wirklich lecker !
+
+```
+schmecken : ~에게 맛 나다
+wirklich / echt : 정말
+lecker : 맛있는
+
+Hat es Ihnen geschmeckt?
+(Das hat mir) gut geschmeckt.
+Das war sehr gut.
+Das war wirklich lecker !
+
+Hat es Ihnen geschmeckt?
+Ja! Das war sehr gut !
+
+bringen : 가져다 주다
+die Rechnung : 계산서
+sofort : 당장, 즉시
+
+Bringen Sie mir bitte die Rechnung.
+Bringen Sie uns bitte die Rechnung.
+Die Rechnung bitte !
+(Ich) komme sofort.
+(Das) kommt sofort.
+
+Danke schön !
+Bringen Sie mir bitte die Rechnung !
+Kommt sofort !
 
 ```
 
