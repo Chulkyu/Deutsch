@@ -86,3 +86,40 @@ Kommt sofort !
 
 ```
 
+------
+
+### Lektion 13. Ich möchte (be)zahlen
+
+```
+(be)zahlen : 계산하다
+zusammen : 함께
+getrennt : 따로
+das Trinkgeld : 팁
+machen : 만들다
+stimmen : 일치하다
+so : 그렇게
+die Quittung : 영수증
+
+
+Ich möchte bezahlen !
+Zahlen bitte !
+
+(Beszahlen Sie) Zusammen oder getrennt?
+
+Wir möchten bezahlen !
+Ja, zusammen oder getrennt?
+
+Das macht #가격 (zusammen).
+Das macht 18.50 Euro.
+
+(Das) stimmt so !
+
+Getrennt bitte. Ein Schnitzel und ein dunkels Bier.
+Das macht 18.50 Euro.
+Stimmt so.
+
+```
+
+------
+
+### Lektion 14. 
