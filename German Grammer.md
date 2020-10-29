@@ -5833,3 +5833,214 @@ Ich muss morgen früh aufstehen, < 	> gehe ich jetzt ins Bett.
 
 ```
 
+------
+
+### Lektion 19. 종속접속사 2
+
+```
+1. 접속사의 종류와 용법
+2. 문장 만들기 !!!
+```
+
+```
+- 종속 접속사의 종류와 용법
+
+a. 조건 - wenn, falls, sofern
+b. 목적 - damit
+c. 결과 - so dass / 방법 - indem / 비례 - je ~ desto / 비교 - wie, als
+d. 간접 의문문 - ~인지 / ob - ~인지 아닌지
+e. 비현실적 표현 - als ob
+
+```
+
+```
+a. 조건 - wenn, falls, sofern
+
+falls : ~ 할 경우에 (wenn과 유사)
+sofern : ~ 하는 한, ~할 경우 (조건 충족 확률 낮음, 주로 부정문에서 사용)
+wenn : ~ 하다면 (중립)
+
+나는 시간이 있으면 나는 너를 방문한다.
+-> Wenn ich Zeit habe, besuche ich dich.
+-> Habe ich Zeit, besuche ich dich.
+-> Ich besuche dich, wenn ich Zeit habe.
+-> Falls ich Zeit habe, besuche ich dich.
+-> Ich besuche dich, falls ich Zeit habe.
+
+나는 숙제를 끝내면 나는 집으로 간다.
+-> Wenn ich mit den Hausaufgaben fertig bin, gehe ich nach Hause.
+-> Ich gehe nach Hause, wenn ich mit den Hausaufgaben fertig bin.
+-> Bin ich mit den Hausaufgaben fertig, gehe ich nach Hause.
+-> Ich gehe nach Hause, falls ich mit den Hausaufgaben fertig bin.
+
+내일 날씨가 좋으면 나는 내일 축구를 한다.
+-> Wenn das Wetter (morgen) gut ist, spiele ich morgen Fußball.
+-> Ist das Wetter (morgen) gut, spiele ich morgen Fußball.
+-> Ich spiele morgen Fußball, wenn(falls) das Wetter (morgen) gut ist.
+-> Das Fußballspiel morgen ist vom Wetter abhängig.
+
+날씨가 좋으면 우리는 산책을 하러 간다.
+-> Falls das Wetter gut ist, machen wir einen Spaziergang.
+-> Wir machen einen Spaziergang, falls das Wetter gut ist.
+
+내가 시간이 없으면 당신에게 즉시 답변 할게요.
+-> Sofern ich keine Zeit habe, gebe ich Ihnen sofort Bescheid.
+-> Ich gebe Ihnen sofort Bescheid, sofern ich keine Zeit habe.
+
+네가 만나러 오지 못하면 미리 전화줘.
+-> Ruf mich bitte voher an, sofern du nicht zum Treffen kommen kannst.
+
+```
+
+```
+- 목적 damit : ~ 하기 위해
+
+그는 언어지식의 향상을 위해 독일로 간다.
+-> Er fliegt nach Deutschland, damit er seine Deutschkenntnisse verbessert.
+-> Er fliegt nach Deutschland, um seine Deutschkenntnisse zu verbessern.
+(주문장 주어와 부문장 주어가 같을 때 um ~ zu 구문 가능)
+-> Zur Verbesserung der Deutschkenntnisse fliegt er nach Deutschland.
+
+내 남동생이 운동화를 사기 위해 나는 그에게 돈을 준다.
+-> Ich gebe meinem jüngeren Bruder Geld, damit er sich Schuhe kauft.
+(주문장과 부문장 주어가 달라서 um ~ zu 구문 사용 불가)
+
+```
+
+```
+- 결과 ( so dass(sodass) / so + 형용사, dass ~ )
+			 결과 강조  / 형용사 강조
+			 
+그 독일여인은 정말 말이 빨라서 그녀를 이해할 수 없다.
+-> Die Deutsche spricht so schnell, dass man sie nicht verstehen kann.
+-> Die Deutsche spricht schnell, so dass man sie nicht verstehen kann.
+
+그 영화는 너무 지루해서 그녀는 금방 졸았다.
+-> Der Film war so langweilig, dass sie gleich eingeschlafen ist.
+-> Der Flim war langweilig, so dass sie gleich eingeschlafen ist.
+
+그 시험은 너무 어려워서 그는 시험에 떨어졌다.
+-> Die Prüfung war so schwierig, dass er sie nicht schaffen konnte.
+-> Die Prüfung war zu schwierig, als dass er sie hätte schaffen können.
+
+```
+
+```
+- 방법 indem : ~ 을 통해서, 함으로써
+
+그녀는 모든 방법(금전적 수단)을 동원해서 목표를 달성한다.
+-> Sie erreicht das Ziel, indem sie all ihre finanziellen Mittel einsetzt.
+-> Sie erreicht das Ziel (dadurch), dass sie all ihre finanziellen Mittel einsetzt.
+
+그녀는 아기에게 동화를 읽어줌으로써 아기를 진정시킨다.
+-> Sie beruhigt ihr Baby, indem sie ihm ein Märchen vorliest.
+-> Sie beruhigt das Baby (dadurch), dass sie ihm ein Märchen vorliest.
+
+```
+
+```
+- 비례 ( je + 비교급, ~ desto + 비교급 )
+	je + 비 + 주 + 동, desto(umso) + 비 + 동 + 주
+
+사람들은 먹으면 먹을 수록 뚱뚱해 진다.
+-> Je mehr man isst, desto dicker wird man.
+
+높은 곳으로 더 올라 갈수록 더 추워진다.
+-> Je höher man steigt, desto(umso) kälter wird es.
+
+돈을 많이 벌수록 불행해집니다.
+-> Je mehr Geld man verdient, desto unglücklicher wird man.
+
+```
+
+```
+- 비교 ( 원급 + wie / 비교급 + als )
+
+난 엄마만큼 요리를 잘 한다.
+-> Ich koche gut wie meine Mutter (gut kocht).
+
+엄마가 나 보다 요리를 훨씬 더 잘한다.
+-> Meine Mutter kocht viel besser, als ich gut koche.
+-> Meine Mutter kocht viel besser als ich.
+
+```
+
+```
+- 간접의문문 : ~ 지를
+
+나는 그녀가 어디서 왔는지 전혀 모른다.
+-> Ich weiß es gar nicht, woher sie kommt.
+
+당신은 혹시 그녀가 몇 살인지 아세요?
+-> Wissen Sie's vielleicht, wie alt sie ist?
+
+너는 내게 그가 언제 도착하는지 말해 줄 수 있니?
+-> Kannst du mir bitte sagen, wann er ankommt?
+-> Kannst du mir bitte sagen, wann er angekommen ist? (현재완료)
+
+당신은 주말해 뭐 하셨는지 여쭤봐도 될까요?
+-> Darf ich Sie fragen, was Sie am Wochenende gemacht haben?
+
+```
+
+```
+- 간접의문문 : ~ 인지 아닌지
+
+너는 내게 그가 오늘 오는지 말해 줄 수 있니?
+-> Kannst du mir bitte sagen, ob er heute kommt?
+-> Kansst du mir bitte sagen, ob er heute gekommen ist?
+
+넌 주말에 잠만 잤는지 물어봐도 될까?
+-> Darf ich dich fragen, ob du am Wochenende nur geschlafen hast?
+
+```
+
+```
+- 비현실적 화법 : 마치 ~인 것처럼
+
+그는 독일인 같이 독일어를 완벽히 말한다.
+-> Er spricht perfekt Deutsch, als ob er ein Deutscher wäre.
+															 als wäre er ein Deutscher.
+															 
+그녀는 가수 뺨 칠 정도로 노래한다.
+-> Sie singt sehr gut, als wäre sie eine Sängerin.
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Wenn du hast Zeit, du kannst mich besuchen.
+		-> Wenn du Zeit hast, kannst du mich besuchen.
+	2) Wenn du Zeit hast, kannst du mich besuchen.
+	3) Du kannst mich besuchen, wenn hast du Zeit.
+		-> Du kanns mich besuchen, wenn du Zeit hast.
+	4) Du kannst mich besuchen, wenn du hast Zeit.
+		-> Du kannst mich besuchen, wenn du Zeit hast.
+	
+2. 빈 칸에 들어갈 말을 잘 고르세요.
+	A : Wann hat sie Geburtstag?
+	B : Ich weiß nicht genau, <		>
+	-> wann sie Geburtstag hat.
+	
+3. 밑줄 친 부분을 옳게 바꾸어 쓴 문장은?
+	Ich lerne zurzeit sehr fleißig Deutsch,
+	< um später in Deutschland zu studieren. >
+	-> damit ich später in Deutschland studiere.
+	
+4. 옳게 쓰인 문장은?
+	나는 오늘 어머니의 생신인 줄 몰랐다.
+	-> Ich wusste nicht, ob heute meine Mutter Geburtstag hat.
+	-> Ich wusste nicht, dass meine Mutter heute Geburtstag hat.
+	
+5. 문장의 쓰임이 올바르지 않은 것은?
+	1) Er fragt mich, was ich heute vorhabe.
+	2) Je mehr man liest, desto kluger man wird.
+		-> Je mehr man liest, desto klüger wird man.
+	3) Er spielt sehr gut Tennis, als wäre ein Profispieler.
+	4) Ich möchte es wisse, ob sie heute einkauft.
+	5) Man wird immer gesünder, imdem man täglich trainiert.
+	
+```
+
