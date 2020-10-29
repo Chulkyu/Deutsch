@@ -892,4 +892,51 @@ den Notfur wählen
 
 ------
 
-### Lektion 5. 
+### Lektion 5. empfehlen / bummeln
+
+```
+empfehlen : 추천하다 - empfiehlst, empfiehlt / empfahl - empfohlen
+geben : 주다 - gibst, gibt / gab - gegeben
+der Stadtplan : 도시지도
+das Museum : 박물관
+die Kirshe : 교회
+der Dom : 대성당
+
+ein Meseum empfehlen
+eine Kirche empfehlen
+einen Dom empfehlen
+einen Stadplan geben
+
+es gibt + Akk.
+Es gibt ein Museum
+ES gibt eine Kirche
+Gibt es einen Dom?
+Gibt es einen Stadtplan?
+
+bummeln : 돌아다니다
+fotografieren : 사진찍다
+durch + Akk. : ~를 관통하여
+der Park : 공원
+der Fluß : 강
+die Brücke : 다리
+
+durch den Park bummeln
+am Fluß bummeln
+im Museum fotografieren
+auf der Brücke fotografieren
+
+그 박물관을 추천하다.
+ : das Museum empfehlen
+그 도시지도를 주다.
+ : den Stadtplan geben
+교회/대성당 하나가 있다.
+ : es gibt eine Kirche / einen Dom
+공원을 관통하여 돌아다니다.
+ : durch den Park bummeln
+다리 위에서 사진찍다.
+ : auf der Brücke fotografieren
+강가에서 배회하다.
+ : am Fluß bummeln
+ 
+```
+
