@@ -6303,4 +6303,170 @@ Andreas는 어제와 똑같은 양복을 오늘도 입는다.
 
 ------
 
-### Lektion 21. 
+### Lektion 21. 관계대명사 심화
+
+```
+1. 관계대명사의 의미 및 특징
+2. 관계대명사 문장 만들기
+```
+
+```
+- 관계대명사의 의미
+ : 명사 또는 대명사를 부가적으로 설명하는 문장
+ 
+
+- 관계대명사의 특징
+
+대명사 종류					정관계									부정관계
+-------------------------------------------------------
+	관계		    선행사(der,welcher)			후행사(wer,was)
+	대상			  	 사람 & 사물					wer 사람 / was 사물
+ 구별성					  성 & 수 (o)					   성 & 수 (x)
+ 동사위치							끝										 끝
+ 
+ 
+- (정)관계대명사 1격
+
+지시대명사 - 주문장
+관계대명사 - 부문장 (동사의 위치 : 맨 뒤)
+
+나는 영화 한 편을 본다.(HS) 그 영화는 흥미롭다.(HS)
+ : Ich sehe mir einen Film an. Der ist interessant.
+ -> Ich sehe mir einen Film an, der interessant ist.
+ -> Ich sehe mir einen interessant<en> Film an.
+ 
+그 여자는 친절하다. 그녀는 내게 커피를 제공한다.
+ : Die Frau ist nett. Die bietet mir Kaffee an.
+ -> Die Frau ist nett, die mir Kaffee anbietet.
+ -> Die Frau, die mir Kaffee anbietet, ist nett.
+ ㅋㅋㅋ용법 : 1.콤마 2.클라인 3.동사 끝에
+ 
+
+- (정)관계대명사 2격
+
+그 여자는 친절하다. 그녀의 딸이 지금 독일에 산다.
+ : Die Frau ist nett. Deren Tochter lebt jetzt in Deutschland.
+ -> Die Frau ist nett, deren Tochter jetzt in Deutschland lebt.
+ -> Die Frau, deren Tochter jetzt in Deutschland lebt, ist nett.
+ 
+ 
+- (정)관계대명사 3격
+
+그 남학생은 내 동생이다. 그에게 저 여인이 아이스크림을 사준다.
+ : Der Schüler ist mein jüngerer Bruder. Dem kauft die Frau ein Eis.
+ -> Der Schüler, dem die Frau ein Eis kauft, ist mein jüngerer Bruder.
+
+저 여인은 다시 건강하다. 그녀를 의사가 도왔다.
+ : Die Frau ist wieder gesund. Der hat der Arzt geholfen.
+ -> Die Frau, der der Arzt geholfen hat, ist wieder gesund.
+ -> Die Frau, welcher der Arzt geholfen hat, ist wieder gesund.
+ 
+ 
+- (정)관계대명사 4격
+
+그 남자가 내 형이다. 그를 너는 내일 만난다.
+ : Der Mann ist mein älterer Bruder. Den triffst du morgen.
+ -> Der Mann, den du morgen triffst, ist mein älterer Bruder.
+ 
+저 교회는 100년이 넘었다. 그 교회를 작년에 보수했다.
+ : Die Kirche ist über 100. Die hat man letztes Jahr renoviert.
+ -> Die Kirche, die man letztes Jahr renoviert hat, ist über 100.
+수동 -> Die Kirche, die letztes Jahr renoviert worden ist, ist über 100.
+
+
+- (정)관계대명사 + 전치사
+
+나는 그 여자를 안다. 당신은 그녀와 길거리에서 말했다.
+ : Ich kenne die Frau. Mit der sprachen Sie auf der Straße.
+ -> Ich kenne die Frau, mit der Sie auf der Straße sprachen.
+ -> Ich kenne die Frau, mit der Sie auf der Straße gesprochen haben.
+ 
+이들은 그녀의 자녀들이다. 그들을 그녀는 항상 돌봐야 한다.
+ : Sie sind ihre Kinder. Um die muss sie sich immer kümmern.
+ -> Sie sind ihre Kinder, um die sie sich immer kümmern muss.
+ 
+그는 내 교수다. 내 여자 친구가 어제 그를 오래 기다렸다.
+ : Er is mein Professor. Auf den hat gestern meine Freundin lange gewartet.
+ -> Das ist mein Professor, auf den meine Freudin gestern lange gewartet hat.
+ 
+ 
+- (정)관계대명사 + 전치사 = 부사
+
+베를린은 아름답다. 거기서 내가 태어났다.
+ : Berlin ist schön. Dort bin ich geboren.
+ -> Berlin ist schön, wo ich geboren bin.
+ -> Berlin, wo ich geboren bin, ist schön.
+ Die Stadt Berlin, wo ich geboren bin, ist schön.
+ 
+독일은 많은 좋은 자동차를 수출한다. 다니엘은 독일 출신이다.
+ : Deutschland, woher Daniel kommt, exportiert viele gute Autos.
+ 
+ 
+- 부정관계대명사 wer & was
+
+걱정 없는 자가 행복하게 산다.
+ : Wer sorglos ist, (der) lebt glücklich.
+ 
+열심히 일하는 자를 사람들이 기꺼이 돕는다.
+ : Wer fleißig arbeitet, dem hilft man gern.
+ -> Man hilft dem gern, der fleißig arbeitet.
+ 
+좋은 것이 항상 비싼 것은 아니다.
+ : Was gut ist, (das) ist nicht immer teuer.
+
+
+- 부정관계대명사
+
+was의 선행사
+부정대명사 : etwas, nichts, alles, viels, manches ...
+지시대명사 : das ...
+최상급 : das Beste, das Schönste ...
+
+그는 자신이 본 것만 믿는다.
+ : Er glaubt nur das, was er sieht.
+ 
+그는 내가 모르는 걸 많이 묻는다.
+ : Er fragt mich vieles, was ich nicht weiß.
+ 
+그는 내가 답할 수 없는 걸 많이 묻는다.
+ : Er fragt mich vieles, worauf ich nicht antworten kann.
+ 
+```
+
+```
+- 연습문제
+
+1. 빈 칸에 들어갈 단어는?
+	Ist das die Postkarte, <		> du lange gesucht hast?
+-> die / nach der
+
+2. 빈 칸에 들어갈 말로 알맞은 것은?
+	A : Wie heißt der Mann?
+	B : Meinst du den, <		> mich gerade gegrüßt hat?
+-> der
+
+3. 밑줄 친 부분이 바르게 쓰인 문장을 고르세요.
+	1) Alles, < das > sie mir erzält, ist nicht wahr.
+		-> was
+	2) Die Lehrerin, mit < dem > ich gern sprechen möchte, ist schon verheiratet.
+		-> der
+	3) Freiburg, < woher > mein Freund wohnt, ist eine Studentenstadt.
+		-> wo
+	4) Das ist die U-Bahn, mit < dem > wir fahren sollen.
+		-> der
+	5) Treffen wir uns mal dort, < wo > wir uns immer treffen.
+	
+4. 두 문장을 관계문으로 연결했을 때 들어갈 바른 말은?
+	Der Lehrer hat sich gefreut. Die Schüler haben ihm ein Buch geschenkt.
+-> Der Lehrer, <		> die Schüler ein Buch geschenkt <		>, hat sich gefreut.
+	-> dem, haben
+	
+5. 두 문장을 관계문으로 연결했을 때 들어갈 바른 말은?
+	Wie alt ist die Bundeskanzlerin?
+	Wir haben schon im Juli ihren Geburtstag gefeiert.
+-> Wie alt ist die Bundeskanzlerin,
+		<		> Geburtstag wir schon im Juli gefeiert <		>.
+	-> deren, haben
+	
+```
+
