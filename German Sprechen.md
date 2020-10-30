@@ -122,4 +122,39 @@ Stimmt so.
 
 ------
 
-### Lektion 14. 
+### Lektion 14. Könnten Sie mir sagen, wo die Toilette ist?
+
+```
+die Toilette : 화장실
+warten : 기다리다
+sagen : 말하다
+das Klo : 변기
+die Ecke : 모퉁이
+geradeaus : 직진
+rechts : 오른쪽
+links : 왼쪽
+
+Ich muss (ein)mal zur Toilette (gehen).
+Ich muss mal auf die Toilette.
+Ich muss mal aufs Klo.
+
+Ich warte hier.
+Ich warte auf dich.
+Ich warte hier auf dich.
+
+Ich muss mal auf die Toilette.
+Ok(Klar / In Ordnung), ich warte hier.
+
+Wo ist #장소?
+Könnten Sie mir sagen, wo #장소 ist?
+Gehen Sie geradeaus !
+An der Ecke nach #방향
+
+Entschuldigung, könnten Sie mir sagen, wo die Toilette ist?
+Gehen Sie geradeaus und an der Ecke nach rechts.
+
+```
+
+------
+
+### Lektion 15. 
