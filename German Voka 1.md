@@ -940,3 +940,52 @@ auf der Brücke fotografieren
  
 ```
 
+------
+
+### Lektion 6. setzen, sitzen, reden, sagen
+
+```
+setzen : 앉히다
+sitzen : 앉다
+die Bank : 벤치
+das Café : 커피숍
+der Sessel : 1인용 안락의자
+der Rasen : 잔디밭
+
+auf die Bank mich setzen
+auf den Sessel mich setzen
+auf den Rasen mich setzen
+
+auf der Bank sitzen
+auf dem Sessel sitzen
+auf dem Rasen sitzen
+im Café sitzen
+
+reden : 말하다 (~에 대하여 이야기하다)
+sagen : 말하다
+über : ~ 에 대하여
+reden über + 4
+reden von + 3
+das Wetter : 날씨
+nächst : 다음의, 가장 가까운
+das Ziel : 목표
+der Zielort : 목적지
+
+über das Wetter reden
+über das nächste Ziel
+
+그 벤치 위에 앉다.
+ : mich auf die Bank setzen
+그 안락의자 위에 앉아 있다.
+ : auf dem Sessel sitzen
+그 카페 안에 앉아 있다.
+ : im Café sitzen
+커피숍 안에서 날씨에 대해 말하다.
+ : im Café über das Wetter reden
+다음 행선지에 대해 이야기하다.
+ : über den nächsten Zielort reden
+아무 것도 말하지 않다.
+ : nichts sagen
+ 
+```
+

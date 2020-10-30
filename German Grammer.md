@@ -6046,9 +6046,261 @@ wenn : ~ 하다면 (중립)
 
 ------
 
-### Lektion 20. 관계대명사
+### Lektion 20. 대명사 심화1 - 지시대명사
+
+```
+1. 대명사의 종류와 의미 및 특징
+2. 지시대명사와 관계대명사의 차이
+3. 대명사를 이용한 문장 만들기 !
+```
+
+```
+- 대명사
+
+1. 인칭대명사 - Personalpronomen
+2. 소유대명사 - Possessivpronomen
+3. 재귀대명사 - Reflexivpronomen
+4. 의문대명사 - Interrogativpronomen
+5. 부정대명사 - Indefinitpronomen
+6. 지시대명사 - Demonstrativpronomen
+7. 관계대명사 - Relativpronomen
 
 ```
 
 ```
+- 지시대명사의 형태
 
+1. 앞서 말한 사람, 사물 또는 사실을 좀 더 자세히 언급
+	( a. 명사 대신 사용 - 대명사 / b. 부가어적 - 관사 )
+	
+2. 지시적 기능 : 지시대명사 > 인칭대명사
+3. 관계대명사의 선행사로도 사용
+
+- 지시대명사의 종류와 의미
+der, die, das, die : 이, 그 (강조)
+dieser, diese, dieses, diese : 바로 이
+jener, jene, jenes, jene : 저(것, 사람)
+derselbe, dieselbe, dasselbe ... : 그와 똑같은
+solcher, solche, solches, solche : 그러 한(것, 사람)
+
+- 지시대명사 / 관사 der : 이(것, 사람)
+
+					남성					여성					중성						복수
+Nom.			der					 die					das						 die
+Gen.		dessen				deren				 dessen			deren / derer
+Dat.			dem					 der					dem						denen
+Akk.			den					 die					das						 die
+
+
+- dieser : (바로) 이, 그, 후자
+
+					남성					여성					중성						복수
+Nom.		dieser				diese				dieses					diese			
+Gen.		dieses				dieser			dieses					dieser
+Dat.		diesem				dieser			diesem					diesen
+Akk.		diesen				diese				dieses					diese
+
+
+- jener : ~ 저 (사람, 것), 전자
+
+					남성					여성					중성						복수
+Nom.		 jener				jene				 jenes					jene			
+Gen.		 jenes				jener				 jenes					jener
+Dat.		 jenem				jener				 jenem					jenen
+Akk.		 jenen				jene				 jenes					jene
+
+
+- derselbe : ~ 와 동일한
+
+					남성					여성					중성						복수
+Nom.		derselbe		 dieselbe			dasselbe			dieselben
+Gen.		desselben		 derselben		desselben			derselben
+Dat.		demselben		 derselben		demselben			denselben
+Akk.		denselben		 dieselbe			dasselbe			dieselben
+
+
+- solcher : 그러한 (것, 사람)
+
+					남성					여성					중성						복수
+Nom.		solcher			 solche				solches				 solche
+Gen.		solches			 solcher			solches				 solcher
+Dat.		solchem			 solcher			solchem				 solchen
+Akk.		solchen			 solche				solches				 solche
+
+
+- (정)관계대명사
+
+					남성					여성					중성						복수
+Nom.			der					 die					das						 die
+Gen.		 dessen				deren				 dessen					deren
+Dat.			dem					 der					dem						denen
+Akk.			den					 die					das						 die
+
+
+- der (명사 대신)
+	der					die						das						die
+
+Es war einmal ein König, < der > hatte vier Söhne.
+< Die > waren alle intelligent und freundlich.
+
+이 부인을 아세요? / 네, 그녀를 전 잘 알아요.
+Kennen Sie die Frau? / Ja, < die > kenne ich gut.
+
+Lernst du mit Paula? / Nein, mit < der > lerne ich nicht.
+
+Wie heißt das Kind? / < Das > heißt Patrick.
+
+Mögen Sie ihre Freunde? 
+/ Ja, < die > helfen mir immer und sind sehr nett.
+
+Er geht mit seiner Freundin und < deren > Schwestern ins Kino.
+Mit < denen > geht er sehr gut um.
+
+Meine Tante geht mit ihrer Freundin und < deren > Tochter ins Museum.
+
+Das Leben < derer >, die körperlich behindert sind,
+ist nicht leicht.
+
+
+
+- der (정관계대명사의 선행사)
+
+Gott hilft < denen >, die sich selbst helfen.
+ : 하느님은 스스로 돕는 자를 돕는다.
+ 
+Trauen Sie < denen > nicht, die faul sind.
+ : 게으린 자를 당신은 믿지 마세요.
+ 
+Die Frau denkt an < den >, < der > gerade vor ihr stand und lachte.
+ : 그 여자는 막 그녀 앞에 서서 웃었던 그를 생각합니다.
+ 
+ 
+ 
+- der (부정관계대명사의 후치사)
+	wer - der				was - das
+
+< Wer > rastet, < der > rostet
+ : 몸을 쓰지 않으면 녹이 슨다.
+ 
+Wem du hilfst, der hilft dir auch.
+ : 너가 돕는 자가 너에게 또한 도움을 준다.
+ 
+< Was > man verspricht, < (das) > muss man halten.
+ : 약속한 것을 사람들은 지켜야 한다.
+ 
+Was schön aussieht, (das) macht mir Freunde.
+ : 아름다워 보이는 것이 나를 기쁘게 한다.
+
+
+
+- das (총체적 das)
+소개 & 문장 전체
+
+Wer ist das?
+Das ist Frau Meyer.
+Wer sind die Leute?
+Das sind mein Onkel und dessen Sohn.
+Ist er intelligent? Das wusste ich nicht. / Das habe ich nicht gewusst.
+Hast du ihm geholfen? Das gefällt mir sehr.
+
+
+
+- da + 전치사 결합 (사물)
+	an das - daran / mit dem - damit
+	auf dem - darauf / nach dem - danach
+	
+Wartest du auf ein Taxi?
+Ja, ich warte darauf.
+Fährst du mit dem Fahrrad zur Arbeit?
+Ja, damit fahre ich zur Arbeit.
+Meine Arbeit ist ineressant.
+Damit bin ich sehr zufrieden.
+Er hat mir eine Tasche geschenkt.
+Darüber freue ich mich sehr.
+
+
+
+- dieser : 바로 이 / jener : 저
+	특징 : 정관사 변화, 관사와 대명사 형태
+	
+Wie alt ist dieses Mädchen?
+Dieses Auto fährt sehr schnell.
+Die Qualität dieses Rockes ist nicht gut.
+Mit dieser Frau habe ich mich unterhalten.
+Ich will mir dieses Auto kaufen.
+Kennen Sie diese Damen?
+Sie hat einen Bruder und eine Schwester.
+Diese ist intelligent und jener ist mutig.
+
+
+
+- derselbe : ~ 와 동일한, 똑같은
+
+Andreas는 어제와 똑같은 양복을 오늘도 입는다. 
+ : Heute zieht sich Andreas denselben Anzug wie gestern.
+이 둘은 똑같은 도시 출신이다.
+ : Die beiden kommen aus derselben Heimatstadt.
+우린 똑같은 의견이다.
+ : Wir sind derselben Meinung.
+
+
+- solch : ~ 그러한
+
+그러한 여자를 난 신뢰할 수 없다.
+ : Solcher Frau kann ich nicht vertrauen.
+ 	 Solch einer (Frau)
+
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Das ist meine Eltern.
+		-> Das sind meine Eltern.
+	2) Wir sind beiden dieselbe Meinung.
+		-> Wir sind beide derselben Meinung.
+	3) Man kann einen solchen Mann nicht trauen.
+		-> Man kann einen solchem Mann nicht trauen.
+		-> Man kann solch einem Mann nicht trauen.
+	4) Ich habe einen Bruder und eine Schwester.
+		 Dieser ist nett und jene ist hübsch.
+		 	-> Diese ist nett und jener ist hübsch.
+	5) Deine Frau geht mit ihrer Freundin und deren Sohn.
+	
+2. 빈 칸에 들어갈 말을 잘 고르세요.
+	A : Weißt du, dass er mich heute besucht?
+	B : Ach so, <		> freust du dich.
+-> darauf
+	
+3. 밑줄 친 부분에 들어갈 말은?
+	Mein Freund kauft seinen Eltern ein Auto.
+  <		> fahren <		> gern spazieren.
+ -> Die, damit
+ 
+4. 옳게 쓰인 질문의 답이 아닌 것은?
+	1) Welche Bluse gehört dir? - Die auf dem Bett.
+	2) Wen interessiert das Buch? - Das interessiert mir.
+		-> Das interessiert mich.
+	3) Kennst du Frau Kim? - Ja, natürlich. Ich kenne die schon lange.
+	4) Warum bist du so wütend?
+		 - Solch einen Film möchte ich mir nie wieder anschauen.
+	5) Mit wem hast du so lange gesprochen?
+		 - Ich sprach mit meiner Lehrerin und deren Tochter.
+		 
+5. 문장이 올바르게 쓰인 것은?
+	1) Diese Arbeit gefällt denen nicht, die faul ist.
+		-> Diese Arbeit gefällt denen nicht, die faul sind.
+	2) In dieser Haus wohne ich schon seit 6 Jahren.
+		-> In diesem Haus wohne ich schon seit 6 Jahren.
+	3) Dieser weiße Rock gefällt der arroganten Frau nicht.
+	4) Wir kommen beide aus derselbe Stadt.
+		-> Wir kommen beide aus derselben Stadt.
+	5) Wer raucht, dem gefährdet seine Gesundheit.
+		-> Wer raucht, der gefährdet seine Gesundheit.
+		
+```
+
+------
+
+### Lektion 21. 
