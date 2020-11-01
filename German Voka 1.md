@@ -989,3 +989,55 @@ der Zielort : 목적지
  
 ```
 
+------
+
+### Lektion 7. übernachten, verlassen, das Wetter
+
+```
+übernachten : 숙박하다
+verlassen : 떠나다
+die Nacht : 밤
+der Tag : 날
+die Stadt : 도시
+der Staat : 국가
+
+eine Nacht übernachten
+2 Nächte übernachten
+
+nach einem Tag verlassen
+die Stadt verlassen
+den Staat verlassen
+
+regnen : 비오다
+schneien : 눈오다
+scheinen : 빛이 나다
+die Sonne : 태양
+die Sonne scheint : 햇빛이 빛나다
+windig : 바람 부는
+es ist windig : 바람이 분다
+schön : 아름다운
+
+es regnet den ganzen Tag
+es schneit
+es ist schön
+es ist windig
+die Sonne scheint
+
+이틀 밤을 숙박하다.
+ : 2 Nächte übernachten
+그 도시/국가를 떠나다.
+ : die Stadt/den Staat verlassen
+비가 너무 많이 오다.
+ : es regnet zu viel
+하루종일 눈이 오다.
+ : es schneit den ganzen Tag
+바람이 불다.
+ : es ist windig
+날씨가 좋다.
+ : es ist schön
+ 
+```
+
+------
+
+### Lektion 8. 
