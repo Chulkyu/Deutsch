@@ -157,4 +157,58 @@ Gehen Sie geradeaus und an der Ecke nach rechts.
 
 ------
 
-### Lektion 15. 
+### Lektion 15. Darf ich die Jacke anprobieren?
+
+```
+die Jacke : 자켓
+der Mantel : 코트, 외투
+die Bluse : 블라우스
+das Kleid : 원피스
+die Hose : 바지
+das Hemd : 셔츠
+anprobieren : 입어보다
+natürlich : 물론, 당연히
+die Umkleidekabine : 탈의실
+passen + 3격 : ~에게(사이즈,스케쥴)맞다, 적합하다. 
+die Größe : 사이즈
+
+Darf ich #동사원형 ? : ~ 해도 될까요?
+Darf ich + 목적어 + 동사원형 ? 
+Darf ich sehen?
+Darf ich die Jacke anprobieren?
+
+Natürlich !
+Selbstverständlich !
+
+Da ist #장소. : 저기에 ~가 있어요.
+Dort ist #장소 : 저기에 ~가 있어요.
+Hier ist #장소 : 여기에 ~가 있어요.
+Da ist die Umkleidekabine. : 저기에 탈의실이 있어요.
+
+Darf ich die Jacke anprobieren?
+Selbstverständlich ! Da ist die Umkleidekabine.
+
+Das passt mir gut. : 그것이 나에게 잘 맞아.
+
+Passt Ihnen die Größe? : 사이즈가 맞으세요?
+Passt dir die Größe?
+
+Haben Sie etwas Größeres? : 더 큰 거 있나요?
+etwas 형용사(첫글자 대문자)es : 형용사한 것
+nichts 형용사es
+etwas Neues : 새로운 것
+etwas Kleineres : 더 작은 것
+
+Passt Ihnen die Größe?
+Nein, haben Sie etwas Größeres?
+
+```
+
+------
+
+### Lektion 16.
+
+```
+
+```
+
