@@ -6472,4 +6472,334 @@ was의 선행사
 
 ------
 
-### Lektion 22.  
+### Lektion 22.  대명사 심화3 ( 다른 대명사들의 활용 )
+
+```
+- 인칭대명사
+
+너 랩톱 하나 있어? - 응, 그건 꽤 낡았어.
+ : Hast du einen Laptop? - Ja, er ist aber ziemlich alt.
+ 
+너 누나 하나 있어? - 응, 근데 난 그녈 미워해.
+ : Hast du eine Schwester? - Ja, aber ich hasse sie.
+ 
+너 새 선반 샀니? - 응, 그건 정말 비싸.
+ : Hast du ein neues Regal? - Ja, aber es ist sehr teuer.
+ 
+너 그 신발 얼마야? - 159 Euro.
+ : Wie viel kosten die Schuhe? - Sie kosten Hundertneunundfünfzig Euro.
+ : Was kosten die Schuhe
+ 
+```
+
+```
+- 인칭대명사 + 전치사
+
+너 누굴 기다리니? - 난 그를 기다린다.
+ : Auf wen wartest du? - Ich warte auf ihn.
+
+내 아들은 고작 15 살이야. 난 그를 돌봐야 해.
+ : Mein Sohn ist erst 15 Jahre alt. Ich muss mich um ihn kümmern.
+ 
+너 Paula 아니? - 그럼, 난 그녀를 아직도 분명히 기억해.
+ : Kennst du Paula? - Natürlich, ich erinnere mich deutlich an sie.
+ 
+```
+
+```
+- 소유대명사 = 소유관사 + 정관사 어미변화
+
+내 차는 낡았어. 네 건 새 거지, 맞지?
+ : Mein Auto ist alt. Dein(e)s ist neu, oder?
+ 
+네 가방은 비싸 보이네. 내 거는 저렴해.
+ : Deine Tasche sieht teuer aus. Meine ist aber günstig.
+
+네 외투는 정말 두툼하네, 내 건 완전히 얇은데.
+ : Dein Mantel ist sehr dick, aber meiner ist ganz dünn.
+네 (외투)거를 내게 줄래?
+ : Kannst du mir deinen reichen?
+ : Kansst du mir deinen geben?
+ 
+네 아이들은 키가 크네. 우리 아이들은 다 작아. 정말 속상해.
+ : Deine Kinder sind groß. Unsere sind aber alle klein.
+ 	 Das gefällt mir gar nicht.
+
+이거 당신의 집들인가요? 네, 그건 제 겁니다.
+ : Sind das Ihre Häuser? Ja, Das sind meine.
+ 
+내게 너의 핸드폰을 빌려 줄 수 있니?
+ : Kannst du mir bitte dein Handy leihen? Klar, hier ist meins. 
+내 핸드폰을 네게 줄게. 내 거 사용해도 돼.
+ : Ich gebe dir meins. Du kannst meins benutzen.
+
+```
+
+```
+- 의문대명사 wer & was
+
+이것은 누구의 책이지?
+ : Wessen Buch ist das?
+그 건 내 부인 건데.
+ : Es gehört Meiner Frau.
+ : Das ist das Buch meiner Frau.
+ : Das ist das Buch von meiner Frau.
+ 
+Wer ist das? - Das ist peter.
+Wessen Rock ist das? - Das ist der Rock meiner Mutter.
+Wem hilfst du? - Ich helfe meinem Vater.
+Wen besuchst du morgen? - Meinen Onkel.
+
+Was sind Sie von Beruf? - Ich bin Lehrer.
+Was machen Sie morgen? - Ich arbeite morgen.
+ 
+```
+
+```
+- 의문대명사 + 전치사
+
+Mit wem gehen Sie gern ins Kion? - Mit meiner Schwester.
+Von wem haben Sie's gehört? - Von meiner Oma.
+Wofür lernst du? Für die Prüfung? - Ja, dafür lerne ich.
+Für wen arbeiten Sie so fleißig? - Für meine Familie.
+
+```
+
+| 사람 |         질문 : 전치사 + 의문대명사          | 답변 : 전치사 + 인칭대명사 |
+| :--: | :-----------------------------------------: | :------------------------: |
+|      | Auf wen wartest du?<br />Auf deinen Freund? |   Ja, ich warte auf ihn.   |
+| 사물 |            질문 : wo(r) + 전치사            |   답변 : da(r) + 전치사    |
+|      |    Worauf wartet sie?<br />Auf den Bus?     |   Ja, sie wartet darauf.   |
+
+```
+- welcher : ~(이것 중) 어느
+
+특징 : a. 미리 알려진 정보 - 선택
+			b. 정관사, 지시대명사로 대답
+
+A : Alle Blusen gefallen mir. Welche soll ich aber nehmen?
+B : Die braune (sollst du nehmen). Die steht dir am besten.
+
+A : Welches Fach magst du gern?
+B : Biologie und Englisch.
+A : Welches magst du nicht gern?
+B : Mathematik und Deutsch. Die mag ich nicht gern.
+
+```
+
+```
+- was für einer : 어떤
+
+특징 : a. 처음 언급된 사물, 사물의 특징 묘사
+			b. 단수 : 부정관사로 대답
+
+A : Was für eine Tasche brauchst du denn?
+	: Was brauchst du denn für eine Tasche?
+B : Ich brauche eine große schwarze Tasche.
+
+A : Was für Bücher liest du gern?
+B : Ich lese gern Romane.
+
+A : Gestern hat er sich eine Jacke gekauft.
+B : Was für eine denn?
+	: Was für eine Jacke hat er sich denn gekauft?
+	
+```
+
+```
+- 부정대명사 einer / keiner / welcher
+
+특징 : a. 부정관사와 복수 (무관사)
+			b. 단수의 물질명사 (무관사)
+			
+A : Hast du einen PC?
+B : Nein, ich habe keinen.
+A : Hast du keinen PC?
+B : Doch, ich habe einen.
+
+A : Brauchst du eine Pause?
+B : Nein, ich brauche keine.
+
+(관사 없을 땐 welche)
+A : Hat er Kinder?
+B : Nein, aber er möchte welche.
+A : Haben wir Milch?
+B : Ja, wir haben welche.
+A : Haben wir Kaffee?
+B : Nein, wir haben keinen.
+A : Haben wir Käse?
+B : Ja, wir haben welchen.
+A : Haben wir Obst?
+B : Ja, wir haben welches.
+
+```
+
+```
+- einer : ~ 중 하나
+
+내 여자친구는 학급에서 가장 예쁜 여학생들 중 하나다.
+ : Meine Freundin ist eine der hübschesten Schülerinnen in ihrer Schulklasse.
+ 
+이것은 틀림없이 독일의 가장 오래된 축제 중 하나이다.
+ : Das ist bestimmt eines der ältesten Feste Deutschlands.
+ 
+민선생은 한국의 가장 중요한 독일어 선생님 중 하나이다.
+ : Herr Min ist einer der wichtigsten Deutschlehrer in Korea.
+
+```
+
+```
+- 부정대명사 man
+
+Nom.	man
+Gen.	 -
+Dat.	einem
+Akku. einen
+
+In der Schweiz spricht man auch Deutsch.
+Man darf hier nicht parken.
+Das Angebot gefällt einem überhaupt nicht(=gar nicht).
+Der Lärm ärgert einen sehr.
+ 
+```
+
+```
+- jemand / niemand
+
+Nom. 		jemand					niemand
+Gen.		jemandes				niemandes
+Dat.		jemand(em)			niemand(em)
+Akk.		jemand(en)			niemand(en)
+
+A : Kennen Sie hier jemanden?
+B : Nein, Ich kenne niemanden.
+
+A : Hast du mit jemandem gesprochen?
+B : Nein, idch habe mit niemandem gesprochen.
+
+A : Hat jemand noch eine Frage?
+B : Niemand.
+
+```
+
+```
+- etwas / nichts
+
+Nom.		(et)was				nichts
+Gen.			 -						-
+Dat.			 -						-
+Akk.		(et)was				nichts
+
+A : Hast du (et)was gegessen?
+B : Ja, ich habe was gegessen.
+
+A : Hast du heute etwas vor?
+B : Nein, ich habe nichts vor.
+
+A : Gibt es etwas Neues?
+B : Nein, es gibt nichts Neues.
+
+- 명사, 형용사 비교급 앞 = ein bisschen
+Haben Sie etwas Geld?
+Können Sie bitte etwas langsamer sprechen?
+
+```
+
+```
+- jeder : 각자가 / aller : 모든 ~이
+```
+
+|      |               |     단수      |               | 복수(pl.) |
+| :--: | :-----------: | :-----------: | :-----------: | :-------: |
+|      |     남성      |     여성      |     중성      |           |
+| Nom. | jeder / aller |  jede / alle  | jedes / alles |  - alle   |
+| Gen. | jedes / alles | jeder / aller | jedes / alles |  - aller  |
+| Dat. | jedem / allem | jeder / aller | jedem / allem |  - allen  |
+| Akk. | jeden / allen |  jede / alle  | jedes / alles |  - alle   |
+
+```
+- jeder / aller
+
+Ich gebe jedem Kind ein Geschenk.
+ = Ich gebe allen Kindern ein Geschenk.
+ 
+Der Professor fragt jeden Studenten.
+ = Der Professor fragt alle Studenten.
+
+```
+
+```
+- viele, wenige, einige ...
+
+(독자적으로 쓰였을 때 = 사람을 지칭)
+Viele haben mich gestern besucht. 
+Nur wenige blieben bis spät in die Nacht.
+Einige kommen aus der Schweiz.
+
+Vor einigen Monaten habe ich sie getroffen.
+
+Hast du viele Bücher?
+Ja, sehr viele.
+Nein, nur wenige. (Bücher habe ich)
+
+```
+
+ ```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Hast du etwas gehört? - Nein, ich habe nicht gehört.
+		-> Nein, ich habe nichts gehört.
+	2) Ist jemand hier? - Nein, jeder ist nicht hier.
+		-> Nein, niemand ist hier.
+	3) Haben wir Gemüse? - Ja, wir haben noch welches.
+	4) Einstein war eines der wichtigsten Physiker der Welt.
+		-> Einstein war einer der wichtigsten Physiker der Welt.
+	5) Haben Sie einen Kuli? - Nein, ich habe keine.
+		-> Nein, ich habe keinen.
+		
+2. 빈 칸에 들어갈 부정대명사는?
+	A : Hier darf <			> eigentlich nicht rauchen.
+	B : Stimmt. So was stört <			> sehr.
+-> man, einen
+
+3. 밑줄 친 용법이 문법에 맞게 쓰인 문장은?
+	1) Haben Sie etwas Interessant gehört?
+		-> Haben Sie etwas Interessantes gehört?
+	2) Ich suche jetzt ein Hotel. Können Sie mir bitte einen empfehlen?
+		-> Können Sie mir bitte eines empfehlen?
+	3) Hast du keine Freundin? - Ja, ich habe keine.
+		-> Nein, ich habe keine.
+	4) Vor alles soll man gut Deutsch sprechen,
+		 wen man in Deutschland arbeiten möchte.
+			-> Vor allem soll man gut Deutsch sprechen,
+	5) Jedes zweite Jahr findet die Ausstellung statt.
+	
+4. 옳게 쓰인 질문의 답이 아닌 것은?
+	1) Jemand hat im Büro geraucht. - So etwas macht man nicht.
+	2) Hast du etwas verstanden? - Nein, ich habe nichts verstanden.
+	3) Wo sind die Leute? - Alle sind schon nach Hause gegangen.
+	4) Ist was paasiert? - Nein, keiner ist passiert.
+		-> Nein, nichts ist passiert.
+	5) Wohin seid ihr gegangen? - Wir sind alle ins Café gegangen.
+	
+5. 문장이 올바르게 쓰인 것은?
+	1) Er weiß alles.
+	2) Jeder Mittwoch spielen wir zusammen Fußball.
+		-> Jeden Mittwoch ...
+	3) Auf allen Fall fliege ich nach Deutschland.
+		-> Auf jedem Fall / Auf alle Fälle
+	4) Jedes Kind wird geholfen.
+		-> Jedem Kind ...
+			 Man hilft allen Kindern / jedem Kind.
+			 Es wird allen Kindern / jedem Kind geholfen.
+			 	= Allen Kindern / Jedem Kind wird geholfen.
+	5) Alle Mensch brauchen Liebe.
+		-> Alle Menschen / Jeder Mensch
+	
+ ```
+
+------
+
+### Lektion 23.
+
