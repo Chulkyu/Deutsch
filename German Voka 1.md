@@ -1040,4 +1040,51 @@ die Sonne scheint
 
 ------
 
-### Lektion 8. 
+### Lektion 8. bleiben, losgehen, warten, erwarten
+
+```
+bleiben : 머무르다
+losgehen : 떠나다
+los : 풀린 (느슨한x)
+los ! : 시작 !, 출발 !
+lass es los : let it go
+losfahren : 출발하다
+ein paar : 몇몇의
+einig : 몇몇의
+danach : 그후에
+
+ein paar Tage bleiben
+einige Nächte bleiben
+nach Frankfurt losgehen
+danach losgehen
+
+warten : 기다리다
+erwarten : 기대하다
+die Schlange : 뱀, 줄
+die Hilfe : 도움
+seit + 현재시제 : ~부터 현재까지
+seit langem : 오래전부터
+
+in der Schlange warten
+auf die Hilfe warten
+seit gestern erwarten
+seit langem erwarten
+
+이틀을 머무르다.
+ : zwei Tage bleiben
+며칠 머무르다.
+ : ein paar Tage bleiben
+ : einige Tage bleiben
+떠나다.
+ : losgehen / losfahren
+줄을 서서 기다리다.
+ : in der Schlange warten
+오래전부터 도움을 기다리다.
+ : seit langem auf die Hilfe warten
+좋은 날씨를 기대하다.
+ : ein schönes Wetter erwarten
+ 
+```
+
+
+
