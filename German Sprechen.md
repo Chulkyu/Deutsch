@@ -206,9 +206,48 @@ Nein, haben Sie etwas Größeres?
 
 ------
 
-### Lektion 16.
+### Lektion 16. Was hätten Sie gern?
 
 ```
+der Apfel
+die Traube
+die Erdbeere
+die Banane
+der Pfirsich : 복숭어
+
+Was möchten Sie?
+Was hätten Sie denn gern?
+Was brauchen Sie?
+Sie wünschen?
+
+Ich möchte 2 Kilo Tamaten.
+Ich hätte gern 2 Kilo Tomaten.
+Ich brauche 2 Kilo Tomaten.
+
+Guten Tag ! Was hätten Sie denn gern?
+Guten Tag ! Ich möchte 2 Kilo Tomaten.
+
+Brauchen Sie sonst noch etwas?
+Wünschen Sie sonst noch etwas?
+Sonst noch etwas?
+
+Das ist alles.
+Das war's.
+
+
+- 단위명사
+Kilo(gramm) : ein Kilo Äpfel
+Gramm : 200 Gramm Salz
+
+여성 단위명사 (복수 -> 복수형)
+Dose (캔, 깡통) : zwei Dosen Mais(옥수수)
+Flasche (병, 플라스틱병) : drei Flaschen Wein
+Packung (팩) : drei Packungen Milch 
+
+여성이 아닌 단위명사 (단위명사로 쓰일 때 복수형 안써도 됨)
+das Stück (조각) : zwei Stück Pizza
+das Glas : drei Glas Bier
+
 
 ```
 
