@@ -248,6 +248,5 @@ Packung (팩) : drei Packungen Milch
 das Stück (조각) : zwei Stück Pizza
 das Glas : drei Glas Bier
 
-
 ```
 
