@@ -250,3 +250,32 @@ das Glas : drei Glas Bier
 
 ```
 
+------
+
+### Lektion 17.  könnten Sie mir helfen?
+
+```
+los : 일어난, 발생한
+das Pfand : 보증금
+denn : 도대체(의문문), 왜냐하면
+funktionieren : 작동하다
+kaputt : 고장난
+das Gerät : 기계
+die Maschine : (큰)기계
+der Apparat : 전화기, 통신기걔
+der Automat : 자판기
+
+Können Sie mir helfen?
+Könnten Sie mir helfen?
+Ich brauche Ihre Hilfe.
+
+Was ist denn los?
+Was ist passiert?
+
+Das (Gerät) funktioniert nicht.
+Ich glaube, das ist kaputt.
+Das ist nicht kaputt.
+Das (Gerät) funktioniert doch.
+
+```
+
