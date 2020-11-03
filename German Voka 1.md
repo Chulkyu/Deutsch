@@ -1086,5 +1086,55 @@ seit langem erwarten
  
 ```
 
+------
 
+### Lektion 9. freuen, mitfahren, abholen
+
+```
+freuen : 기쁘게 하다
+auf : ~에 대하여
+über : ~에 대하여
+freuen auf + 미래 : ~에 대하여 고대하다
+freuen über + 과거 : (일어난 일에)에 대하여 기뻐하다
+schon : 이미
+das Geschenk : 선물
+die Erinnerung : 추억
+
+mich über das Geschenk freuen
+mich schon auf morgen freuen
+
+mitfahren : 동승하다
+abholen : 마중나가다
+der Flughafen : 공항
+der Hafen : 항구
+der Bahnhof : 기차역
+die Bushaltestelle : 버스정류장
+bis zu + 3격 : ~까지
+
+bis zum Flughafen mitfahren
+bis zur Bushaltestelle mitfahren
+am Bahnhof abholen
+
+내일이 벌써 기대되어 기쁘다.
+ : mich schon auf morgen freuen
+받은 선물에 기쁘게 생각하다.
+ : mich über das Geschenk freuen
+계획이 기대되어 기쁘다.
+ : mich auf den Plan freuen
+좋은 추억에 기쁘다.
+ : mich über die guten Erinnerungen freuen
+공항/기차역까지 동승하다.
+ : bis zum Flughafen / Bahnhof mitfahren
+버스정류장에 마중나가다.
+ : an der Bushaltestelle abholen
+ 
+```
+
+------
+
+### Lektion 10. 
+
+```
+
+```
 
