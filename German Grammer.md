@@ -6801,5 +6801,215 @@ Nein, nur wenige. (Bücher habe ich)
 
 ------
 
-### Lektion 23.
+### Lektion 23. das VS es
+
+```
+ 1. das의 기능과 특징 (문장비교)
+ 2. es의 기능과 특징 (문장비교)
+ 3. 문제 풀이
+```
+
+```
+- das의 기능 및 특징
+
+a. 정관사
+b. 관계대명사
+c. 사람 및 사물 소개
+d. 앞 문장 전체 : 개념 설명 (das 위치 : 거의 맨 앞)
+```
+
+| das의 기능 및 특징                                           |
+| ------------------------------------------------------------ |
+| 정관사                                                       |
+| Das Essen schmeckt sehr.                                     |
+| Das Handy ist altmodisch.                                    |
+| 관계대명사                                                   |
+| Das Essen, das gut schmeckt, ist meist teuer.                |
+| Das Handy, das ich gestern kaufen wollte, war schon weg.     |
+| 사람 및 사물                                                 |
+| Das ist mein Handy.                                          |
+| Das sind meine Eltern.                                       |
+| 앞 문장 전체                                                 |
+| Er ist gestern vom Fahrrad gestürzt und bleibt jetzt im Krankenhaus. |
+| Wirklich? Das wusste ich nicht.                              |
+
+```
+- es의 기능과 특징
+
+a. 인칭대명사 : 앞의 명사를 대신함.
+b. 술어 대신 : 명사, 대명사, 형용사 및 부사를 받음
+c. 앞 문장의 전체 또는 일부
+d. 문장 일부 강조
+e. 문법상의 주어 : 가주어
+f. zu + Inf. 문장 또는 dass~ 문장 : 가주어, 목적어
+g. 그 외 : 비인칭주어 / 숙어
+
+- a. 인칭대명사
+네 차 어디에 있니?
+ : wo steht dein Auto?
+차고에.
+ : (Es steht) in der Garage.
+어제 티셔츠 하나 샀어.
+ : Gestern habe ich ein T-Shirt gekauft.
+그걸 그녀에게 선물할거야.
+ : Ich will es ihr schenken.
+
+- b. 술어 대신 : 명사, 대명사, 형용사 및 부사
+그는 부자이지만 난 안 그래.
+ : Er ist reich, ich bin es nicht.
+그가 Walter 라고? 정말이네. 그가 맞네.
+ : Ist er Walter? Stimmt, er ist es.
+
+
+- c. 앞 문장 전체 또는 일부분
+그녀는 이혼했다.
+ : Sie ist geschieden.
+알고 있어.
+ : Ich weiß es. = Das weiß ich.
+네가 시험에 실패해서 아쉽다. 잊어라.
+ : Schade, dass du die Prüfung nicht geschafft hast.
+ 	 Vergiss es doch.
+집에서 피아노 치면 안 된다. 여기선 금지야.
+ : Ich darf zu Hause nicht Klavier spielen.
+	 Es ist hier verboten.
+
+
+- d. 문장 일부분 강조 : 문법상 주어
+내가 어제 산 건 볼펜 한 자루였다.
+ : Es war ein Kuli, den ich mir gestern kaufte. (볼펜 강조)
+내가 볼펜 하나 산 건 어제였다.
+ : Es war gestern, dass ich mir einen Kuli gekauft habe. (어제 강조)
+ 
+
+- e. 문법상 주어 : 정동사 논리상 주어에 일치, 첫 자리를 잃으면 생략 (소개 강조)
+옛날 옛적에 왕이 하나 있었다.
+ : Es war einmal ein König.
+커피숍에서 많은 사람들이 얘기를 나누고 있다.
+ : Im Café unterhalten sich viele Leute.
+ -> Es unterhalten sich im Café viele Leute.
+이미 손님들이 기다리고 있다.
+ : Die Gäste warten schon.
+ -> Es warten schon die Gäste.
+ 
+Es wird hier heute gefeiert.
+= Heute wird hier gefeiert.
+= Man feiert heute.
+
+Es werden in dieser Straße neue Häuser gebaut. (수동태)
+= In dieser Straße werden Neue Häuser gebaut.
+= Man baut in dieser Straße neue Häuser. (능동태)
+
+
+- f. zu+ Inf. 문장 / dass~ 문장 : 가주어, 목적어 도치되면 es 생략
+독일어를 완벽히 구사하는 것은 힘들다.
+ : Es ist schwer, Deutsch zu beherrschen.
+ = Deutsch zu beherrschen ist nicht leicht.
+ 
+그가 항상 많은 돈을 지출하는 것이 내 맘에 안 든다.
+ : Mir gefällt es nicht, wenn er immer viel Geld ausgibt.
+ = Dass er immer viel Geld ausgibt, gefällt mir nicht.
+ 
+담배 끊을 것을 약속할게.
+ : Ich verspreche es dir, dass ich nicht mehr rauche.
+ = Ich verspreche (es) dir, nicht mehr zu rauchen.
+
+부모님은 내가 독일에서 공부하는 걸 허락했다.
+ : Meine Eltern haben es mir erlaubt, dass ich in Deutschland studiere.
+= Sie haben (es) mir erlaubt, in Deutschland zu studieren.
+
+
+- g. 그 외 : 비인칭주어(자연,감정,상태 ...) - 생략 안 됨
+날씨 : Es regnet. / Es schneit. / Es donnert.
+			Es hat geregnet. / Es hat geschneit. / Es hat gedonnert.
+			Es ist mir kalt. / Es ist warm. (heiß, kühl)
+			
+시각 : Es ist spät. / Es ist noch 6.
+			Es wird Abend. / Es ist Frühling.
+			Es ist heute Freitag.
+			
+정해진 표현 3격 : Es geht mir gut.
+							 Es tut mir leid.
+							 Es schmeckt mir.
+							 Es tut weh.
+							 Wie gefällt es dir hier in Seoul?
+
+정해진 표현 4격 : Es freut mich.
+							 Freut mich, dass du kommst.
+							 Es friert mich. 
+							 
+숙어 : es gibt + 4격 : ~이 있다.
+			Gibt es hier eine Apotheke?
+			Ja, gegenüber der Post gibt es eine.
+			
+			es handelt sich um + 4 : ~과 관건이다.
+			= es geht um + 4
+			Es geht mir um Geld.
+			Es handelt sich um die Ehre.
+			
+			es kommt auf + 4 + an : ~에 달려있다.
+			Es kommt auf das Wetter an, ob wir morgen einen Ausflug machen.
+			
+			es kommt darauf an : 그때그때 다르다. 상황에 따라 다르다.
+			
+- 많이 쓰이는 구문  
+Ich habe es eilig : 바쁘다.
+Madch's gut : 안녕, 잘 가 (친할 때)
+es gut haben : 행복, 부유하다
+
+Ich habe es eilig, denn der Zug fährt gleich.
+Ich habe es gut. = Ich bin glücklich.
+
+- 수사 (정관사 약변화 어미)
+erst, dritt, siebt, acht 
+1~19 : -t / 20~ : -st
+
+In welchem Stock wohnst du? - Im dritten Stock.
+Der wieveilte ist heute? Heute ist der fünfundzwanzigste Zwölfte.
+```
+
+```
+- 연습문제
+
+1. 옳게 쓰인 문장을 고른 것은?
+	1) Wie gefällt dir hier in Berlin?
+		-> Wie gefällt es dir hier in Berlin?
+	2) In der Stadtmitte es gibt einen Dom.
+		-> In der Stadtmitte gibt es einen Dom.
+	3) Im Winter schneit in Korea viel.
+		-> IM Winter schneit es in Korea viel.
+	4) Im Frühling wird es warm.
+	5) Wenn es regnet, ist dunkel.
+		-> Wenn es regnet, ist es dunkel.
+		
+2. 밑줄 친 부분이 가리키는 말은?
+	Er ist sehr gesund, aber sie ist < es > nicht.
+-> gesund
+
+3. 밑줄 친 용법이 문법에 맞게 쓰인 문장은?
+	1) Es fehlt mich an Geduld.
+		-> Es fehlt mir an Geduld.
+	2) Es liegt nicht an dir.
+	3) Es führt viele Wege nach Rom.
+		-> Es führen viele Wege nach Rom.
+	4) Es sind viele Bäume im dunklen Wald.
+	5) Es langweilt mich, auf dich zu warten.
+	
+4. 밑줄 친 단어가 옳게 쓰이지 않은 것은?
+	1) Wie geht es ihm denn? - Ihm geht es nicht so gut.
+	2) Weißt du, dass Frank schwer verletzt ist?
+		 - Echt? Dass habe ich nicht gewusst.
+	3) Wer ist das? - Das bin ich.
+	4) Es ist schwer, gut Deutsch zu sprechen.
+	5) Was ist denn hier los? - Hier wird es ein Haus gebaut.
+		-> Hier wird ein Haus gebaut.
+		
+5. 전체 문장이 올바르지 않은 것은?
+	1) Er fährt schnell. Ich kann es nicht.
+	2) Es warten viele Studenten auf der Straße.
+	3) Ist er verheiratet? Es habe ich nicht gewusst.
+		-> Das habe ich nicht gewusst.
+		-> Ich habe es nicht gewusst.
+	4) Es gibt viel zu tun.
+	5) Einmal war ein König.
+```
 
