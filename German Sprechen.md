@@ -281,7 +281,30 @@ Das (Gerät) funktioniert doch.
 
 ------
 
-### Lektion 18.
+### Lektion 18.  Was hast du morgen vor?
+
+```
+machen : 하다, 만들다
+vorhaben : 계획이 있다
+nichts : ~ 아닌 것 <-> etwas
+die Verabredung : 약속
+
+
+Was machst du morgen?
+Was hast du morgen vor?
+Ich mache morgen nichts.
+Ich habe morgen nichts vor.
+
+Hast du morgen etwas vor?
+Hast du morgen Pläne?
+Ich habe eine Verabredung.
+Ich habe einen Termin.
+Ich treffe meinen Freund.
+```
+
+------
+
+### Lektion 19.
 
 ```
 
