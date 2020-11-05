@@ -6976,7 +6976,7 @@ Der wieveilte ist heute? Heute ist der fünfundzwanzigste Zwölfte.
 	2) In der Stadtmitte es gibt einen Dom.
 		-> In der Stadtmitte gibt es einen Dom.
 	3) Im Winter schneit in Korea viel.
-		-> IM Winter schneit es in Korea viel.
+		-> Im Winter schneit es in Korea viel.
 	4) Im Frühling wird es warm.
 	5) Wenn es regnet, ist dunkel.
 		-> Wenn es regnet, ist es dunkel.
@@ -7011,5 +7011,13 @@ Der wieveilte ist heute? Heute ist der fünfundzwanzigste Zwölfte.
 		-> Ich habe es nicht gewusst.
 	4) Es gibt viel zu tun.
 	5) Einmal war ein König.
+```
+
+------
+
+### Lektion 24. 접속법 1식
+
+```
+
 ```
 

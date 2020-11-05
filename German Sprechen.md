@@ -279,3 +279,11 @@ Das (Gerät) funktioniert doch.
 
 ```
 
+------
+
+### Lektion 18.
+
+```
+
+```
+

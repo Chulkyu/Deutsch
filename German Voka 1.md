@@ -1132,9 +1132,59 @@ am Bahnhof abholen
 
 ------
 
-### Lektion 10. 
+### Lektion 10. ausruhen, entspannen, stören, lassen
 
 ```
+ausruhen : 쉬게 하다
+Ich ruhe mich aus.
+Du musst dich ausruhen.
+entspannen : 쉬게 하다, 긴장을 완화하다
+spannend : 흥미로운
+die Spannung : 긴장
+die Entspannung : 긴장완화
+die ganze Zeit : 내내
 
+mich die ganze Zeit ausruhen
+mich die ganze Zeit entspannen
+
+ein spannender Film : 흥미로운 영화(스릴러)
+Entspannungsreise : 휴양 여행
+Spannung in dem Beim 
+
+stören : 방해하다
+lassen : 내버려두다
+die Ruhe : 고요
+nervig : 성가신
+ruhig : 조용한
+gemütlich : 안락한
+
+bitte nicht mehr stören
+in Ruhe lassen
+es ist hier nervig
+es ist hier ruhig
+es ist hier gemütlich
+
+내내 호텔에서 쉬다.
+ : mich die ganze Zeit im Hotel ausruhen
+긴장을 완화하다.
+ : mich entspannen
+그 영화는 스릴이 있다.
+ : Der Film ist spannend.
+휴양여행
+ : eine Entspannungsreise
+다리가 당기다.
+ : Spannung im Beim haben
+더 이상 방해하지 말아 주세요.
+ : Stören Sie nicht mehr, bitte.
+저를 혼자 내버려두세요.
+ : Lassen Sie bitte mich in Ruhe.
+그 긴장감이 성가시다.
+ : Die Spannung ist nervig.
+여기는 조용하군요/안락하군요.
+ : Es ist hier ruhig / gemütlich
+ 
 ```
 
+------
+
+### Lektion 11.
