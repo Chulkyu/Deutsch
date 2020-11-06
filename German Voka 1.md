@@ -1187,4 +1187,49 @@ es ist hier gemütlich
 
 ------
 
-### Lektion 11.
+### Lektion 11. probieren, versuchen, schaffen, klappen
+
+```
+probieren : 시도하다
+versuchen : 시도하다
+versuchen + 명사 : 시도하다
+versuchen + zu + Inf. : ~ 하려고 노력하다
+neu : 새로운
+die Sache : 것, 일
+freundlich : 친절한
+höflich : 공손한
+unhöflich : 불공손한
+
+eine neue Sache probieren
+eine freundliche Sache versuchen
+
+schaffen : 해내다
+klappen : 맞다 (구어체)
+die Zeit : 시간
+fast : 거의
+perfekt : 완벽한
+knapp : 부족한, 겨우(간발의 차)
+Das war knapp : 아슬아슬 했어. 조금 부족했어
+
+nicht schaffen
+Zeit klappen
+fast klappen
+
+하나의 새로운 것을 시도하다.
+ : eine neue Sache probieren.
+하나의 새로운 것을 시도하다.
+ : eine neue Sache versuchen
+친절하려고 노력하다.
+ : versuchen freundlich zu sein
+공손하려고 노력하다.
+ : versuchen höflich zu sein
+시간에 맞추다.
+ : Zeit schaffen
+너무 간발의 차이다.
+ : Das ist zu knapp.
+
+```
+
+------
+
+### Lektion 12. 
