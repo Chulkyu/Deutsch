@@ -304,9 +304,22 @@ Ich treffe meinen Freund.
 
 ------
 
-### Lektion 19.
+### Lektion 19. Das geht auf mich.
 
 ```
+Was möchtest du (trinken)?
+Was nimmst du?
+Ich möchte einen Kaffee mit Milch.
+Ich nehme einen Kaffee ohne Zucker.
+Ich nehme einen Kaffee mit Sahne(휘핑).
+
+Was möchtest du (trinken)?
+Ich nehme einen Kaffee. Mit Milch.
+
+Ich lade dich ein.
+Du bist (heute) mein Gast.
+Du bist eingeladen.
+Das geht auf mich.
 
 ```
 
