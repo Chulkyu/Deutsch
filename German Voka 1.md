@@ -1232,4 +1232,58 @@ fast klappen
 
 ------
 
-### Lektion 12. 
+### Lektion 12. anziehen, tragen, mitnehmen, mitbringen
+
+```
+anziehen : 옷을 입히다
+tragen : 입고 있다(옷, 엑세서리, 안경) - trug - getragen
+ich - trage , du - trägst, er - trägt
+die Brille : 안경
+die Halskette : 목걸이
+der Hals : 목
+die Kette : 사슬, 체인점
+das Armband : 팔찌
+warm : 따뜻한
+Ich ziehe mir warm an : 내가 따뜻하게 입는다.
+Du musst dir warm anziehen.
+
+warm anziehen
+eine Armbanduhr tragen
+eine Halskette tragen
+eine Brille tragen
+
+mitnehmen : 가지고 가다, 테이크 아웃
+mitbringen : 가지고 오다, 데리고 오다
+die Kamera : 카메라
+die Schwester : 여자형제
+der Bruder : 남자형제
+der Pass : 여권
+
+die Kamera mitnehmen
+meine Schwester mitnehmen
+meinen Bruder mitbringen
+den Pass mitbringen
+
+따뜻하게 옷을 입다.
+ : mir warm anziehen
+안경을 끼고 있다.
+ : eine Brille tragen
+팔찌/목걸이를 하고 있다.
+ : ein Armband / eine Halskette tragen
+카메라를 가지고 가다.
+ : eine Kamera mitnehmen
+여자형제를 데리고 가다.
+ : eine Schwester mitnehmen
+남자형제를 데리고 오다.
+ : einen Bruder mitbringen
+
+```
+
+------
+
+### Lektion 13.
+
+```
+
+```
+
