@@ -325,4 +325,38 @@ Das geht auf mich.
 
 ------
 
-### Lektion 20. 
+### Lektion 20. Was hast du am Wochenende gemacht?
+
+```
+Was hast du gemacht?
+Was hast du am Wochenende gemacht?
+Ich bin mit dem Zug nach Füssen gefahren.
+
+Wie war es? Wie war's?
+Ach so. Wie war's?
+Es war fantastisch. Das Schloss war sehr schön.
+
+sein + p.p.
+1. 장소이동 : kommen, gehen, fahren ...
+2. 상태변화 : sterben, einschlafen, aufstehen ...
+3. 예외동사 : sein, werden, bleiben ...
+
+am + 오는 것들 !
+am + Wochenende : 주말
+	 + Sonntag : 요일
+	 + 11. April : 날짜
+	 + Norden : 방위
+	 
+전치사 mit : ~ 와 함께, ~ 타고, 곁들여 (3격 지배!)
+- Mit dir, Mit dem Zug, Mit Milch
+
+```
+
+------
+
+### Lektion 21. 
+
+```
+
+```
+
