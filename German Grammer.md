@@ -7018,6 +7018,618 @@ Der wieveilte ist heute? Heute ist der fünfundzwanzigste Zwölfte.
 ### Lektion 24. 접속법 1식
 
 ```
+1. 접속법의 정의 및 특징
+2. 접속법 형태
+3. 접속법 1식 / 2식 비교
+4. 문장 만들기
+```
+
+```
+- 접속법이란?
+a. 화법 : 직설, 명령 및 접속법
+b. 화자의 말을 간접적으로 인용하거나, 가정, 원망, 요구 등
+	 불확실하거나 비현실적인 내용 전달 방식
+
+Wenn ich Geld habe, kaufe ich mir ein Haus.
+Wenn ich Geld hätte, würde ich mir ein Haus kaufen. (접속법 2식)
+
+```
+
+|      |                          접속법 1식                          |                          접속법 2식                          |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 동사 |                 직설법 동사 원형 어간 (현재)                 |                 직설법 동사 과거 어간 (과거)                 |
+| 특징 | a. 어간의 모음변화 없음<br />b. 인용, 전달 - 논문, 잡지, TV 아나운서<br />(간접화법) | a. 동사의 3요형 불규칙 - 변모음<br />b. 비현실 화법 - 가정과 바람 및 공손한 표현<br />(외교적 화법) |
+| 해석 |                         ~ 라고 한다                          |                      ~ 라면, ~ 할 텐데                       |
+| 시제 |                       현재, 과거, 미래                       |                       현재, 과거, 미래                       |
+
+
+
+####  - 동사의 어미변화표
+
+|           | 직설법 (현재) | 직설법 (과거) | 접속법 |
+| :-------: | :-----------: | :-----------: | :----: |
+|    ich    |      -e       |       -       |   -e   |
+|    du     |      -st      |      -st      |  -est  |
+| er,sie,es |      -t       |       -       |   -e   |
+|    wir    |      -en      |      -en      |  -en   |
+|    ihr    |      -t       |      -t       |  -et   |
+| sie / Sie |      -en      |      -en      |  -en   |
+
+
+
+#### - 접속법 1식 동사 gehen
+
+|           | 어간 | 접속법 어미 | 접속법 1식 |
+| :-------: | :--: | :---------: | :--------: |
+|    ich    | geh  |     -e      |    gehe    |
+|    du     | geh  |    -est     |   gehest   |
+| er,sie,es | geh  |     -e      |    gehe    |
+|    wir    | geh  |     -en     |   gehen    |
+|    ihr    | geh  |     -et     |   gehet    |
+| sie / Sie | geh  |     -en     |   gehen    |
+
+```
+sie/Sie - gehen : 형태가 똑같으므로 접속법 2식에서 빌려온다.
+```
+
+
+
+#### - 접속법 1식 기본동사 (1,3인칭 단수 : -e 없음)
+
+|           | sein  | sein      | haben | haben   | werden | werden  |
+| :-------: | ----- | --------- | ----- | ------- | ------ | ------- |
+|           | 직.현 | 접속법1   | 직.현 | 접속법1 | 직.현  | 접속법1 |
+|    ich    | bin   | ** sei ** | habe  | habe    | werde  | werde   |
+|    du     | bist  | seiest    | hast  | habest  | wirst  | werdest |
+| er,sie,es | ist   | ** sei ** | hat   | habe    | wird   | werde   |
+|    wir    | sind  | seien     | haben | haben   | werden | werden  |
+|    ihr    | seid  | seiet     | habt  | habet   | werdet | werdet  |
+| sie / Sie | sind  | seien     | haben | haben   | werden | werden  |
+
+```
+- 접속법 1식 ( 간접화법의 도입부 )
+
+그가 ~라고 말했다 : Er sagt(e), ...
+그가 ~라고 설명했다 : Er erzählt(e), ...
+그가 ~라고 물었다 : Er fragt(e), ...
+그가 ~라고 주장했다 : Er behauptet(e), ...
+그가 ~라고 답변했다 : Er antwortet(e), ...
+
+- 접속법 1식 ( 간접화법 )
+
+그녀는 내게 "나는 승용차가 있어" 라고 했다.
+ : Sie sagt mir: "Ich habe ein Auto"
+ -> Sie sagte mir, sie habe ein Auto.
+ -> Sie sagte mir, dass sie ein Auto habe.
+ 
+그녀는 내게 "나는 정말 아프다" 라고 말했다.
+ : Sie sagt zu mir: "Ich bin sehr krank."
+ -> Sie sagte zu mir, sie sei sehr krank.
+ -> Sie sagte zu mir, dass sie sehr krank sei.
+ 
+그녀는 내게 "나는 축구를 잘 해" 라고 했다.
+ : Sie sagt mir: "Ich kann gut Fußball spielen."
+ -> Sie sagte mir, sie könne gut Fußball spielen.
+ -> Sie sagte mir, dass sie gut Fußball spielen könne.
+ 
+그녀는 내게 "난 독일에서 공부할 거다" 라고 말했다.
+ : Sie sagt mir: "Ich werde in Deutschland studieren."
+ -> Sie sagte mir, sie werde in Deutschland studieren.
+ -> Sie sagte mir, dass sie in Deutschland studieren werde.
+ 
+내 친구는 내게 "내 이모가 나를 방문한다"고 썼다.
+ : Mein Freund schreibt mir: "Meine Tante besucht mich."
+ -> Meine Freund schrieb mir, seine Tante besuche ihn.
+ -> Meine Freund schrieb mir, dass ihn seine Tante besuche.
+
+내 친구는 "내 삼촌이 나를 초대한다" 고 말했다.
+ : Mein Freund sagt: "Mein Onkel lädt mich ein."
+ -> Mein Freund sagte, sein Onkel lade ihn ein.
+ -> Mein Freund sagte, dass ihn sein Onkel einlade.
+ 
+그는 내게 "Karl이 한국에 가 봤다"고 말했다.
+ : Er sagt mir: "Karl war schon mal in Korea."
+ -> Er sagte mir, Karl sei schon mal im korea gewesen.
+ -> Er sagte mir, dass Karl schon mal im Korea gewese sei.
+ 
+내 친구는 "내 삼촌이 나를 방문했다."고 썼다.
+ : Mein Freund schreibt mir: "Mein Onkel besuchte mich."
+ -> Mein Freund schriebt mir, sein Onkel habe ihn besucht.
+ -> Mein Freund schriebt mir, dass ihn sein Onkel besucht habe.
+ 
+```
+
+|      | 직설법                          | 접속법 1식                     |
+| :--: | ------------------------------- | ------------------------------ |
+| 현재 | Er kauft sich ein Auto.         | Er kaufe sich ein Auto.        |
+| 과거 | Er kaufte sich ein Auto.        | Er habe sich ein Auto gekauft. |
+| 현완 | Er hat sich ein Auto gekauft.   | Er habe sich ein Auto gekauft. |
+| 과완 | Er hatte sich ein Auto gekauft. | Er habe sich ein Auto gekauft. |
+| 미래 | Er wird sich ein Auto kaufen.   | Er werde sich ein Auto kaufen. |
+
+|      | 직설법                      | 접속법 1식                   |
+| :--: | --------------------------- | ---------------------------- |
+| 현재 | Er reist nach Europa.       | Er reise nach Europa.        |
+| 과거 | Er reiste nach Europa.      | Er sei nach Europa gereist.  |
+| 현완 | Er ist nach Europa gereist. | Er sei nach Europa gereist.  |
+| 과완 | Er war nach Europa gereist. | Er sei nach Europa gereist.  |
+| 미래 | Er wird nach Europa reisen. | Er werde nach Europa reisen. |
+
+```
+- 접속법 1식이 적설법과 같은 형태일 경우 -> 접속법 2식의 형태를 빌림
+
+a. würde ... Inf.
+b. 직설법 동사의 과거형 (불규칙 - 변모음)
+
+그 정치인들은 "우리는 자동차가 없다"고 주장했다.
+	: Die Politiker behaupten: "Wir haben kein Auto."
+	-> Die Politiker behaupteten, sie hätten kein Auto.
+	-> Die Politiker behaupteten, dass sie kein Auto hätten.
+	
+그 소녀들은 "우리는 아침에 산책한다"고 한다.
+ : Die Mädchen sagten: "Wir gehen am Morgen spazieren."
+ -> Die Mädchen sagten, sie gingen am Morgen spazieren.
+ -> Die Mädchen sagten, sie würden am Morgen spazieren gehen.
+ 
+아빠가 "(너희들) 어서 자라"고 우리에게 말씀 하셨다.
+ : Der Vater sagte uns: "Geht sofort ins Bett!"
+ -> Der Vater sagte uns, wir sollten sofort ins Bett gehen.
+ -> Der Vater sagte uns, dass wir sofort ins Bett gehen sollten.
+ 
+```
+
+```
+- 접속법 1식 '기원'
+
+왕이여, 장수 하소서 !
+ : Lange lebe dir König!
+ -> Ich wünsche, dass der König habe lebe.
+ 
+신의 가호가 있기를 !
+ : Gott segne dich !
+ -> Ich wünsche, dass Gott dich segne.
+ 
+```
+
+```
+- 연습문제
+
+1. 다음 문장을 간접화법으로 옳게 옮긴 것은?
+	Er sagte mir: "Ich bin mit den Hausaufgaben fertig."
+	Er sagte mir, <						>.
+ 	 -> er sei mit den Hausaufgaben fertig.
+ 	 -> dass er mit den Hausaufgaben fertig sei.
+ 
+2. 다음 문장을 간접화법으로 옳게 옮긴 것은?
+	Er schrieb mir: "Ich bin seit einer Woche hier."
+	Er schrieb mir, <						>.
+	 -> er sei seit einer Woche dort.
+	 -> dass er seit einer Woche dort sei.
+	 
+3. 빈 칸에 들어갈 동사의 형태는?
+	Mein Chef sagte, er <		> nicht kommen, weil er einen Besuch <		>.
+	 -> könne, habe
+
+4. 밑줄 친 간접화법 용법이 문법에 맞게 쓰인 문장은?
+	1) Er schrieb mir, dass er nach Japan fliegen < würde >.
+		-> werde
+	2) Miriam sagte, ihr Onkel < besuchte > sie.
+		-> habe sie besucht
+	3) Hans sagte, dass er krank < sei > gewesen.
+		-> gewesen sei
+	4) Mein Opa sagte zu mir, ich < solle > noch fleißiger sein.
+	5) Seine Frau sagte, dass sie < spielt > gut Klavier.
+		-> gut Klavier spiele.
+		
+5. 간접화법이 올바르게 쓰인 것은?
+	1) Er erzählte, dass seine Tochter viel lest.
+		-> viel lese.
+	2) Die Frau sagte, ich habe sich ein Handy gekauft.
+		-> sie habe sich
+	3) Mein Bruder sagte, er komme mit der U-Bahn.
+	4) Er sagte, er wäre krank.
+		-> er sei krank.
+	5) Die Politiker sagten, sie müssen die Steuer senken.
+		-> sie müssten
+
+```
+
+------
+
+### Lektion 25. 접속법 2식
+
+```
+1. 접속법 2식의 형태와 특징
+2. 문장 만들기 !
+```
+
+```
+- 접속법 2식이란?
+
+a. 화법 : 비현실적 및 공손한 표현
+b. 실생활 용법
+	1) 공손 표현 : "~해 주시겠어요?"
+	2) 비현실적 희망 : ~한(했)다면...좋(았)을 걸
+	3) 현재 및 과거 사실의 반대
+	4) 충고 및 조언
+	
+```
+
+|      |                          접속법 1식                          |                          접속법 2식                          |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 동사 |                 직설법 동사 원형 어간 (현재)                 |                 직설법 동사 과거 어간 (과거)                 |
+| 특징 | a. 어간의 모음변화 없음<br />b. 인용, 전달 - 논문, 잡지, TV 아나운서<br />(간접화법) | a. 동사의 3요형 불규칙 - 변모음<br />b. 비현실 화법 - 가정과 바람 및 공손한 표현<br />(외교적 화법) |
+| 해석 |                         ~ 라고 한다                          |                      ~ 라면, ~ 할 텐데                       |
+| 시제 |                       현재, 과거, 미래                       |                       현재, 과거, 미래                       |
+
+
+
+#### - 접속법 2식 동사 어미변화표
+
+|           | 직설법 (과거) | 접속법 |
+| :-------: | :-----------: | :----: |
+|    ich    |       -       |   -e   |
+|    du     |      -st      |  -est  |
+| er,sie,es |       -       |   -e   |
+|    wir    |      -en      |  -en   |
+|    ihr    |      -t       |  -etq  |
+| sie / Sie |      -en      |  -en   |
+
+
+
+#### - 접속법 2식 기본동사 (강변화 - 변모음)
+
+|           | sein  |  sein   |  haben  |  haben  | werden  | werden  |
+| :-------: | :---: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|           | 직.현 | 접속법1 |  직.현  | 접속법1 |  직.현  | 접속법1 |
+|    ich    |  war  |  wäre   |  hatte  |  hätte  |  wurde  |  würde  |
+|    du     | warst | wärest  | hattest | hättest | wurdest | würdest |
+| er,sie,es |  war  |  wäre   |  hatte  |  hätte  |  wurde  |  würde  |
+|    wir    | waren |  wären  | hatten  | hätten  | wurden  | würden  |
+|    ihr    | wart  |  wäret  | hattet  | hättet  | wurdet  | würdet  |
+| sie / Sie | waren |  wären  | hatten  | hätten  | wurden  | würden  |
+
+
+
+#### - können 접속법 2식
+
+|           |  어간  | 접속법 어미 | 접속법 2식 |
+| :-------: | :----: | :---------: | :--------: |
+|    ich    | konnte |     -e      |   könnte   |
+|    du     | konnte |    -est     |  könntest  |
+| er,sie,es | konnte |     -e      |   könnte   |
+|    wir    | konnte |     -en     |  könnten   |
+|    ihr    | konnte |     -et     |  könntet   |
+| sie / Sie | konnte |     -en     |  könnten   |
+
+
+
+#### - 화법조동사 접속법 2식 (강변화 - 변모음)
+
+|           |  müssen  |  müssen  |  dürfen  |  dürfen  |  mögen   |  mögen   |
+| :-------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|           |  직.현   | 접속법2  |  직.현   | 접속법2  |  직.현   | 접속법2  |
+|    ich    |  musste  |  müsste  |  durfte  |  dürfte  |  mochte  |  möchte  |
+|    du     | musstest | müsstest | durftest | dürftest | mochtest | möchtest |
+| er,sie,es |  musste  |  müsste  |  durfte  |  dürfte  |  mochte  |  möchte  |
+|    wir    | mussten  | müssten  | durften  | dürften  | mochten  | möchten  |
+|    ihr    | musstet  | müsstet  | durftet  | dürftet  | mochtet  | möchtet  |
+| sie / Sie | mussten  | müssten  | durften  | dürften  | mochten  | möchten  |
+
+|           |  wollen  |  wollen  |  sollen  |  sollen  |  wissen  |  wissen  |
+| :-------: | :------: | :------: | :------: | :------: | :------: | :------: |
+|           |  직.현   | 접속법2  |  직.현   | 접속법2  |  직.현   | 접속법2  |
+|    ich    |  wollte  |  wollte  |  sollte  |  sollte  |  wusste  |  wüsste  |
+|    du     | wolltest | wolltest | solltest | solltest | wusstest | wüsstest |
+| er,sie,es |  wollte  |  wollte  |  sollte  |  sollte  |  wusste  |  wüsste  |
+|    wir    | wollten  | wollten  | sollten  | sollten  | wussten  | wüssten  |
+|    ihr    | wolltet  | wolltet  | solltet  | solltet  | wusstet  | wüsstet  |
+| sie / Sie | wollten  | wollten  | sollten  | sollten  | wussten  | wüssten  |
+
+
+
+#### - gehen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | ging |     -e      |        ginge        |    würde - gehen    |
+|    du     | ging |    -est     |       gingest       |   würdest - gehen   |
+| er,sie,es | ging |     -e      |        ginge        |    würde - gehen    |
+|    wir    | ging |     -en     |       gingen        |   würden - gehen    |
+|    ihr    | ging |     -et     |       ginget        |   würdet - gehen    |
+| sie / Sie | ging |     -en     |       gingen        |   würden - gehen    |
+
+
+
+#### - kommen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | kam  |     -e      |        käme         |   würde - kommen    |
+|    du     | kam  |    -est     |       kämest        |  würdest - kommen   |
+| er,sie,es | kam  |     -e      |        käme         |   würde - kommen    |
+|    wir    | kam  |     -en     |        kämen        |   würden - kommen   |
+|    ihr    | kam  |     -et     |        kämet        |   würdet - kommen   |
+| sie / Sie | kam  |     -en     |        kämen        |   würden - kommen   |
+
+
+
+#### - treffen 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | traf |     -e      |        träfe        |   würde - treffen   |
+|    du     | traf |    -est     |       träfest       | würdest - treffen]  |
+| er,sie,es | traf |     -e      |        träfe        |   würde - treffen   |
+|    wir    | traf |     -en     |       träfen        |  würden - treffen   |
+|    ihr    | traf |     -et     |       träfet        |  würdet - treffen   |
+| sie / Sie | traf |     -en     |       träfen        |  würden - treffen   |
+
+
+
+#### - fahren 접속법 2식
+
+|           | 어간 | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :--: | :---------: | :-----------------: | :-----------------: |
+|    ich    | fuhr |     -e      |        führe        |   würde - fahren    |
+|    du     | fuhr |    -est     |       führest       |  würdest - fahren   |
+| er,sie,es | fuhr |     -e      |        führe        |   würde - fahren    |
+|    wir    | fuhr |     -en     |       führen        |   würden - fahren   |
+|    ihr    | fuhr |     -et     |       führet        |   würdet - fahren   |
+| sie / Sie | fuhr |     -en     |       führen        |   würden - fahren   |
+
+
+
+#### - spielen 접속법 2식 (약변화)
+
+|           |   어간    | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :-------: | :---------: | :-----------------: | :-----------------: |
+|    ich    |  spielte  |     -e      |       spielte       |   würde - spielen   |
+|    du     | spieltest |    -est     |      spieltest      |  würdest - spielen  |
+| er,sie,es |  spielte  |     -e      |       spielte       |   würde - spielen   |
+|    wir    | spielten  |     -en     |      spielten       |  würden - spielen   |
+|    ihr    | spieltet  |     -et     |      spieltet       |  würdet - spielen   |
+| sie / Sie | spielten  |     -en     |      spielten       |  würden - spielen   |
+
+
+
+#### - machen 접속법 2식 (약변화)
+
+|           |  어간  | 접속법 어미 | 접속법 2식 (단순형) | 접속법 2식 (복합형) |
+| :-------: | :----: | :---------: | :-----------------: | :-----------------: |
+|    ich    | machte |     -e      |       machte        |   würde - machen    |
+|    du     | machte |    -est     |      machtest       |  würdest - machen   |
+| er,sie,es | machte |     -e      |       machte        |   würde - machen    |
+|    wir    | machte |     -en     |       machten       |   würden - machen   |
+|    ihr    | machte |     -et     |       machtet       |   würdet - machen   |
+| sie / Sie | machte |     -en     |       machten       |   würden - machen   |
+
+
+
+#### - 접속법 2식 형태 (단순형)
+
+| 동사원형 | 과거형 | 접속법 2식 |
+| :------: | :----: | :--------: |
+|   sein   |  war   |    wäre    |
+|  haben   | hatte  |   hätte    |
+|  werden  | wurde  |   würde    |
+|  können  | konnte |   könnte   |
+|  mögen   | mochte |   möchte   |
+|  geben   |  gab   |    gäbe    |
+|  kommen  |  kam   |    käme    |
+|  gehen   |  ging  |   ginge    |
+|  wissen  | wusste |   wüsste   |
+
+
+
+```
+- 비현실적 조건 문장 : ~ 라면, ~ 할 텐데 (현재)
+
+난 시간이 없다. 그녀에게 전화를 걸지 못한다.
+ : Ich habe keine Zeit. Ich kann sie nicht anrufen.
+ -> Wenn ich Zeit hätte, könnte ich sie anrufen.
+ 
+그는 돈이 없다. 그는 일을 많이 해야 한다.
+ : Er hat kein Geld. Er muss viel arbeiten.
+ -> Wenn er viel Geld hätte, müsste er nicht viel arbeiten.
+ -> Hätte er Geld, müsste er nicht viel arbeiten.
+ 
+난 독일어를 잘 못한다. 난 독일에서 공부하지 못한다.
+ : Ich spreche nicht gut Deutsch.
+ 	 Ich bekomme in Deutschland keinen Studienplatz.
+ -> Wenn ich gut Deutsch sprechen würde,
+ 		bekäme ich in Deutschland einen Studienplatz.
+ -> Würde ich gut Deutsch sprechen,
+ 		würde ich in Deutschland einen Studienplatz bekommen.
+ 		
+난 날개가 없다. 난 네게로 못 날아간다.
+ : Ich habe keine Flügel. Ich fliege nicht zu dir.
+ -> Wenn ich Flügel hätte, flöge ich zu dir.
+ -> Hätte ich Flügel, würde ich zu dir fliegen.
+ 
+```
+
+```
+- 비현실적 조건 문장 : ~ 라면, ~ 할 텐데 (과거) -> hätte + p.p. / wäre + p.p.
+
+엄마가 늦게 일어났다. 비행기를 놓쳤다.
+ : Meine Mutter hat verschlafen. Sie hat das Flugzeug verpasst.
+ -> Wenn sie nicht verschlafen hätte, hätte sie das FZ nicht verpasst.
+ -> Wäre sie früh aufgestanden, hätte sie das FZ nicht verpasst.
+ -> Wäre sie früh aufgestanden, hätte sie das FZ genommen.
+ 
+그 집은 비쌌다. 난 그 집을 살 수 없었다.
+ : Das Haus war teuer. Ich konnte es mir nicht kaufen.
+-> Wenn das Haus nicht teuer gewesen wäre, hätte ich es mir kaufen können.
+-> Wäre das Haus nicht teuer gewesen, hätte ich es mir kaufen können.
+
+어제 비가 오지 않았다. 우리는 산책을 갔다.
+ : Gestern hat es nicht geregnet. Wir sind spazieren gegangen.
+ -> Wenn es gestern geregnet hätte, wären wir nicht spazieren gegangen.
+ 
+```
+
+
+
+#### - 접속법 2식 시제
+
+|      | 직설법                          | 접속법 2식                      |
+| :--: | ------------------------------- | ------------------------------- |
+| 현재 | Er kauft sich ein Auto.         | X (과거형이랑 비슷해서 잘 안씀) |
+| 과거 | Er kaufte sich ein Auto.        | Er hätte sich ein Auto gekauft. |
+| 현완 | Er hat sich ein Auto gekauft.   | Er hätte sich ein Auto gekauft. |
+| 과완 | Er hatte sich ein Auto gekauft. | Er hätte sich ein Auto gekauft. |
+| 미래 | Er wird sich ein Auto kaufen.   | Er würde sich ein Auto kaufen.  |
+
+|      | 직설법                     | 접속법 2식                  |
+| :--: | -------------------------- | --------------------------- |
+| 현재 | Er bleibt zu Hause.        | X                           |
+| 과거 | Er bleibte zu Hause.       | Er wäre zu Hause geblieben. |
+| 현완 | Er ist zu Hause geblieben. | Er wäre zu Hause geblieben. |
+| 과완 | Er war zu Hause geblieben. | Er wäre zu Hause geblieben. |
+| 미래 | Er wird zu Hause bleiben.  | Er würde zu Hause bleiben.  |
+
+
+
+```
+- 접속법 2식 비현실적 화법
+
+접속법 2식이 직설법 과거와 같은 형태일 경우
+-> würde ... Inf.
+
+내가 돈이 더 있다면 저 집을 살 텐데.
+ : Wenn ich noch Geld hätte, kaufte ich das Haus.
+ -> Wenn ich noch Geld hätte, würde ich das Haus kaufen.
+ 
+내가 시간이 있으면 그를 기꺼이 방문할 텐데.
+ : Wenn ich Zeit hätte, besuchte ich ihn gern.
+ -> Hätte ich Zeit, würde ich ihn gern besuchen.
+ 
+오늘 쉰다면 소풍을 갈 텐데.
+ : Wenn ich heute frei hätte, machte ich einen Ausflug.
+ -> Hätte ich heute frei, würde ich einen Ausflug machen.
+ 
+```
+
+```
+- 접속법 2식 '소망문' (현재)
+
+결론부를 생략 - '전제부' 만으로 문장 성립 !
+
+내 여자친구가 아프다 ! - 그녀가 건강하면 좋으련만 !
+ : Wenn sie doch gesund wäre !
+ : Wäre sie doch gesund !
+ 
+우린 오늘 축구를 못한다. - 오늘 축구를 하면 좋으련만 !
+ : Wenn wir heute doch Fußball spielen würden !
+ : Würden wir heute doch Fußball spielen !
+ 
+ 
+- 접속법 2식 '소망문' (과거)
+
+영화가 지루했다. Der Film war langweilig.
+지루하지 않았더라면 (좋았을 텐데)!
+ : Wäre der Film doch nicht langweilig gewesen!
+ 
+ - 소망문 공식 -
+ Wenn + 주어 + doch (=nur) + 접속법 2식
+ = 접속법 2식 + 주어 + doch! (현재)
+ 
+ Wenn + 주어 + doch(=nur) + p.p. hätte(wäre) !
+ = Hätte(Wäre) + 주어 + doch + p.p.(과거)
+ 
+```
+
+```
+- 접속법 2식 ( 외교적 화법 )
+
+문 좀 열어주시겠어요?
+ : Könnten Sie bitte die Tür aufmachen?
+ 
+메뉴판을 좀 가져다 주실래요?
+ : Würden Sie mir bitte die Speisekarte bringen?
+ 
+질문을 해도 될까요?
+ : Dürfte ich Ihnen eine Frage stellen?
+
+나는 한 잔의 카페 라떼를 원해요.
+ : Ich möchte bitte eine Tasse Milchkaffee.
+ : Ich hätte gern eine Tasse Milchkaffee.
+ 
+- 충고, 조언 -
+
+내가 너라면 더 열심히 일할텐데 !
+ : An deiner Stelle würde ich noch fleißiger arbeiten.
+ 
+너는 즉시 쉬어야 해!
+ : Du solltest dich sofort ausruhen.
+ 
+```
+
+```
+- 접속법 2식 
+비교문 - als ob : 마치 ~ 인 것 처럼
+
+Herr Min은 독일어를 완벽히 한다. 마치 그가 독일인 것 처럼 말이다.
+ : Herr Min spricht perfekt Deutsch, als ob er ein Deutscher wäre.
+ : Herr Min spricht perfekt Deutsch, als wäre er ein Deutscher.
+ 
+그는 자신이 가수인 것처럼 노래를 잘 한다.
+ : Er singt gut, als wäre er ein Sänger.
+ 
+```
+
+```
+- 접속법 2식
+부사 : 하마터면 ~뻔 했다.(결론부)
+
+beinahe : 거의 (fast, um ein Haar)
+
+나는 하마터면 그 기찰을 놓칠 뻔 했다.
+ : Ich hätte den Zug beinahe verpasst. (fast, um ein Haar)
+ 
+그는 하마터면 익사할 뻔 했다.
+ : Er wäre beinahe ertrunken.
+ 
+```
+
+```
+- 접속법 2식
+부정화법 - zu ~, als dass (zu~, um~zu)
+
+그는 돈이 너무 적어서 새 자동차를 살 수 없다.
+ : Er hat zu wenig Geld, als dass er ein neues Auto kaufen könnte.
+ = Er hat so wenig Geld, dass er kein neues Auto kaufen kann.
+ = Er hat zu wenig Geld, um ein neues Auto zu kaufen.
+
+```
+
+```
+- 연습문제
+
+1. 다음 소망문장 가운데 밑줄 그은 부분이 옳게 쓰인 곳은?
+	Wenn die Prüfung nicht so schwer <		> wäre, hätten wir sie <			>.
+-> gewesen, bestanden
+
+2. 비현실화법으로 옳게 옮긴 것은?
+	Sie war sehr faul. Sie konnte die Prüfung nicht schaffen.
+-> Wenn sie fleißig gewesen wäre, hätte sie die Prüfung schaffen können.
+-> Wäre sie fleißig gewesen, hätte sie die Prüfung schaffen können.
+
+3. 빈 칸에 들어갈 동사의 형태는?
+	Ich bin nicht sehr reich. Ich kann mir keine Weltreise leisten.
+= Wenn ich reich <	>, <	> ich mir eine Weltreise <	>.
+-> wäre, könnte, leisten
+
+4. 빈 칸에 들어갈 비현실적 화법의 동사 형태는?
+	Heute schneit es stark. Sie bleibt zu Hause.
+	= Wenn es heute nicht schneien <	>, <	> sie nicht zu Hause.
+-> würde, bliebe
+
+5. 아래 문장을 소망문장으로 잘 만든 것은?
+	Meine Freundin ist heute zu meinem Geburtstag nicht gekommen.
+	(Es wäre bestimmt viel besser,) <														>
+-> Wenn sie doch gekommen wäre!
 
 ```
 
