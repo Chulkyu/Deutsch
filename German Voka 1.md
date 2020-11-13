@@ -1281,9 +1281,53 @@ den Pass mitbringen
 
 ------
 
-### Lektion 13.
+### Lektion 13. passen, aufpassen, verpassen, passieren
 
 ```
+passen : 맞다
+aufpassen : 조심하다
+Pass auf! : 조심해!
+Passen Sie auf! : 조심하세요!
+die Bluse : 블라우스
+der Pullover : 스웨터, 긴상의
+die Vorsicht : 주의
+vorsichtig : 조심스러운
+
+die Bluse passt dir gut
+der Pullover passen Ihr gut
+
+verpassen : 놓치다
+passieren : 발생하다
+schlimm : 나쁜
+schlimm + 병 : 병세가 심각하다
+schlecht : 나쁜
+schrecklich : 끔찍한
+zufällig : 우연히
+der Zufall : 우연
+der Unfall : 사고
+fast : 거의, ~할 뻔 했다.
+
+den Zug verpassen
+den Flug verpassen
+die U-Bahn verpassen
+den Bus verpassen
+den Flug fast verpassen : 비행기를 거의 놓칠 뻔 했다.
+
+ein Unfall passiert
+zufällig passiert
+etwas Schlimmes passiert
+etwas Schreckliches passiert
+
+블라우스가 잘 맞다.
+ : die Bluse passt dir gut
+조심해.
+ : pass auf.
+지하철을 놓치다.
+ : die U-Bahn verpassen.
+나쁜 일이 일어나다.
+ : etwas Schlimmes passiert
+사고가 발생하다.
+ : ein Unfall passiert
 
 ```
 
