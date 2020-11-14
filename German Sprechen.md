@@ -354,7 +354,36 @@ am + Wochenende : 주말
 
 ------
 
-### Lektion 21. 
+### Lektion 21. lange nicht gesehen.
+
+```
+lange : 오랫동안
+es geht + 3 : ~하게 지내다
+Ich habe dich lange nicht gesehen.
+Wie geht es dir?
+Wie geht's?
+
+Lara! Lange nicht gesehen!
+Lange nicnt gesehen! Wie geht's?
+
+aussehen : ~처럼 보인다.
+meinen : 생각하다
+Es geht mir gut.
+Mir geht's gut.
+so lala. super. prima
+Du siehst gut aus.
+Ja? Meinst du?
+
+Mir geht's gut, danke. Du siehst sehr gut aus.
+Meinst du? Du siehst auch gut aus.
+
+
+
+```
+
+------
+
+### Lektion 22.
 
 ```
 

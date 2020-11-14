@@ -1331,3 +1331,66 @@ etwas Schreckliches passiert
 
 ```
 
+------
+
+### Lektion 14. anfang, beginnen, enden, beenden
+
+```
+anfangen : 시작하다
+anfangen mit + 3 : ~을 시작하다
+beginnen : 시작하다
+die Sasion : 철(시즌)
+die Strecke : 구간
+die Sommerzeit : 섬머타임
+erneut : 새로이
+
+die Saison fängt an
+eine Strecke beginnt
+die Sommerzeit fängt an
+
+enden : 끝내다
+beenden : ~을 끝내다
+fertig : 완성된
+vorbei : 지나서
+der Schluss : 끝
+Schluss machen : 끝을 내다
+die Beziehung : 관계
+
+der Zug endet hier : (종착역) 그 기차가 여기에서 종착합니다.
+der Bus endet hier
+die U-Bahn endet hier
+die Arbeit beenden
+das Semester beenden
+die Beziehung beenden
+etwas ist fertig : 무엇이 완성되었다.
+etwas ist vorbei : 무엇이 끝났다.(지나가서)
+
+새로운 시즌이 시작된다.
+ : eine neue Saison fängt an.
+섬머타임이 시작된다.
+ : die Sommerzeit beginnt.
+새 구간이 시작된다.
+ : eine neue Strecke fängt an.
+기차가 여기에서 멈춘다.
+ : der Zug endet hier.
+시험이 끝났다.
+ : die Prüfung ist vorbei.
+관계를 정리하다.
+ : eine Beziehung beenden.
+일을 끝내다.
+ : die Arbeit beenden.
+음식이 완성되었다.
+ : Das Gericht ist fertig.
+끝냅시다.
+ : Machen wir Schluss.
+ 
+```
+
+------
+
+### Lektion 15.
+
+```
+
+```
+
