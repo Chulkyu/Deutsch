@@ -377,13 +377,46 @@ Ja? Meinst du?
 Mir geht's gut, danke. Du siehst sehr gut aus.
 Meinst du? Du siehst auch gut aus.
 
+```
 
+------
+
+### Lektion 22. Hast du Zeit?
+
+```
+Hast du Zeit?
+Hast du heute Zeit?
+Ich habe keine Zeit.
+Ich habe leider keine Zeit.
+Ich habe viel zu tun.
+Ich muss lernen.
+Ich muss fleißig lernen.
+Weil ich morgen eine Prüfung habe.
+Denn ich habe morgen eine Prüfung.
+
+Hast du heute Zeit?
+Nein, ich muss lernen, weil ich morgen eine Prüfung habe.
+
+dann : 그러면
+da : 그 때
+Schade : 아쉽다
+Das ist schade.
+Na gut : 아쉽다.
+
+Hast du dann nächste Woche Zeit?
+Da habe ich Zeit.
+Viel Erfolg! : 성공을 바랄게
+Ich drücke dir die Daumen !
+
+Schade. Hast du dann nächste Woche Zeit?
+Ja, da habe ich Zeit.
+Dann viel Erfolg! bis später.
 
 ```
 
 ------
 
-### Lektion 22.
+### Lektion 23. 
 
 ```
 
