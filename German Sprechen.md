@@ -416,7 +416,56 @@ Dann viel Erfolg! bis später.
 
 ------
 
-### Lektion 23. 
+### Lektion 23. Hast du Lust ins Kino zu gehen?
+
+```
+die Lust : 의욕, 생각
+das Kino : 영화관
+die Idee : 아이디어
+es gibt + 4 : ~이 있다.
+laufen : 상영되다
+der Film : 영화
+wissen : 알다
+losgehen : 출발하다
+einfach : 그냥
+
+Hast du Lust ~~ zu #동사원형?
+Hast du Lust auf #명사?
+
+Hast du Lust ein Eis zu essen?
+Hast du Lust auf ein Eis?
+
+Wollen wir #동사원형?
+Lass uns (mal) #동사원형!
+
+Wollen wir ins Kino gehen?
+Lass uns (mal) ins Kino gehen!
+(Das ist eine) gute Idee!
+Das klingt gut!
+
+Was läuft jetzt im Kino?
+Welche Filme gibt es jetzt im Kino?
+
+Hast du Lust ins Kino zu gehen?
+Gute Idee!
+Was läuft jetzt im Kino?
+Ich weiß es auch nicht.
+Dann gehen wir einfach los!
+
+
+Ich weiß nicht.
+Ich weiß es (auch) nicht.
+(Ich habe) keine Ahnung.
+
+Gehen wir los!
+Los!
+Dann gehen wir einfach los!
+
+```
+
+------
+
+### Lektion 24.
 
 ```
 
