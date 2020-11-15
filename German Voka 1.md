@@ -1388,7 +1388,54 @@ etwas ist vorbei : 무엇이 끝났다.(지나가서)
 
 ------
 
-### Lektion 15.
+### Lektion 15. aufhören, aufgeben, nachsehen
+
+```
+aufhören mit + 3 : ~을 그만두다
+aufgeben : 포기하다
+das Rauchen : 흡연
+Ich höre mit dem Rauchen auf.
+der Alkohol : 술
+die Niederlande : 네덜란드
+der Eifelturm : 에펠탑
+
+mit dem Rauchen aufhören
+mit dem Alkohol aufhören
+die Niederlande aufgeben
+den Eifelturm aufgeben
+
+nachsehen : 지켜보다
+die Tasche : 가방
+der Sitz : 좌석
+die Toilette : 화장실
+das Klo(sett) : 화장실
+Ich muss mal auf der Toilette.
+Ich muss mal aufs Klo.
+die Klobrille : 변기커버
+
+die Tasche nachsehen
+den Sitz nachsehen
+auf die Toilette gehen
+aufs Klo gehen
+
+술/담배를 끊다.
+ : mit dem Alkohol / dem Rauchen aufhören.
+네덜란드를 포기하다.
+ : die Niederlande aufgeben.
+에펠탑을 포기하다.
+ : den Eifelturm aufgeben.
+제 가방을 지켜봐 주세요.
+ : Sehen Sie bitte meine Tasche nach.
+화장실에 가다.
+ : auf die Toilette gehen
+화장실에 가다.
+ : aufs Klo gehen
+ 
+```
+
+------
+
+### Lektion 16.
 
 ```
 
