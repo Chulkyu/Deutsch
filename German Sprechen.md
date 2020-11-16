@@ -504,7 +504,6 @@ Im Ernst? : 정말이야?
 Bist du sauer? Ich hatte aber einen Unfall.
 Im Ernst?
 
-
 ```
 
 ------
