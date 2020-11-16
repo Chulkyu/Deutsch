@@ -465,7 +465,51 @@ Dann gehen wir einfach los!
 
 ------
 
-### Lektion 24.
+### Lektion 24. Warum bist du so sauer?
+
+```
+warten auf + 4 : ~을 기다리다
+(Es) tut mir leid.
+Verzeihung! : 미안해
+Entschuldige mich! : 미안해, 용서해줘
+Ich bin zu spät. : 내가 너무 늦었어
+Ich bin zu spät gekommen. : 내가 너무 늦게 왔어
+Ich habe schon 2 Stunden gewartet.
+Ich habe 2 Stunden auf dich gewartet.
+
+Tut mir leid. Ich bin zu spät.
+Ich habe schon 2 Stunden auf dich gewartet.
+Ich warte auf ihn.
+Er wartet auf einen Bus.
+Sie hat lange gewartet.
+
+sauer : 화난, 신
+ärgerlich : 화가 난, 짜증난
+wütend : 분노한
+der Unfall : 사고
+das Unglück : 참사, 재난
+das Pech : 불운 <-> das Glück
+der Ernst : 진심
+
+
+Bist du sauer (auf mich)?
+Warum bist du so sauer?
+Ich hatte einen Unfall.
+Ich hatte ein Unglück.
+Ich hatte Pech.
+wirklich?
+Echt?
+Im Ernst? : 정말이야?
+
+Bist du sauer? Ich hatte aber einen Unfall.
+Im Ernst?
+
+
+```
+
+------
+
+### Lektion 25. 
 
 ```
 
