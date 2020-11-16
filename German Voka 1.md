@@ -1435,7 +1435,58 @@ aufs Klo gehen
 
 ------
 
-### Lektion 16.
+### Lektion 16. glauben, denken, gefallen, gehören
+
+```
+glauben : 생각하다
+glauben + 3 : ~을 믿다
+Ich glaube dir : 나는 너를 믿어
+denken : 생각하다
+an : ~에 대하여
+glauben an : ~을 믿다
+denken an + 4 : ~에 대하여 생각하다
+der Gott : 신
+das Schicksal : 운명
+an Schicksal glauben : 운명을 믿다
+an Gott glauben : 신을 믿다
+die Heimat : 고향
+an Heimat denken : 고향에 대해 생각하다
+
+an Gott glauben
+an Schicksal glauben
+an dich denken
+an die Heimat denken
+
+gefallen + 3 : ~에게 마음에 들다
+gehören + 3: ~에게 속하다.
+die Gasse : 골목길
+die Landschaft : 풍경
+der Rucksack : 배낭
+die Sonnenbrille : 선글라스
+
+die Gasse gefällt mir
+die Landschaft gefällt mir
+die Gasse gefällt mir sehr gut.
+der Rucksack gehört mir.
+die Sonnebrille gehört mir.
+
+제 생각에는
+ : Ich glaube/denke,
+신/운명을 믿다.
+ : an Gott/Schicksal glauben
+고향에 대해 생각하다.
+ : an die Heimat denken
+독일이 내 마음에 든다.
+ : Deutschland gefällt mir gut.
+그 골목길/풍경이 마음에 든다.
+ : Die Gasse/Landschaft gefällt mir.
+그 배낭은 내 것이다.
+ : Der Rucksack gehört mir.
+```
+
+------
+
+### Lektion 17.
 
 ```
 
