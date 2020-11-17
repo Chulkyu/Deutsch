@@ -508,7 +508,31 @@ Im Ernst?
 
 ------
 
-### Lektion 25. 
+### Lektion 25. Hoffentlich sehen wir uns wieder.
+
+```
+
+Mach's gut! : 잘 지내!
+Bleib gesund! : 건강해!
+Alles Gute! : 모든 게 잘 되길
+
+Ich muss jetzt gehen.
+Ich muss los(gehen).
+Ich muss langsam los. : 나 슬슬 가봐야되
+Ich werde dich vermissen.
+Ich hoffe, wir sehen uns wieder.
+Hoffentlich sehen wir uns wieder.
+Ja, Mach's gut! Bleib gesund!
+Mach's gut! Alles Gute!
+
+werden + Inf. : ~ 할 것이다 (미래)
+Ich vermisse dich -> Ich werde dich vermissen.
+
+```
+
+------
+
+### Lektiom 26.
 
 ```
 
