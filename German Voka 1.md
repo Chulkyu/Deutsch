@@ -1486,7 +1486,52 @@ die Sonnebrille gehört mir.
 
 ------
 
-### Lektion 17.
+### Lektion 17. putzen, duschen, trocknen, abtrocknen
+
+```
+waschen : 씻기다
+putzen : 닦다, 청소하다
+duschen : 샤워시키다
+Ich dusche mich.
+der Zahn : 치아 (pl) Zähne
+die Putzfrau : 청소부
+der Duschraum : 샤워실
+das Bad : 목욕
+
+die Zähne putzen
+sich duschen
+im Duschraum duschen
+
+trocknen : 말리다(건조시키다)
+abtrocknen + 3 : ~에 물기를 닦다
+trocken : 건조한
+das Haar : 머리카락
+der Körper : 몸
+das Gesicht : 얼굴
+
+mir das Haar abtrocknen
+mir das Gesicht abtrocknen
+mir den Körper abtrocknen
+Ich trockne mir das Haar ab.
+
+나는 샤워한다.
+ : Ich dusche mich.
+샤워실 안에서
+ : Im Duschraum
+이를 닦다
+ : Die Zähne putzen
+청소부 아주머니가 방을 청소한다.
+ : Die Putzfrau räumt das Zimmer auf.
+그 와인은 떫다.
+ : Der Wein ist trocken
+나는 머리를 말린다.
+ : Ich trockne mir die Haare ab.
+ 
+```
+
+------
+
+### Lektion 18.
 
 ```
 
