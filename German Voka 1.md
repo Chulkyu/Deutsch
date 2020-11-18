@@ -1531,7 +1531,51 @@ Ich trockne mir das Haar ab.
 
 ------
 
-### Lektion 18.
+### Lektion 18. erklären, erzählen, 
+
+```
+erklären : 설명하다
+erzählen : 서술하다
+der Weg : 길
+die Geschichte : 이야기, 역사
+das Märchen : 동화
+klar : 명료하게
+alles klar : 괜찮아
+
+den Weg klar erklären
+die Geschichte erzählen
+ein Märchen erzählen
+
+zeigen : 보여주다
+schauen : 보다
+da : 거기
+oben : 위에
+unten : 아래에
+nach : ~를 향하여
+Ich gehe nach oben.
+Ich gehe nach unten.
+
+da oben/unten zeigen
+nach oben/unten schauen
+
+그 길을 명료하게 설명하다.
+ : den Weg klar erklären
+한 이야기를 서술하다.
+ : eine Geschichte erzählen
+말하자면 길어.
+ : das ist eine lange Geschichte
+허무맹랑한 이야기를 하다.
+ : ein Märchen erzählen.
+저 위쪽을 가리키다.
+ : da oben zeigen
+저 위쪽을/아래쪽을 바라보다.
+ : nach oben/unten schauen
+
+```
+
+------
+
+### Lektion 19.
 
 ```
 
