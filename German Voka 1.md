@@ -1531,7 +1531,7 @@ Ich trockne mir das Haar ab.
 
 ------
 
-### Lektion 18. erklären, erzählen, 
+### Lektion 18. erklären, erzählen, zeigen, schauen
 
 ```
 erklären : 설명하다
