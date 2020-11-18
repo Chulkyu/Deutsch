@@ -536,7 +536,7 @@ Ich vermisse dich -> Ich werde dich vermissen.
 
 
 
-### Sprechen2  Lektion 1. 
+### Sprechen2  Lektion 1. Wie ist die Lage der Wohnung?
 
 ```
 der Immobilienmakler : 부동산 중개인
@@ -578,6 +578,11 @@ A : Hollo, ich heiße Kyu.
 		Ist die Wohnung noch frei?
 B : Guten Tag. Ja, sie ist noch frei.
 		Sie können sie besichtigen.
+A : Davor hätte ich ein paar Fragen.
+		Wie ist die Lage der Wohnung?
+		Gibt es eine Bushaltestelle in der Nähe?
+B : Die Wohnung liegt sehr ruhig.
+		Zur nächsten Bushaltestelle gehen Sie etwa 5 Minuten.
 		
 Davor habe ich ein paar Fragen.
 Wo ist die Wohnung?
