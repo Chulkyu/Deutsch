@@ -532,7 +532,74 @@ Ich vermisse dich -> Ich werde dich vermissen.
 
 ------
 
-### Lektiom 26.
+# Sprechen 2
+
+
+
+### Sprechen2  Lektion 1. 
+
+```
+der Immobilienmakler : 부동산 중개인
+der Makler : 중개인
+lesen - las - gelesen
+lesen - liest - liest
+die Anzeige : 광고
+die Zeitung : 신문
+die Wohnung : 집 (연립주택)
+das Haus : 집 (단독)
+besichtigen : 구경하다
+ein paar + 복수명사 : 몇몇의
+die Frage : 질문
+die Lage : 위치
+die Bushaltestelle : 버스 정류장
+in der Nähe : 가까이에
+Es gibt + 4 : ~이 있다
+liegen : ~에 위치하다
+ruhig : 조용한
+etwa : 약, 대략
+nächst : 가장 가까운
+
+Hallo. Ich bin kyu. Ich sah eine Zeitungsannonce.
+Ist das Zimmer noch frei?
+Hallo. Ja, das Zimmer ist noch frei.
+Du kannst kommen, um das Zimmer zu sehen.
+
+Ich lese eine Anzeige in der Zeitung.
+Ich las eine Anzeige in der Zeitung.
+-> Ich habe eine Anzeige in der Zeitung gelesen.
+Die Wohnung ist noch frei.
+Ist die Wohnung noch frei?
+Ist das Haus noch frei?
+Sie können die Wohnung besichtigen.
+-> Sie können sie besichtigen.
+
+A : Hollo, ich heiße Kyu.
+		Ich habe die Anzeige in der Zeitung gelesen.
+		Ist die Wohnung noch frei?
+B : Guten Tag. Ja, sie ist noch frei.
+		Sie können sie besichtigen.
+		
+Davor habe ich ein paar Fragen.
+Wo ist die Wohnung?
+Ist sie nähe von einer Bushaltestelle?
+Die Wohnung steht sehr ruhe zu sein.
+Es dauert ca. 5 Minuten zur Bushaltestelle.
+
+Ich habe ein paar Fragen.
+Ich hätte ein paar Fragen.
+Davor hätte ich ein paar Fragen.
+Wie ist die Lage der Wohnung?
+Gibt es eine Bushaltestelle?
+Gibt es eine Bushaltestelle in der Nähe?
+Die Wohnung liegt sehr ruhig. : 그 집은 조용한 곳에 위치해 있다.
+Sie gehen etwas 5 Minuten.
+Zur nächsten Bushaltestelle gehen Sie etwa 5 Minuten.
+
+```
+
+------
+
+### Sprechen2 Lektion 2.
 
 ```
 
