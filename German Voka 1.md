@@ -1575,7 +1575,48 @@ nach oben/unten schauen
 
 ------
 
-### Lektion 19.
+### Lektion 19. tauschen, umtauschen, wehseln, ändern
+
+```
+tauschen : 교환하다
+umtauschen : (구입하거나 선물 받은 것을) 교환하다, 환전하다
+gegen + 4 : ~ 대하여
+umtauschen A gegen B : 
+das Geld : 돈
+die Münze : 동전 (pl)Münzen
+der Schein : 지폐 (pl)Scheine
+
+Münzen gegen Scheine umtauschen : 동전을 지폐로 바꾸다.
+die plätze tauschen
+das Essen tauschen
+
+wechseln : 바꾸다
+ändern : (성격, 성질) 변화시키다, 바꾸다
+Ich ändere mich.
+kaputt : 고장난
+defekt : (기계)훼손된
+das Kissen : 베개
+das Betttuch : 시트
+
+das Kissen wechseln
+das Betttuch wechseln
+Wechseln Sie bitte das Kissen.
+das Ziel wechseln 
+die Landschaft ändert	sich
+mich ändere
+den Plan ändern
+
+die Münzen gegen die Scheine umtauschen
+die Plätze tauschen
+das Kissen/Betttuch wechseln
+mich ändern
+die defekte/kaputte Kamera wechseln
+
+```
+
+------
+
+### Lektion 20.
 
 ```
 
