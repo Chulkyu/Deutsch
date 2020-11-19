@@ -559,6 +559,7 @@ ruhig : 조용한
 etwa : 약, 대략
 nächst : 가장 가까운
 
+(Probieren)
 Hallo. Ich bin kyu. Ich sah eine Zeitungsannonce.
 Ist das Zimmer noch frei?
 Hallo. Ja, das Zimmer ist noch frei.
@@ -604,7 +605,80 @@ Zur nächsten Bushaltestelle gehen Sie etwa 5 Minuten.
 
 ------
 
-### Sprechen2 Lektion 2.
+### Sprechen2 Lektion 2. Kommst du heute Abend zu mir?
+
+```
+zufällig : 우연히
+WG(Wohngemeinschaft) : 기숙사
+auf jeden Fall : 무조건, 어떠한 경우에도
+auf keinen Fall : 절대 ~하지 않는다.
+dabei sein : 곁에 있다.
+wen : 누구를
+zu Abend essen : 저녁을 먹다
+
+(Probieren)
+Carla, kommst du heute Abend bei mir?
+Lass uns zusammen zu Abend essen.
+Ich werde Spaghetti kochen.
+Ja, gern. Unbedingt komme ich.
+wen lädst du auch ein?
+
+Kommst du vorbei?
+Kommst du heute Abend?
+Kommst du heute Abend zu mir (rüber)?
+Essen wir zusammen zu Abend!
+Wollen wir zusammen zu Abend essen?
+Lass uns zusammen zu Abend essen.
+Ich koche Spaghetti.
+Ich koche Spaghetti für dich.
+Na klar! Warum nicht? Das hört sich gut an.
+Ich bin dabei. : 무조건 갈게
+Ich bin auf jeden Fall dabei.
+Ich komme vorbei.
+Ich komme sehr gerne vorbei.
+Wen lädst du noch ein?
+Wen hast du noch eingeladen?
+einladen - lud ein - eingeladen
+
+A : Carla! Kommst du heute Abend zu mir?
+		Essen wir zusammen zu Abend.
+		Ich koche Spaghetti für dich.
+B : Na klar! Ich bin auf jeden Fall dabei.
+		Wen hast du noch eingeladen?
+
+feiern : 파티 열다
+endlich : 드디어
+gegen : 약, ~시경
+mitbringen : 가지고 오다
+(pl)Getränke : 마실 것
+
+(Probieren)
+Max und Leonie auch kommen.
+
+Wo für gegen 8 Uhr?
+Gern! Ich bringe Getrinke mit.
+Bis dann!
+
+Wir müssen feiern.
+Es ist endlich Freitag!
+Wir müssen feiern, dass (es) endlich Freitag ist!
+Wie wäre es mit 8 Uhr?
+So gegen acht?
+Ungefähr acht?
+Alles klar! sehr gut! In Ordnung!
+Ich bringe Getränke mit.
+Bis dann! Bis gleich! Bis nachher! Bis später!
+
+A : Max und Leonie kommen auch.
+		Wir müssen feiern, dass endlich Freitag ist.
+		Wie wäre es mit 8 Uhr?
+B : Alles klar! Ich bringe Getränke mit! Bis dann!
+
+```
+
+------
+
+### Sprechen2 Lektion 3.
 
 ```
 
