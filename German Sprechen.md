@@ -678,7 +678,65 @@ B : Alles klar! Ich bringe Getränke mit! Bis dann!
 
 ------
 
-### Sprechen2 Lektion 3.
+### Sprechen2 Lektion 3. Ich bin eifersüchtig.
+
+```
+die Laune : 기분
+melancholisch : 우울한
+deprimiert : 우울한
+depressiv : 우울한
+eifersüchtig : 질투 나는
+
+Was ist los?
+Was ist los mit dir?
+Was ist denn los mit dir?
+Was hast du denn? (무슨 일이야? - 상황에 따라)
+Was ist passiert? 
+Du siehst melancholisch aus.
+Du siehst aber melancholisch aus.
+Du siehst traurig aus.
+Ich bin eifersüchtig.
+Du tanzt mit einer anderen Frau.
+Ich bin eifersüchtig, wenn du mit einer anderen Frau tanzt.
+
+A : Was ist denn los mit dir?
+		Du siehst aber melancholisch aus.
+b :	Ich bin eifersüchtig, wenn du mit einer anderen Frau tanzt.
+
+sauer : 화가 난
+sich ärgern über + 4 : ~에 대해서 화가 나다
+Angst haben vor + 3 : ~에 대해서 무섭다.
+Laune haben : ~한 기분이다.
+
+Warum bist du so sauer?
+Wieso bist du so sauer?
+Warum bist du so wütend?
+Ich ärgere mich.
+Meine Freundin kommt immer zu spät.
+-> Ich ärgere mich, weil meine Freundin immer zu spät kommt.
+Ich habe Angst vor meiner Freundin.
+Sie hat schlechte Laune.
+-> Ich habe Angst vor meiner Freundin, weil sie schlechte Laune hat.
+
+A : Warum bist du so sauer?
+B : Ich ärgere mich, weil meine Freundin immer zu spät kommt.
+A : Ach so...
+		Ich habe Angst vor meiner Freundin,
+		weil sie schlechte Laune hat.
+
+Ich bin glücklich, wenn ich mit meiner Familie bin.
+Sie ist traurig, weil ihr Freund für ein Jahr nach Deutschland geht.
+
+ärgern : ~를 화나게 하다 (타동사)
+ -> Mein Kind ärgert mich.
+sich ärgern : 화나다 (재귀동사)
+ -> Ich ärgere mich. -> 재귀대명사
+ 
+```
+
+------
+
+### Sprechen2 Lektion 4.
 
 ```
 
