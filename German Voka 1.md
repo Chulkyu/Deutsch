@@ -1616,7 +1616,55 @@ die defekte/kaputte Kamera wechseln
 
 ------
 
-### Lektion 20.
+### Lektion 20. besichtigen, anschauen, nachdenken, überlegen
+
+```
+besichtigen : 구경하다
+anschauen : 바라보다
+die Mauer : 담, 벽
+der Bundestag : 연방의회
+bundes : 연방의
+die Säule : 기둥
+Siegessäule : 승전기념탑
+das Tor : 대문, 골(축구)
+
+die Berliner Mauer besichtigen
+mir den Bundestag anschauen
+die Siegessäule besichtigen
+mir das Brandenburger Tor anschauen
+
+nachdenken über + 4 : ~에 대하여 숙고하다
+überlegen : 숙고하다
+über + 4 : ~대하여
+tief : 깊은
+die Weile : 잠시동안
+eine Weile nachdenken / überlegen : 잠시동안 심사숙고한다.
+die Gelegenheit : 기회
+
+tief nachdenken
+eine Weile nachdenken
+über die Gelegenheit nachdenken
+mir die Gelegenheit überlegen
+
+브란덴부르크 문을 구경하다
+ : das Brandenburger Tor besichtigen
+베를린장벽을 바라보다
+ : mir die Berliner Mauer anschauen
+깊이 심사숙고하다
+ : tief nachdenken / überlegen
+그 기회에 대하여 숙고하다.
+ : über die Gelegenheit nachdenken
+ : mir die Gelegenheit überlegen
+심사숙고해 봐야겠다.
+ : Ich überlege es mir.
+잠시동안
+ : eine Weile
+ 
+```
+
+------
+
+### Lektion 21.
 
 ```
 
