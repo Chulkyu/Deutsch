@@ -736,7 +736,70 @@ sich ärgern : 화나다 (재귀동사)
 
 ------
 
-### Sprechen2 Lektion 4.
+### Sprechen2 Lektion 4. Was fehlt Ihnen?
+
+```
+die Erkältung : 감기
+das Fieber : 열
+der Husten : 기침
+außerdem : 게다가
+js. Nase laufen : 콧물이 나다
+(pl) Kopfschmerzen : 두통
+der Schnupfen : 콧물
+zum Arzt gehen : 병원에 가다
+beim Arzt sein/bleiben : 병원에 있다
+Halsschmerzen : 인후통
+aufmachen : 열다
+der Mund : 입
+der Hals : 목
+verschreiben : 처방하다
+die Tablette : 약
+dreimal : 세번
+pro/am Tag : 하루에
+zu Hause : 집에서
+sich ausruhen : 쉬다
+
+
+Ich glaube, ich habe Erkältung. : 나 감기에 걸린 것 같아.
+Ich glaube, ich bin erkältet.
+Ich glaube, ich habe mich erkältet.
+Ich habe Fieber und Husten.
+Außerdem habe ich Kopfschmerzen.
+Mein Kopt tut weh.
+Der Kopf tut mir weh.
+Deine Nase läuft auch.
+Du hast Schnupfen.
+Du solltest zum Arzt gehen.
+
+A : Ich glaube, ich bin erkältet.
+		Ich habe Fieber und Husten.
+		Außerdem habe ich Kopfschmerzen.
+B : Deine Nase läuft auch.
+		Du solltest zum Arzt gehen.
+		
+Was fehlt Ihnen? : 어디가 아프신가요?
+Was fehlt dir?
+wo haben Sie Schmerzen?
+Ich habe #부위-schmerzen.
+Mein Kopf tut weh.
+Machen Sie bitte den Mund auf und sagen Sie Aaah!
+Ich verschreibe Ihnen die Tabletten.
+Nehmen Sie sie dreimal am Tag.
+Sie sollten sich zu Hause ausruhen.
+
+(C : Der nächste, bitte.)
+A : Was fehlt Ihnen?
+B : Ich habe Halsschmerzen und mein Kopf tut weh.
+A : Machen Sie bitte den Mund auf und sagen Sie Aaah!
+		Ich verschreibe Ihnen die Tabletten.
+		Nehmen Sie sie dreimal am Tag.
+		und Sie sollten sich zu Hause ausruhen.
+		
+```
+
+------
+
+### Sprechen2 Lektion 5.
 
 ```
 
