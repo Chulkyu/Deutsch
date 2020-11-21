@@ -1664,7 +1664,50 @@ mir die Gelegenheit überlegen
 
 ------
 
-### Lektion 21.
+### Lektion 21. vorschlagen, vorstellen, einladen, absagen
+
+```
+vorschlagen : 제안하다
+vorstellen : 소개하다
+das Handschütteln : 악수
+der Gruß : 인사
+zum ersten Mal : 처음으로
+herzlich : 진심으로
+
+Handschütteln vorschlagen
+den Bundestag vorstellen
+mich vorstellen
+
+einladen : 초대하다
+absagen : 취소하다
+zu : ~로
+das Fest : 축제
+der Besuch : 방문
+plötzlich : 갑자기
+
+zu einem Kaffee einladen
+zum Fest einladen
+zu einer Party einladen
+plötzlich absagen
+den Besuch absagen
+
+브란덴부르크 문을 제안하다.
+ : das Brandenburger Tor vorschlagen.
+악수하다.
+ : die Hände schütteln
+나를 소개하다.
+ : Ich stelle mich vor.
+그 축제 초대하다.
+ : zu dem Fest einlagen.
+방문을 갑자기 취소하다.
+ : den Besuch plötzlich absagen.
+ 	 Ich sage den Besuch plötzlich ab.
+
+```
+
+------
+
+### Lektion 22.
 
 ```
 
