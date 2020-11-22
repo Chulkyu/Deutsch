@@ -1581,7 +1581,7 @@ nach oben/unten schauen
 tauschen : 교환하다
 umtauschen : (구입하거나 선물 받은 것을) 교환하다, 환전하다
 gegen + 4 : ~ 대하여
-umtauschen A gegen B : 
+umtauschen A gegen B : A를 B로 교환하다.
 das Geld : 돈
 die Münze : 동전 (pl)Münzen
 der Schein : 지폐 (pl)Scheine
@@ -1707,7 +1707,55 @@ den Besuch absagen
 
 ------
 
-### Lektion 22.
+### Lektion 22. erfahren, erleben, benutzen, genießen
+
+```
+erfahren : 경험하다
+erlebern : 체험하다
+seltsam : 이상한
+komisch : 우습게 이상한, 이해가 안되고 파악이 안되는 상황, 어이없는
+unglaublich : 믿을 수 없는
+wunderbar : 놀랄만큼 멋진
+
+etwas Seltsames erfahren
+etwas Komisches erfahren
+etwas Unglaubliches erleben
+etwas Wunderbares erleben
+
+benutzen : 사용하다
+genießen : 즐기다 - genoss - genossen
+das Internet : 인터넷
+das WLAN : 무선인터넷
+die Natur : 자연
+die wissenschaft : 학문
+die Luft : 공기
+die Luftpost : 항공우편
+frisch : 신선한
+
+das Internet benutzen
+das WLAN benutzen
+frische Luft genießen
+die Natur genießen
+die schöne Zeit genießen
+
+너무나도 멋진 것을 경험하다.
+ : etwas Wunderbares erfahren.
+이상한 것을 체험하다.
+ : etwas Seltsames erleben.
+무선인터넷을 사용하다.
+ : das WLAN benutzen.
+맑은 공기를 즐기다.
+ : frische Luft genießen.
+여가시간을 즐기다.
+ : Freizeit genießen.
+아름다운 자연을 즐기다.
+ : die schöne Natur genießen.
+ 
+```
+
+------
+
+### Lektion 23.
 
 ```
 
