@@ -799,7 +799,79 @@ A : Machen Sie bitte den Mund auf und sagen Sie Aaah!
 
 ------
 
-### Sprechen2 Lektion 5.
+### Sprechen2 Lektion 5. Du hast mir geholfen, als ich sehr beschäftigt war.
+
+```
+vorbereiten : 준비하다
+die Präsentation : 발표
+beantworten : 답장하다
+aufräumen : 정리하다
+der Konferenzraum : 회의실
+allein(e) : 혼자
+schaffen : 해내다
+
+Ich habe viel zu tun.
+Ich bin viel beschäftigt. : 나는 바쁘다.
+Was musst du denn machen? : 뭐 해야 하는데?
+Was denn?
+Ich muss #목적어 #동사원형
+Ich muss die Präsentation vorbereiten.
+die E-Mails beantworten.
+den Konferenzraum aufräumen.
+Das schaffe ich nicht alleine !
+Das kann ich nicht allein machen !
+
+A : Mein Gott! Ich habe viel zu tun.
+B : Was denn?
+A : Ich muss die Präsentation vorbereiten, die E-Mails beantworten,
+		dazu noch den Konferenzraum aufräumen.
+		Das schaffe ich nict alleine.
+
+Sorge machen : 걱정하다
+retten : 구하다
+wenn : ~ 한다면
+als : ~ 했을 때
+brauchen nicht ... zu Inf / müssen nicht ... Inf : ~할 필요 없다.
+Du brauchst das nicht alleine zu machen.
+-> Du musst das nicht alleine machen.
+Du brauchst nicht zu kommen.
+-> Du musst nicht kommen.
+Ich helfe dir.
+Ich werde dir helfen.
+Mach dir keine Sorge! : 걱정하지마!
+Keine Sorge!
+Wie wäre es, wenn S ... V ? : ~ 하면 어떨까?
+Wie wäre es, wenn ich die E-mails beantworten würde?
+würden + Inf : ~ 하면 좋을텐데, ~ 할 텐데
+Ich würde schlafen. Ich würde gehen.
+Du hast mich gerettet. : 네가 나를 구했어.
+Du bist meine Rettung! : 네가 나의 구원자야.
+Nichts zu danken. : 아냐 (감사인사에 대한 대답)
+Gern geschehen.
+Keine Ursache.
+Du hast mir geholfen.
+Ich war sehr beschäftigt.
+Du hast mir auch geholfen, als ich sehr beschäftigt war.
+
+B : Du brauchst das nicht alleine zu machen. Ich helfe dir.
+A : Wirklich?
+B : Ja, Keine Sorge!
+		Wie wäre es, wenn ich die E-mails beantworten würde?
+A : Danke schön! Du hast mich gerettet.
+B : Nichts zu danken. Du hast mir auch geholfen,
+		als ich serh beschäftigt war.
+
+wenn VS. als
+wenn : ~하면, 한다면 (반복, 과거, 현재, 미래)
+Wenn er nach Hause kommt. : 그가 집에 온다면
+
+als : ~했을 때 (일회적, 과거)
+Als er nach Hause kam.
+```
+
+------
+
+### Sprechen2 Lektion 6.
 
 ```
 
