@@ -1755,11 +1755,54 @@ die schöne Zeit genießen
 
 ------
 
-### Lektion 23.
+### Lektion 23. wünschen, hoffen, 
 
 ```
+wünschen : 기원하다
+hoffen : 희망하다
+hoffentlich : 바라건대
+die Hoffnung : 희망
+der Wunsch : 소망
+das Glück : 행운
+das Pech : 불운
+Pech haben : 운이 안좋다.
+
+mir Glück wünschen : 내게 행운을 기원하다.
+auf ein gutes Wetter hoffen : 좋은 날씨를 바라다.
+eine Hoffnung haben : 희망을 가지다.
+einen Wunsch : 소망을 가지다.
+
+drücken : 누르다
+ziehen : 끌어 당기다
+stark : 강하게
+der Daume : 엄지손가락
+der Vorhang : 커튼
+der Schwamm : 스폰지
+Ich drücke dir stark die Daumen !
+
+den Vorhang ziehen : 커튼을 치다.
+der Schwamm zieht das Wasser : 그 스펀지가 그 물을 흡수한다.
+
+하나의 좋은 날을 기원하다.
+ : einen guten Tag wünschen
+좋은 날씨를 희망하다.
+ : auf ein gutes Wetter hoffen
+행운을 기원해줘.
+ : Wunsch mir Glück
+행운을 빌어.
+ : Ich drücke dir die Daumen.
+커튼을 치다.
+ : einen Vorhang ziehen
+스폰지가 물을 흡수하다.
+ : Der Schwamm zieht das Wasser.
 
 ```
 
 ------
+
+### Lektion 24.
+
+```
+
+```
 

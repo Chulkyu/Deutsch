@@ -871,7 +871,66 @@ Als er nach Hause kam.
 
 ------
 
-### Sprechen2 Lektion 6.
+### Sprechen2 Lektion 6. Kyu hat heute ein Bewerbungsgespräch.
+
+```
+hereinkommen : 들어오다
+sich vorstellen : 소개하다
+die Sprachschule : 어학원
+die Universität : 대학교
+die Wirtschaft : 경제(학)
+das Praktikum : 인턴
+die Fremdsprache : 외국어
+sich bewerben bei + 3 / um + 4 : ~에 지원하다
+das Französisch : 프랑스어
+die Sprachfähigkeit : 언어능력
+Benutzen : 사용하다
+ein bisschen : 약간
+ein wenig : 약간
+
+들어오세요!
+Kommen Sie herein!
+Kommen Sie doch bitte rein!
+
+당신을 좀 알고 싶어요.
+Ich möchte Sie kennenlernen.
+
+대학에서 경제를 전공했어요.
+Ich studiere an der Uni Wirtschaft.
+Ich habe an der Uni Wirtschaft studiert.
+
+어학원에서 인턴으로 일을 했어요.
+Ich mache ein Praktikum bei einer Sprachschule.
+Ich habe ein Praktikum bei einer Sprachschule gemacht.
+
+어떤 외국어를 하실 줄 아시나요?
+Welche Sprachen können Sie sprechen?
+
+저희 회사에 왜 지원하셨나요?
+Warum bewerben Sie sich bei uns?
+Warum haben Sie sich bei uns beworben?
+
+이 능력을 회사에서 사용하고 싶습니다.
+Ich möchte diese Sprachfähigkeit bei Ihrer Firma benutzen.
+
+
+A : Guten Tag, Frau Weber. kommen Sie bitte rein!
+B : Guten Tag, Herr Schmidt.
+A : Wir möchten Sie kennenlernen. Stellen Sie sich bitte vor.
+B : Ja. Mein Name ist Kyu und ich bin 33 Jahre alt.
+		Ich habe an der Uni Wirschaft studiert und ein Praktikum
+		bei einer Sprachschule gemacht.
+
+A : Ach so. Welche Sprachen können Sie sprechen,
+		und warum haben Sie sich bei uns beworben?
+B : Ich kann Deutsch, Englisch und ein bisschen Französisch.
+		Diese Sprachfähigkeit möchte ich bei Ihrer Firma benutzen.
+		
+```
+
+------
+
+### Sprechen2 Lektion 7.
 
 ```
 
