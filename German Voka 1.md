@@ -1800,7 +1800,47 @@ der Schwamm zieht das Wasser : 그 스펀지가 그 물을 흡수한다.
 
 ------
 
-### Lektion 24.
+### Lektion 24. s.entscheiden, s.entschließen, umbuchen, verschieben
+
+```
+s.entscheiden : 결정하다
+s.entschließen : 결심하다
+für + 4 : ~에 대하여 (찬성)
+gegen + 4 : ~에 반대하여
+über + 4 : ~에 대하여 (중립)
+die Rückkehr : 귀환
+kehren : 이끌다, 가다
+umbuchen : 예약을 바꾸다
+verschieben : 밀어서 바꾸다 (물건, 날짜)
+auf : ~로
+die Reservierung : 예약
+die Buchung : 예약
+der Termin : 일정
+
+für die Rückkehr mich entscheiden : 그 귀환에 찬성하여 결정하다
+über die Rückkehr mich entscheiden
+gegen die Rückkehr mich entscheiden
+
+auf morgen umbuchen
+den Flug umbuchen
+die Reservierung verschieben
+
+그 계획에 대해 결정하다.
+ : sich über den Plan entscheiden
+결정하다
+ : s.entscheiden
+내일로 비행기 예약을 바꾸다.
+ : den Flug auf morgen umbuchen / verschieben
+일정을 미루다.
+ : den Termin verschieben
+그 예약을 월요일로 미루다.
+ : die Buchung auf Montag verschieben
+
+```
+
+------
+
+### Lektion 25.
 
 ```
 
