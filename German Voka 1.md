@@ -1840,9 +1840,48 @@ die Reservierung verschieben
 
 ------
 
-### Lektion 25.
+### Lektion 25. Verstehen, 
 
 ```
+verstehen : 이해하다
+kennenlernen : 알게되다
+die Kultur : 문화
+die Gewohnheit : 관습
+einander : 상호간
+unvergesslich : 잊을 수 없는
+Ich bin vergesslich : 나는 건망증이 있어.
+erinnern : 상기시키다.
+Du erinnerst mich : 너가 나를 상기시킨다.
+an + 4 : ~에 대하여
+Ich erinnere mich an dich : 난 너를 기억해
+sich unterhalten : 담소를 나누다.
+verschieden : 여러 가지의
+die Politik : 정치
+
+einander verstehen
+einander kennenlernen
+die Kultur verstehen
+die Gewohnheit kennenlernen
+etwas Unvergessliches kennenlernen
+
+an dich erinnern mich
+an Deutschland erinnern mich
+an die Kultur erinnern mich
+sich einander unterhalten
+über Politik unterhalten
+über verschiedene Sachen
+Wir unterhalten uns über verschiedene Sachen
+
+서로 이해하다.
+ : einander verstehen.
+관습을 알게 되다.
+ : die Gewohnheit kennenlernen.
+못 잊을만한 것을 알게 되다.
+ : etwas Unvergessliches kennenlernen.
+너에 대해 기억하다.
+ : Ich erinnere mich an dich.
+정치에 대해 담소를 나누다.
+ : sich unterhalten über Politik.
 
 ```
 
